@@ -1,0 +1,687 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+requests,models.py,Simple List,646,657,16,A1
+requests,models.py,Simple List,89,89,14,A1
+requests,models.py,Simple List,151,151,21,A1
+requests,models.py,Simple List,686,686,23,A1
+requests,models.py,Simple List,273,273,15,A1
+requests,models.py,Simple List,274,274,16,A1
+requests,models.py,Simple List,519,522,12,A1
+requests,models.py,Simple List,636,636,25,A1
+requests,models.py,Simple List,157,157,22,A1
+requests,models.py,Simple List,481,481,37,A1
+requests,models.py,Simple List,120,120,21,A1
+requests,models.py,Simple List,123,123,25,A1
+requests,models.py,Simple Tuple,71,77,17,A1
+requests,models.py,Simple Tuple,155,155,12,A1
+requests,models.py,Simple Tuple,173,173,12,A1
+requests,models.py,Simple Tuple,201,201,8,A1
+requests,models.py,Simple Tuple,203,203,15,A1
+requests,models.py,Simple Tuple,280,280,12,A1
+requests,models.py,Simple Tuple,721,721,12,A1
+requests,models.py,Simple Tuple,115,115,28,A1
+requests,models.py,Simple Tuple,434,434,12,A1
+requests,models.py,Simple Tuple,471,471,30,A1
+requests,models.py,Simple Tuple,933,933,15,A1
+requests,models.py,Simple Tuple,177,177,29,A1
+requests,models.py,Simple Tuple,188,188,30,A1
+requests,models.py,Simple Tuple,456,456,29,A1
+requests,models.py,Simple Tuple,492,492,16,A1
+requests,models.py,Simple Tuple,528,528,19,A1
+requests,models.py,Simple Tuple,556,556,16,A1
+requests,models.py,Simple Tuple,780,783,66,A1
+requests,models.py,Simple Tuple,121,121,16,A1
+requests,models.py,Simple Tuple,179,179,20,A1
+requests,models.py,Simple Tuple,582,582,31,A1
+requests,models.py,Simple Tuple,165,170,24,A1
+requests,models.py,Simple Tuple,181,181,20,A1
+requests,models.py,Simple Tuple,183,183,20,A1
+requests,models.py,Simple Tuple,521,521,37,A1
+requests,models.py,Simple Tuple,127,130,28,A1
+requests,models.py,Simple Dictionary,983,983,25,A2
+requests,models.py,Simple Dictionary,275,275,18,A2
+requests,models.py,Simple Dictionary,276,276,17,A2
+requests,models.py,Simple Dictionary,277,277,16,A2
+requests,models.py,Simple Dictionary,692,692,43,A2
+requests,models.py,Simple Dictionary,152,152,41,A2
+requests,models.py,Simple Dictionary,153,153,41,A2
+requests,models.py,Files --> 'read' call function,191,191,24,A2
+requests,models.py,Files --> 'read' call function,828,828,28,A2
+requests,models.py,If statements expression (else),273,273,15,B1
+requests,models.py,If statements expression (else),274,274,16,B1
+requests,models.py,If statements expression (else),275,275,18,B1
+requests,models.py,If statements expression (else),276,276,17,B1
+requests,models.py,If statements expression (else),277,277,16,B1
+requests,models.py,If statements expression (else),387,387,20,B1
+requests,models.py,If statements expression (else),846,846,17,B1
+requests,models.py,If statements expression (else),595,595,19,B1
+requests,models.py,If statements expression (else),166,168,28,B1
+requests,models.py,If statements expression (else),169,169,28,B1
+requests,models.py,If statements expression (else),128,128,32,B1
+requests,models.py,If statements expression (else),129,129,32,B1
+requests,models.py,Simple Atributte,72,72,4,A2
+requests,models.py,Simple Atributte,73,73,4,A2
+requests,models.py,Simple Atributte,74,74,4,A2
+requests,models.py,Simple Atributte,75,75,4,A2
+requests,models.py,Simple Atributte,76,76,4,A2
+requests,models.py,Simple Atributte,93,93,15,A2
+requests,models.py,Simple Atributte,99,99,16,A2
+requests,models.py,Simple Atributte,279,279,8,A2
+requests,models.py,Simple Atributte,283,283,8,A2
+requests,models.py,Simple Atributte,284,284,8,A2
+requests,models.py,Simple Atributte,285,285,8,A2
+requests,models.py,Simple Atributte,286,286,8,A2
+requests,models.py,Simple Atributte,287,287,8,A2
+requests,models.py,Simple Atributte,288,288,8,A2
+requests,models.py,Simple Atributte,289,289,8,A2
+requests,models.py,Simple Atributte,290,290,8,A2
+requests,models.py,Simple Atributte,291,291,8,A2
+requests,models.py,Simple Atributte,337,337,8,A2
+requests,models.py,Simple Atributte,339,339,8,A2
+requests,models.py,Simple Atributte,341,341,8,A2
+requests,models.py,Simple Atributte,344,344,8,A2
+requests,models.py,Simple Atributte,346,346,8,A2
+requests,models.py,Simple Atributte,348,348,8,A2
+requests,models.py,Simple Atributte,350,350,8,A2
+requests,models.py,Simple Atributte,385,385,8,A2
+requests,models.py,Simple Atributte,385,385,19,A2
+requests,models.py,Simple Atributte,386,386,8,A2
+requests,models.py,Simple Atributte,386,386,16,A2
+requests,models.py,Simple Atributte,387,387,8,A2
+requests,models.py,Simple Atributte,388,388,8,A2
+requests,models.py,Simple Atributte,389,389,8,A2
+requests,models.py,Simple Atributte,389,389,17,A2
+requests,models.py,Simple Atributte,390,390,8,A2
+requests,models.py,Simple Atributte,390,390,18,A2
+requests,models.py,Simple Atributte,391,391,8,A2
+requests,models.py,Simple Atributte,391,391,27,A2
+requests,models.py,Simple Atributte,396,396,8,A2
+requests,models.py,Simple Atributte,482,482,8,A2
+requests,models.py,Simple Atributte,487,487,8,A2
+requests,models.py,Simple Atributte,571,571,8,A2
+requests,models.py,Simple Atributte,660,660,8,A2
+requests,models.py,Simple Atributte,661,661,8,A2
+requests,models.py,Simple Atributte,662,662,8,A2
+requests,models.py,Simple Atributte,665,665,8,A2
+requests,models.py,Simple Atributte,670,670,8,A2
+requests,models.py,Simple Atributte,675,675,8,A2
+requests,models.py,Simple Atributte,678,678,8,A2
+requests,models.py,Simple Atributte,681,681,8,A2
+requests,models.py,Simple Atributte,686,686,8,A2
+requests,models.py,Simple Atributte,689,689,8,A2
+requests,models.py,Simple Atributte,692,692,8,A2
+requests,models.py,Simple Atributte,700,700,8,A2
+requests,models.py,Simple Atributte,704,704,8,A2
+requests,models.py,Simple Atributte,739,739,15,A2
+requests,models.py,Simple Atributte,749,749,15,A2
+requests,models.py,Simple Atributte,788,788,15,A2
+requests,models.py,Simple Atributte,901,901,8,A2
+requests,models.py,Simple Atributte,904,904,15,A2
+requests,models.py,Simple Atributte,921,921,19,A2
+requests,models.py,Simple Atributte,91,91,21,A2
+requests,models.py,Simple Atributte,97,97,8,A2
+requests,models.py,Simple Atributte,104,104,15,A2
+requests,models.py,Simple Atributte,210,210,24,A2
+requests,models.py,Simple Atributte,299,299,8,A2
+requests,models.py,Simple Atributte,367,367,8,A2
+requests,models.py,Simple Atributte,368,368,8,A2
+requests,models.py,Simple Atributte,369,369,8,A2
+requests,models.py,Simple Atributte,370,370,8,A2
+requests,models.py,Simple Atributte,371,371,8,A2
+requests,models.py,Simple Atributte,372,372,8,A2
+requests,models.py,Simple Atributte,378,378,8,A2
+requests,models.py,Simple Atributte,388,388,38,A2
+requests,models.py,Simple Atributte,397,397,11,A2
+requests,models.py,Simple Atributte,398,398,12,A2
+requests,models.py,Simple Atributte,406,406,15,A2
+requests,models.py,Simple Atributte,423,423,14,A2
+requests,models.py,Simple Atributte,429,429,12,A2
+requests,models.py,Simple Atributte,474,474,21,A2
+requests,models.py,Simple Atributte,622,622,31,A2
+requests,models.py,Simple Atributte,623,623,12,A2
+requests,models.py,Simple Atributte,625,625,12,A2
+requests,models.py,Simple Atributte,627,627,42,A2
+requests,models.py,Simple Atributte,700,700,23,A2
+requests,models.py,Simple Atributte,710,710,8,A2
+requests,models.py,Simple Atributte,715,715,15,A2
+requests,models.py,Simple Atributte,716,716,12,A2
+requests,models.py,Simple Atributte,721,721,27,A2
+requests,models.py,Simple Atributte,753,753,15,A2
+requests,models.py,Simple Atributte,833,833,12,A2
+requests,models.py,Simple Atributte,835,835,11,A2
+requests,models.py,Simple Atributte,842,842,36,A2
+requests,models.py,Simple Atributte,846,846,34,A2
+requests,models.py,Simple Atributte,865,865,21,A2
+requests,models.py,Simple Atributte,891,891,11,A2
+requests,models.py,Simple Atributte,893,893,15,A2
+requests,models.py,Simple Atributte,923,923,15,A2
+requests,models.py,Simple Atributte,927,927,11,A2
+requests,models.py,Simple Atributte,928,928,23,A2
+requests,models.py,Simple Atributte,952,952,33,A2
+requests,models.py,Simple Atributte,981,981,17,A2
+requests,models.py,Simple Atributte,998,998,22,A2
+requests,models.py,Simple Atributte,1008,1008,21,A2
+requests,models.py,Simple Atributte,1010,1010,18,A2
+requests,models.py,Simple Atributte,1029,1029,15,A2
+requests,models.py,Simple Atributte,1032,1032,31,A2
+requests,models.py,Simple Atributte,101,101,12,A2
+requests,models.py,Simple Atributte,102,102,12,A2
+requests,models.py,Simple Atributte,198,198,12,A2
+requests,models.py,Simple Atributte,199,199,12,A2
+requests,models.py,Simple Atributte,214,214,12,A2
+requests,models.py,Simple Atributte,224,224,12,A2
+requests,models.py,Simple Atributte,280,280,27,A2
+requests,models.py,Simple Atributte,281,281,12,A2
+requests,models.py,Simple Atributte,294,294,28,A2
+requests,models.py,Simple Atributte,300,300,19,A2
+requests,models.py,Simple Atributte,301,301,16,A2
+requests,models.py,Simple Atributte,302,302,20,A2
+requests,models.py,Simple Atributte,303,303,18,A2
+requests,models.py,Simple Atributte,304,304,17,A2
+requests,models.py,Simple Atributte,305,305,17,A2
+requests,models.py,Simple Atributte,306,306,19,A2
+requests,models.py,Simple Atributte,307,307,17,A2
+requests,models.py,Simple Atributte,308,308,20,A2
+requests,models.py,Simple Atributte,309,309,18,A2
+requests,models.py,Simple Atributte,381,381,36,A2
+requests,models.py,Simple Atributte,387,387,43,A2
+requests,models.py,Simple Atributte,387,387,20,A2
+requests,models.py,Simple Atributte,405,405,19,A2
+requests,models.py,Simple Atributte,418,418,18,A2
+requests,models.py,Simple Atributte,456,456,13,A2
+requests,models.py,Simple Atributte,489,489,26,A2
+requests,models.py,Simple Atributte,565,565,12,A2
+requests,models.py,Simple Atributte,594,594,41,A2
+requests,models.py,Simple Atributte,606,606,12,A2
+requests,models.py,Special Class Attribute __dict__,606,606,33,B2
+requests,models.py,Simple Atributte,609,609,12,A2
+requests,models.py,Simple Atributte,609,609,40,A2
+requests,models.py,Simple Atributte,629,629,12,A2
+requests,models.py,Simple Atributte,638,638,12,A2
+requests,models.py,Simple Atributte,718,718,60,A2
+requests,models.py,Simple Atributte,729,729,29,A2
+requests,models.py,Simple Atributte,765,765,12,A2
+requests,models.py,Simple Atributte,775,775,29,A2
+requests,models.py,Simple Atributte,775,775,46,A2
+requests,models.py,Simple Atributte,780,780,29,A2
+requests,models.py,Simple Atributte,780,780,46,A2
+requests,models.py,Simple Atributte,793,793,15,A2
+requests,models.py,Simple Atributte,793,793,30,A2
+requests,models.py,Simple Atributte,814,814,23,A2
+requests,models.py,Simple Atributte,835,835,49,A2
+requests,models.py,Simple Atributte,897,897,16,A2
+requests,models.py,Simple Atributte,899,899,16,A2
+requests,models.py,Simple Atributte,932,932,26,A2
+requests,models.py,Simple Atributte,952,952,15,A2
+requests,models.py,Simple Atributte,957,957,38,A2
+requests,models.py,Simple Atributte,971,971,19,A2
+requests,models.py,Simple Atributte,971,971,37,A2
+requests,models.py,Simple Atributte,981,981,17,A2
+requests,models.py,Simple Atributte,1015,1015,20,A2
+requests,models.py,Simple Atributte,1030,1030,12,A2
+requests,models.py,Simple Atributte,216,216,12,A2
+requests,models.py,Simple Atributte,387,387,20,A2
+requests,models.py,Simple Atributte,398,398,43,A2
+requests,models.py,Simple Atributte,428,428,30,A2
+requests,models.py,Simple Atributte,453,453,23,A2
+requests,models.py,Simple Atributte,493,493,16,A2
+requests,models.py,Simple Atributte,511,511,23,A2
+requests,models.py,Simple Atributte,516,516,23,A2
+requests,models.py,Simple Atributte,538,538,20,A2
+requests,models.py,Simple Atributte,550,550,16,A2
+requests,models.py,Simple Atributte,552,552,16,A2
+requests,models.py,Simple Atributte,556,556,39,A2
+requests,models.py,Simple Atributte,568,568,55,A2
+requests,models.py,Simple Atributte,569,569,16,A2
+requests,models.py,Simple Atributte,580,580,16,A2
+requests,models.py,Simple Atributte,582,582,12,A2
+requests,models.py,Simple Atributte,587,587,12,A2
+requests,models.py,Special Class Attribute __dict__,606,606,12,B2
+requests,models.py,Simple Atributte,781,781,12,A2
+requests,models.py,Simple Atributte,782,782,12,A2
+requests,models.py,Simple Atributte,873,873,24,A2
+requests,models.py,Simple Atributte,875,875,24,A2
+requests,models.py,Simple Atributte,878,878,26,A2
+requests,models.py,Simple Atributte,896,896,15,A2
+requests,models.py,Simple Atributte,896,896,40,A2
+requests,models.py,Simple Atributte,940,940,26,A2
+requests,models.py,Simple Atributte,952,952,54,A2
+requests,models.py,Simple Atributte,975,975,42,A2
+requests,models.py,Simple Atributte,975,975,49,A2
+requests,models.py,Simple Atributte,975,975,56,A2
+requests,models.py,Simple Atributte,1004,1004,25,A2
+requests,models.py,Simple Atributte,1012,1012,19,A2
+requests,models.py,Simple Atributte,1012,1012,70,A2
+requests,models.py,Simple Atributte,1030,1030,12,A2
+requests,models.py,Simple Atributte,164,164,20,A2
+requests,models.py,Simple Atributte,191,191,24,A2
+requests,models.py,Simple Atributte,214,214,12,A2
+requests,models.py,Simple Atributte,224,224,12,A2
+requests,models.py,Simple Atributte,398,398,43,A2
+requests,models.py,Simple Atributte,405,405,19,A2
+requests,models.py,Simple Atributte,436,436,30,A2
+requests,models.py,Simple Atributte,538,538,42,A2
+requests,models.py,Simple Atributte,542,542,20,A2
+requests,models.py,Simple Atributte,559,559,27,A2
+requests,models.py,Simple Atributte,583,583,16,A2
+requests,models.py,Simple Atributte,828,828,28,A2
+requests,models.py,Simple Atributte,899,899,32,A2
+requests,models.py,Simple Atributte,960,960,27,A2
+requests,models.py,Simple Atributte,989,989,22,A2
+requests,models.py,Simple Atributte,989,989,41,A2
+requests,models.py,Simple Atributte,1004,1004,25,A2
+requests,models.py,Simple Atributte,1006,1006,25,A2
+requests,models.py,Simple Atributte,1017,1017,19,A2
+requests,models.py,Simple Atributte,1017,1017,70,A2
+requests,models.py,Simple Atributte,216,216,12,A2
+requests,models.py,Simple Atributte,428,428,30,A2
+requests,models.py,Simple Atributte,583,583,16,A2
+requests,models.py,Simple Atributte,816,816,31,A2
+requests,models.py,Simple Atributte,828,828,28,A2
+requests,models.py,Simple Atributte,899,899,41,A2
+requests,models.py,Simple Atributte,960,960,45,A2
+requests,models.py,Simple Atributte,968,968,50,A2
+requests,models.py,Simple Atributte,968,968,57,A2
+requests,models.py,Simple Atributte,968,968,64,A2
+requests,models.py,Simple Atributte,1006,1006,25,A2
+requests,models.py,Simple Atributte,816,816,31,A2
+requests,models.py,Simple Atributte,960,960,45,A2
+requests,models.py,Simple Atributte,126,126,24,A2
+requests,models.py,Simple Atributte,166,166,28,A2
+requests,models.py,Simple Atributte,169,169,28,A2
+requests,models.py,Simple Atributte,128,128,32,A2
+requests,models.py,Simple Atributte,129,129,32,A2
+requests,models.py,Generator Expression,216,216,36,C1
+requests,models.py,Simple Dictionary Comprehension,718,718,15,C1
+requests,models.py,Simple Assignment,71,77,0,A1
+requests,models.py,Simple Assignment,79,79,0,A1
+requests,models.py,Assigment with sum (total = total + 1),80,80,0,A1
+requests,models.py,Simple Assignment,81,81,0,A1
+requests,models.py,Simple Assignment,646,657,4,A1
+requests,models.py,Simple Assignment,89,89,8,A1
+requests,models.py,Simple Assignment,91,91,8,A1
+requests,models.py,Simple Assignment,93,93,8,A1
+requests,models.py,Simple Assignment,99,99,8,A1
+requests,models.py,Simple Assignment,151,151,8,A1
+requests,models.py,Simple Assignment,152,152,8,A1
+requests,models.py,Simple Assignment,153,153,8,A1
+requests,models.py,Simple Assignment,201,201,8,A1
+requests,models.py,Simple Assignment,273,273,8,A1
+requests,models.py,Simple Assignment,274,274,8,A1
+requests,models.py,Simple Assignment,275,275,8,A1
+requests,models.py,Simple Assignment,276,276,8,A1
+requests,models.py,Simple Assignment,277,277,8,A1
+requests,models.py,Simple Assignment,279,279,8,A1
+requests,models.py,Simple Assignment,283,283,8,A1
+requests,models.py,Simple Assignment,284,284,8,A1
+requests,models.py,Simple Assignment,285,285,8,A1
+requests,models.py,Simple Assignment,286,286,8,A1
+requests,models.py,Simple Assignment,287,287,8,A1
+requests,models.py,Simple Assignment,288,288,8,A1
+requests,models.py,Simple Assignment,289,289,8,A1
+requests,models.py,Simple Assignment,290,290,8,A1
+requests,models.py,Simple Assignment,291,291,8,A1
+requests,models.py,Simple Assignment,298,298,8,A1
+requests,models.py,Simple Assignment,337,337,8,A1
+requests,models.py,Simple Assignment,339,339,8,A1
+requests,models.py,Simple Assignment,341,341,8,A1
+requests,models.py,Simple Assignment,344,344,8,A1
+requests,models.py,Simple Assignment,346,346,8,A1
+requests,models.py,Simple Assignment,348,348,8,A1
+requests,models.py,Simple Assignment,350,350,8,A1
+requests,models.py,Simple Assignment,384,384,8,A1
+requests,models.py,Simple Assignment,385,385,8,A1
+requests,models.py,Simple Assignment,386,386,8,A1
+requests,models.py,Simple Assignment,387,387,8,A1
+requests,models.py,Simple Assignment,388,388,8,A1
+requests,models.py,Simple Assignment,389,389,8,A1
+requests,models.py,Simple Assignment,390,390,8,A1
+requests,models.py,Simple Assignment,391,391,8,A1
+requests,models.py,Simple Assignment,396,396,8,A1
+requests,models.py,Simple Assignment,423,423,8,A1
+requests,models.py,Simple Assignment,460,460,8,A1
+requests,models.py,Simple Assignment,474,474,8,A1
+requests,models.py,Simple Assignment,481,481,8,A1
+requests,models.py,Simple Assignment,482,482,8,A1
+requests,models.py,Simple Assignment,487,487,8,A1
+requests,models.py,Simple Assignment,502,502,8,A1
+requests,models.py,Simple Assignment,503,503,8,A1
+requests,models.py,Simple Assignment,518,523,8,A1
+requests,models.py,Simple Assignment,571,571,8,A1
+requests,models.py,Simple Assignment,627,627,8,A1
+requests,models.py,Simple Assignment,636,636,8,A1
+requests,models.py,Simple Assignment,660,660,8,A1
+requests,models.py,Simple Assignment,661,661,8,A1
+requests,models.py,Simple Assignment,662,662,8,A1
+requests,models.py,Simple Assignment,665,665,8,A1
+requests,models.py,Simple Assignment,670,670,8,A1
+requests,models.py,Simple Assignment,675,675,8,A1
+requests,models.py,Simple Assignment,678,678,8,A1
+requests,models.py,Simple Assignment,681,681,8,A1
+requests,models.py,Simple Assignment,686,686,8,A1
+requests,models.py,Simple Assignment,689,689,8,A1
+requests,models.py,Simple Assignment,692,692,8,A1
+requests,models.py,Simple Assignment,700,700,8,A1
+requests,models.py,Simple Assignment,704,704,8,A1
+requests,models.py,Simple Assignment,842,842,8,A1
+requests,models.py,Simple Assignment,844,844,8,A1
+requests,models.py,Simple Assignment,846,846,8,A1
+requests,models.py,Simple Assignment,863,863,8,A1
+requests,models.py,Simple Assignment,901,901,8,A1
+requests,models.py,Simple Assignment,920,920,8,A1
+requests,models.py,Simple Assignment,921,921,8,A1
+requests,models.py,Simple Assignment,981,981,8,A1
+requests,models.py,Simple Assignment,983,983,8,A1
+requests,models.py,Simple Assignment,997,997,8,A1
+requests,models.py,Simple Assignment,1032,1032,8,A1
+requests,models.py,Simple Assignment,95,95,12,A1
+requests,models.py,Simple Assignment,175,175,12,A1
+requests,models.py,Simple Assignment,176,176,12,A1
+requests,models.py,Simple Assignment,197,197,12,A1
+requests,models.py,Simple Assignment,398,398,12,A1
+requests,models.py,Simple Assignment,405,405,12,A1
+requests,models.py,Simple Assignment,418,418,12,A1
+requests,models.py,Simple Assignment,420,420,12,A1
+requests,models.py,Simple Assignment,429,429,12,A1
+requests,models.py,Simple Assignment,434,434,12,A1
+requests,models.py,Simple Assignment,469,469,12,A1
+requests,models.py,Simple Assignment,472,472,12,A1
+requests,models.py,Simple Assignment,508,508,12,A1
+requests,models.py,Simple Assignment,531,531,12,A1
+requests,models.py,Simple Assignment,576,576,12,A1
+requests,models.py,Simple Assignment,594,594,12,A1
+requests,models.py,Simple Assignment,595,595,12,A1
+requests,models.py,Simple Assignment,603,603,12,A1
+requests,models.py,Simple Assignment,623,623,12,A1
+requests,models.py,Simple Assignment,625,625,12,A1
+requests,models.py,Simple Assignment,629,629,12,A1
+requests,models.py,Simple Assignment,833,833,12,A1
+requests,models.py,Simple Assignment,849,849,12,A1
+requests,models.py,Simple Assignment,928,928,12,A1
+requests,models.py,Simple Assignment,932,932,12,A1
+requests,models.py,Simple Assignment,957,957,12,A1
+requests,models.py,Simple Assignment,986,986,12,A1
+requests,models.py,Simple Assignment,1008,1008,12,A1
+requests,models.py,Simple Assignment,1011,1013,12,A1
+requests,models.py,Simple Assignment,157,157,16,A1
+requests,models.py,Simple Assignment,185,185,16,A1
+requests,models.py,Simple Assignment,186,186,16,A1
+requests,models.py,Simple Assignment,189,189,16,A1
+requests,models.py,Simple Assignment,453,453,16,A1
+requests,models.py,Simple Assignment,477,477,16,A1
+requests,models.py,Simple Assignment,479,479,16,A1
+requests,models.py,Simple Assignment,492,492,16,A1
+requests,models.py,Simple Assignment,493,493,16,A1
+requests,models.py,Simple Assignment,511,511,16,A1
+requests,models.py,Simple Assignment,516,516,16,A1
+requests,models.py,Simple Assignment,527,527,16,A1
+requests,models.py,Simple Assignment,550,550,16,A1
+requests,models.py,Simple Assignment,552,552,16,A1
+requests,models.py,Simple Assignment,556,556,16,A1
+requests,models.py,Simple Assignment,569,569,16,A1
+requests,models.py,Simple Assignment,580,580,16,A1
+requests,models.py,Simple Assignment,587,587,12,A1
+requests,models.py,Simple Assignment,600,600,16,A1
+requests,models.py,Assigment with sum (total = total + 1),870,870,16,A1
+requests,models.py,Simple Assignment,873,873,16,A1
+requests,models.py,Simple Assignment,875,875,16,A1
+requests,models.py,Simple Assignment,878,878,16,A1
+requests,models.py,Simple Assignment,880,880,16,A1
+requests,models.py,Simple Assignment,897,897,16,A1
+requests,models.py,Simple Assignment,899,899,16,A1
+requests,models.py,Simple Assignment,940,940,12,A1
+requests,models.py,Simple Assignment,989,989,16,A1
+requests,models.py,Simple Assignment,990,990,16,A1
+requests,models.py,Simple Assignment,1004,1004,16,A1
+requests,models.py,Simple Assignment,1016,1018,12,A1
+requests,models.py,Simple Assignment,120,120,12,A1
+requests,models.py,Simple Assignment,179,179,20,A1
+requests,models.py,Simple Assignment,191,191,16,A1
+requests,models.py,Simple Assignment,529,529,16,A1
+requests,models.py,Simple Assignment,538,538,20,A1
+requests,models.py,Simple Assignment,559,559,20,A1
+requests,models.py,Simple Assignment,828,828,20,A1
+requests,models.py,Simple Assignment,1006,1006,16,A1
+requests,models.py,Simple Assignment,162,162,24,A1
+requests,models.py,Simple Assignment,181,181,20,A1
+requests,models.py,Simple Assignment,183,183,20,A1
+requests,models.py,Simple Assignment,195,195,16,A1
+requests,models.py,Simple Assignment,542,542,20,A1
+requests,models.py,Simple Assignment,561,561,24,A1
+requests,models.py,Simple Assignment,563,563,24,A1
+requests,models.py,Simple Assignment,123,123,20,A1
+requests,models.py,Simplified incremental Assignment with increase amount,463,463,8,A2
+requests,models.py,Simplified incremental Assignment with increase amount,462,462,12,A2
+requests,models.py,Simplified incremental Assignment with increase amount,465,465,12,A2
+requests,models.py,'raise' exception,147,147,12,B1
+requests,models.py,'raise' exception,211,211,12,B1
+requests,models.py,'raise' exception,439,442,12,B1
+requests,models.py,'raise' exception,445,445,12,B1
+requests,models.py,'raise' exception,836,836,12,B1
+requests,models.py,'raise' exception,1021,1021,12,B1
+requests,models.py,'raise' exception,149,149,12,B1
+requests,models.py,'raise' exception,407,407,12,B1
+requests,models.py,'raise' exception,436,436,12,B1
+requests,models.py,'raise' exception,457,457,12,B1
+requests,models.py,'raise' exception,545,547,16,B1
+requests,models.py,'raise' exception,838,840,12,B1
+requests,models.py,'raise' exception,894,894,16,B1
+requests,models.py,'raise' exception,975,975,12,B1
+requests,models.py,'raise' exception,455,455,16,B1
+requests,models.py,'raise' exception,513,513,16,B1
+requests,models.py,'raise' exception,818,818,20,B1
+requests,models.py,'raise' exception,820,820,20,B1
+requests,models.py,'raise' exception,822,822,20,B1
+requests,models.py,'raise' exception,824,824,20,B1
+requests,models.py,'raise' exception,968,968,20,B1
+requests,models.py,'pass' statement,966,966,20,B1
+requests,models.py,Import,8,8,0,A2
+requests,models.py,Import,13,13,0,A2
+requests,models.py,Import,402,402,8,A2
+requests,models.py,From,14,14,0,A2
+requests,models.py,From,16,22,0,A2
+requests,models.py,From,23,23,0,A2
+requests,models.py,From,24,24,0,A2
+requests,models.py,From,25,25,0,A2
+requests,models.py,Relative From,27,27,0,B1
+requests,models.py,Relative From,28,28,0,B1
+requests,models.py,Relative From,29,37,0,B1
+requests,models.py,Relative From with 'as' extension ,38,38,0,B1
+requests,models.py,Relative From,39,39,0,B1
+requests,models.py,Relative From,40,40,0,B1
+requests,models.py,Relative From,41,48,0,B1
+requests,models.py,Relative From with 'as' extension ,49,49,0,B1
+requests,models.py,Relative From,50,50,0,B1
+requests,models.py,Relative From with 'as' extension ,51,51,0,B1
+requests,models.py,Relative From,52,52,0,B1
+requests,models.py,Relative From,53,53,0,B1
+requests,models.py,Relative From,54,54,0,B1
+requests,models.py,Relative From,55,55,0,B1
+requests,models.py,Relative From,56,67,0,B1
+requests,models.py,Simple If statements,94,95,8,A1
+requests,models.py,Simple If statements,100,102,8,A1
+requests,models.py,Simple If statements,115,134,8,A1
+requests,models.py,Simple If statements,146,149,8,A1
+requests,models.py,Simple If statements,210,211,8,A1
+requests,models.py,Simple If statements,213,216,8,A1
+requests,models.py,Simple If statements,397,398,8,A1
+requests,models.py,Simple If statements,417,420,8,A1
+requests,models.py,Simple If statements,428,430,8,A1
+requests,models.py,Simple If statements,438,442,8,A1
+requests,models.py,Simple If statements,444,445,8,A1
+requests,models.py,Simple If statements,451,457,8,A1
+requests,models.py,Simple If statements,461,462,8,A1
+requests,models.py,Simple If statements,464,465,8,A1
+requests,models.py,Simple If statements,468,469,8,A1
+requests,models.py,Simple If statements,471,472,8,A1
+requests,models.py,Simple If statements,475,479,8,A1
+requests,models.py,Simple If statements,488,493,8,A1
+requests,models.py,Simple If statements,505,516,8,A1
+requests,models.py,Simple If statements,525,569,8,A1
+requests,models.py,Simple If statements,575,587,8,A1
+requests,models.py,Simple If statements,593,595,8,A1
+requests,models.py,Simple If statements,597,609,8,A1
+requests,models.py,Simple If statements,622,625,8,A1
+requests,models.py,Simple If statements,628,629,8,A1
+requests,models.py,Simple If statements,715,716,8,A1
+requests,models.py,Simple If statements,835,840,8,A1
+requests,models.py,Simple If statements,848,849,8,A1
+requests,models.py,Simple If statements,884,885,8,A1
+requests,models.py,Simple If statements,891,899,8,A1
+requests,models.py,Simple If statements,923,924,8,A1
+requests,models.py,Simple If statements,927,928,8,A1
+requests,models.py,Simple If statements,952,968,8,A1
+requests,models.py,Simple If statements,985,990,8,A1
+requests,models.py,Simple If statements,998,1008,8,A1
+requests,models.py,Simple If statements,1010,1018,8,A1
+requests,models.py,Simple If statements,1020,1021,8,A1
+requests,models.py,Simple If statements,1029,1030,8,A1
+requests,models.py,Simple If statements,1033,1034,8,A1
+requests,models.py,Simple If statements,117,134,8,A1
+requests,models.py,Simple If statements,148,149,8,A1
+requests,models.py,Simple If statements,156,157,12,A1
+requests,models.py,Simple If statements,177,186,12,A1
+requests,models.py,Simple If statements,188,195,12,A1
+requests,models.py,Simple If statements,215,216,8,A1
+requests,models.py,Simple If statements,456,457,8,A1
+requests,models.py,Simple If statements,476,479,12,A1
+requests,models.py,Simple If statements,515,516,12,A1
+requests,models.py,Simple If statements,533,542,12,A1
+requests,models.py,Simple If statements,544,547,12,A1
+requests,models.py,Simple If statements,549,552,12,A1
+requests,models.py,Simple If statements,555,563,12,A1
+requests,models.py,Simple If statements,568,569,12,A1
+requests,models.py,Simple If statements,577,580,12,A1
+requests,models.py,Simple If statements,581,587,8,A1
+requests,models.py,Simple If statements,598,600,12,A1
+requests,models.py,Simple If statements,814,831,12,A1
+requests,models.py,Simple If statements,837,840,8,A1
+requests,models.py,Simple If statements,869,870,12,A1
+requests,models.py,Simple If statements,872,875,12,A1
+requests,models.py,Simple If statements,877,880,12,A1
+requests,models.py,Simple If statements,893,894,12,A1
+requests,models.py,Simple If statements,896,899,12,A1
+requests,models.py,Simple If statements,958,968,12,A1
+requests,models.py,Simple If statements,1015,1018,8,A1
+requests,models.py,Simple If statements,119,134,8,A1
+requests,models.py,Simple If statements,159,171,16,A1
+requests,models.py,Simple If statements,178,183,16,A1
+requests,models.py,Simple If statements,190,195,12,A1
+requests,models.py,Simple If statements,558,563,16,A1
+requests,models.py,Simple If statements,161,162,20,A1
+requests,models.py,Simple If statements,180,183,16,A1
+requests,models.py,Simple If statements,192,195,12,A1
+requests,models.py,Simple If statements,560,563,20,A1
+requests,models.py,Simple If statements,829,830,20,A1
+requests,models.py,Simple If statements,122,123,16,A1
+requests,models.py,Simple If statements,125,131,20,A1
+requests,models.py,For Loop with Tuple as name,155,171,8,A2
+requests,models.py,For Loop with Tuple as name,173,199,8,A2
+requests,models.py,For Loop with Tuple as name,280,281,8,A2
+requests,models.py,Simple For Loop,637,638,8,A1
+requests,models.py,For Loop with Tuple as name,721,722,8,A2
+requests,models.py,Simple For Loop,865,882,8,A1
+requests,models.py,Simple For Loop,158,171,12,A1
+requests,models.py,Simple For Loop,489,493,12,A1
+requests,models.py,Simple For Loop,988,990,12,A1
+requests,models.py,For Loop with Tuple as name,121,131,12,A2
+requests,models.py,Simple For Loop,124,131,16,A1
+requests,models.py,While with Else Loop,827,831,16,B1
+requests,models.py,'break' statement,830,830,24,B1
+requests,models.py,'continue' statement,193,193,16,B1
+requests,models.py,Exception --> try/except,223,227,8,B1
+requests,models.py,Exception --> try/except,404,407,8,B1
+requests,models.py,Exception --> try/except,433,436,8,B1
+requests,models.py,Exception --> try/except,764,767,8,B1
+requests,models.py,Exception --> try/except,931,940,8,B1
+requests,models.py,Exception --> try/except,970,975,8,B1
+requests,models.py,Exception --> try/except,452,455,12,B1
+requests,models.py,Exception --> try/except,510,513,12,B1
+requests,models.py,Exception --> try/except,526,529,12,B1
+requests,models.py,Exception --> try/except,1003,1006,12,B1
+requests,models.py,Exception --> try/except,537,542,16,B1
+requests,models.py,Exception --> try/except,815,824,16,B1
+requests,models.py,Exception --> try/except,959,968,16,B1
+requests,models.py,Function with Simple argument,86,104,4,A1
+requests,models.py,Function with Simple argument,107,134,4,A1
+requests,models.py,Function with Simple argument,137,203,4,A1
+requests,models.py,Function with Simple argument,207,216,4,A1
+requests,models.py,Function with Simple argument,218,227,4,A1
+requests,models.py,Function with Simple argument with Default argument,258,291,4,A2
+requests,models.py,Function with Simple argument,293,294,4,A1
+requests,models.py,Function with Simple argument,296,311,4,A1
+requests,models.py,Function with Simple argument,335,350,4,A1
+requests,models.py,Function with Simple argument with Default argument,352,378,4,A2
+requests,models.py,Function with Simple argument,380,381,4,A1
+requests,models.py,Function with Simple argument,383,392,4,A1
+requests,models.py,Function with Simple argument,394,398,4,A1
+requests,models.py,Function with Simple argument,401,408,4,A1
+requests,models.py,Function with Simple argument,410,482,4,A1
+requests,models.py,Function with Simple argument,484,493,4,A1
+requests,models.py,Function with Simple argument with Default argument,495,571,4,A2
+requests,models.py,Function with Simple argument,573,587,4,A1
+requests,models.py,Function with Simple argument with Default argument,589,609,4,A2
+requests,models.py,Function with Simple argument,611,629,4,A1
+requests,models.py,Function with Simple argument,631,638,4,A1
+requests,models.py,Function with Simple argument,659,704,4,A1
+requests,models.py,Function with Simple argument,706,707,4,A1
+requests,models.py,Function with Simple argument with * argument ,709,710,4,B1
+requests,models.py,Function with Simple argument,712,718,4,A1
+requests,models.py,Function with Simple argument,720,726,4,A1
+requests,models.py,Function with Simple argument,728,729,4,A1
+requests,models.py,Function with Simple argument,731,739,4,A1
+requests,models.py,Function with Simple argument,741,749,4,A1
+requests,models.py,Function with Simple argument,751,753,4,A1
+requests,models.py,Function with Simple argument,756,768,4,A1
+requests,models.py,Function with Simple argument,771,775,4,A1
+requests,models.py,Function with Simple argument,778,783,4,A1
+requests,models.py,Function with Simple argument,786,788,4,A1
+requests,models.py,Function with Simple argument,791,793,4,A1
+requests,models.py,Function with Simple argument with Default argument,795,851,4,A2
+requests,models.py,Function with Simple argument with Default argument,853,885,4,A2
+requests,models.py,Function with Simple argument,888,904,4,A1
+requests,models.py,Function with Simple argument,907,942,4,A1
+requests,models.py,Function with Simple argument with ** argument,944,975,4,B1
+requests,models.py,Function with Simple argument,978,992,4,A1
+requests,models.py,Function with Simple argument,994,1021,4,A1
+requests,models.py,Function with Simple argument,1023,1034,4,A1
+requests,models.py,Function,812,833,8,A1
+requests,models.py,Return,104,104,8,A1
+requests,models.py,Return,203,203,8,A1
+requests,models.py,Return,294,294,8,A1
+requests,models.py,Return,311,311,8,A1
+requests,models.py,Return,381,381,8,A1
+requests,models.py,Return,392,392,8,A1
+requests,models.py,Return,408,408,8,A1
+requests,models.py,Return,707,707,8,A1
+requests,models.py,Return,718,718,8,A1
+requests,models.py,Return,729,729,8,A1
+requests,models.py,Return,739,739,8,A1
+requests,models.py,Return,749,749,8,A1
+requests,models.py,Return,753,753,8,A1
+requests,models.py,Return,768,768,8,A1
+requests,models.py,Return,775,775,8,A1
+requests,models.py,Return,780,783,8,A1
+requests,models.py,Return,788,788,8,A1
+requests,models.py,Return,793,793,8,A1
+requests,models.py,Return,851,851,8,A1
+requests,models.py,Return,904,904,8,A1
+requests,models.py,Return,942,942,8,A1
+requests,models.py,Return,992,992,8,A1
+requests,models.py,Return,116,116,12,A1
+requests,models.py,Return,225,225,12,A1
+requests,models.py,Return,430,430,12,A1
+requests,models.py,Return,924,924,12,A1
+requests,models.py,Return,971,971,12,A1
+requests,models.py,Return,118,118,12,A1
+requests,models.py,Return,227,227,12,A1
+requests,models.py,Return,767,767,12,A1
+requests,models.py,Return,132,132,12,A1
+requests,models.py,Return,134,134,12,A1
+requests,models.py,Return,960,960,20,A1
+requests,models.py,Generator Function (yield),885,885,12,C1
+requests,models.py,Generator Function (yield),831,831,20,C1
+requests,models.py,Simple Class ,84,203,0,B1
+requests,models.py,Simple Class ,206,227,0,B1
+requests,models.py,Inherited Class from RequestHooksMixin,230,311,0,B1
+requests,models.py,Inherited Class from RequestHooksMixin,314,638,0,B1
+requests,models.py,Simple Class ,641,1034,0,B1

@@ -1,0 +1,685 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+requests,utils.py,Simple List,388,388,13,A1
+requests,utils.py,Simple List,606,606,22,A1
+requests,utils.py,Simple List,842,847,17,A1
+requests,utils.py,Simple List,915,915,12,A1
+requests,utils.py,Simple List,276,276,26,A1
+requests,utils.py,Simple List,1002,1002,26,A1
+requests,utils.py,Simple Tuple,56,56,14,A1
+requests,utils.py,Simple Tuple,269,269,4,A1
+requests,utils.py,Simple Tuple,298,298,4,A1
+requests,utils.py,Simple Tuple,517,517,4,A1
+requests,utils.py,Simple Tuple,517,517,27,A1
+requests,utils.py,Simple Tuple,530,530,11,A1
+requests,utils.py,Simple Tuple,545,545,4,A1
+requests,utils.py,Simple Tuple,685,685,4,A1
+requests,utils.py,Simple Tuple,989,989,4,A1
+requests,utils.py,Simple Tuple,1033,1033,4,A1
+requests,utils.py,Simple Tuple,1060,1060,4,A1
+requests,utils.py,Simple Tuple,199,199,26,A1
+requests,utils.py,Simple Tuple,247,247,11,A1
+requests,utils.py,Simple Tuple,271,271,8,A1
+requests,utils.py,Simple Tuple,329,329,25,A1
+requests,utils.py,Simple Tuple,355,355,25,A1
+requests,utils.py,Simple Tuple,424,424,8,A1
+requests,utils.py,Simple Tuple,958,958,17,A1
+requests,utils.py,Simple Tuple,962,962,21,A1
+requests,utils.py,Simple Tuple,997,997,8,A1
+requests,utils.py,Simple Tuple,997,997,23,A1
+requests,utils.py,Simple Tuple,1008,1008,22,A1
+requests,utils.py,Simple Tuple,1020,1020,15,A1
+requests,utils.py,Simple Tuple,1021,1021,11,A1
+requests,utils.py,Simple Tuple,1064,1064,8,A1
+requests,utils.py,Simple Tuple,1064,1064,23,A1
+requests,utils.py,Simple Tuple,1068,1068,22,A1
+requests,utils.py,Simple Tuple,86,86,15,A1
+requests,utils.py,Simple Tuple,240,240,15,A1
+requests,utils.py,Simple Tuple,524,524,12,A1
+requests,utils.py,Simple Tuple,524,524,25,A1
+requests,utils.py,Simple Tuple,810,810,15,A1
+requests,utils.py,Simple Tuple,925,925,12,A1
+requests,utils.py,Simple Tuple,1022,1022,15,A1
+requests,utils.py,Simple Tuple,239,239,23,A1
+requests,utils.py,Simple Tuple,927,927,12,A1
+requests,utils.py,Simple Tuple,927,927,26,A1
+requests,utils.py,Simple Tuple,933,933,16,A1
+requests,utils.py,Simple Tuple,141,141,15,A1
+requests,utils.py,Simple Dictionary,60,60,16,A2
+requests,utils.py,Simple Dictionary,419,419,13,A2
+requests,utils.py,Simple Dictionary,464,464,18,A2
+requests,utils.py,Simple Dictionary,518,518,18,A2
+requests,utils.py,Simple Dictionary,826,826,15,A2
+requests,utils.py,Simple Dictionary,837,837,25,A2
+requests,utils.py,Simple Dictionary,868,868,50,A2
+requests,utils.py,Simple Dictionary,898,903,8,A2
+requests,utils.py,Simple Dictionary,929,929,15,A2
+requests,utils.py,'range' call function,637,637,13,A2
+requests,utils.py,Files --> 'write' call function,291,291,12,A2
+requests,utils.py,Files --> 'read' call function,291,291,31,A2
+requests,utils.py,If statements expression (else),868,868,14,B1
+requests,utils.py,If statements expression (else),238,238,26,B1
+requests,utils.py,Simple Atributte,295,295,1,A2
+requests,utils.py,Simple Atributte,737,737,1,A2
+requests,utils.py,Simple Atributte,58,58,25,A2
+requests,utils.py,Simple Atributte,63,63,26,A2
+requests,utils.py,Simple Atributte,68,68,3,A2
+requests,utils.py,Simple Atributte,869,869,10,A2
+requests,utils.py,Simple Atributte,870,870,13,A2
+requests,utils.py,Simple Atributte,945,945,8,A2
+requests,utils.py,Simple Atributte,995,995,13,A2
+requests,utils.py,Simple Atributte,64,64,4,A2
+requests,utils.py,Simple Atributte,197,197,17,A2
+requests,utils.py,Simple Atributte,263,263,7,A2
+requests,utils.py,Simple Atributte,269,269,22,A2
+requests,utils.py,Simple Atributte,281,281,15,A2
+requests,utils.py,Simple Atributte,286,286,10,A2
+requests,utils.py,Simple Atributte,287,287,21,A2
+requests,utils.py,Simple Atributte,298,298,31,A2
+requests,utils.py,Simple Atributte,467,467,35,A2
+requests,utils.py,Simple Atributte,488,488,4,A2
+requests,utils.py,Simple Atributte,497,497,17,A2
+requests,utils.py,Simple Atributte,498,498,16,A2
+requests,utils.py,Simple Atributte,499,499,13,A2
+requests,utils.py,Simple Atributte,516,516,13,A2
+requests,utils.py,Simple Atributte,540,540,19,A2
+requests,utils.py,Simple Atributte,561,561,7,A2
+requests,utils.py,Simple Atributte,570,570,9,A2
+requests,utils.py,Simple Atributte,597,597,4,A2
+requests,utils.py,Simple Atributte,609,609,41,A2
+requests,utils.py,Simple Atributte,636,636,12,A2
+requests,utils.py,Simple Atributte,651,651,11,A2
+requests,utils.py,Simple Atributte,685,685,20,A2
+requests,utils.py,Simple Atributte,699,699,11,A2
+requests,utils.py,Simple Atributte,777,777,7,A2
+requests,utils.py,Simple Atributte,839,839,7,A2
+requests,utils.py,Simple Atributte,844,844,8,A2
+requests,utils.py,Simple Atributte,871,871,15,A2
+requests,utils.py,Simple Atributte,872,872,18,A2
+requests,utils.py,Simple Atributte,919,919,12,A2
+requests,utils.py,Simple Atributte,923,923,15,A2
+requests,utils.py,Simple Atributte,960,960,21,A2
+requests,utils.py,Simple Atributte,964,964,16,A2
+requests,utils.py,Simple Atributte,1075,1075,24,A2
+requests,utils.py,Simple Atributte,94,94,24,A2
+requests,utils.py,Simple Atributte,123,123,12,A2
+requests,utils.py,Simple Atributte,136,136,23,A2
+requests,utils.py,Simple Atributte,197,197,17,A2
+requests,utils.py,Simple Atributte,255,255,15,A2
+requests,utils.py,Simple Atributte,263,263,7,A2
+requests,utils.py,Simple Atributte,269,269,22,A2
+requests,utils.py,Simple Atributte,271,271,26,A2
+requests,utils.py,Simple Atributte,276,276,17,A2
+requests,utils.py,Simple Atributte,278,278,11,A2
+requests,utils.py,Simple Atributte,282,282,21,A2
+requests,utils.py,Simple Atributte,287,287,21,A2
+requests,utils.py,Simple Atributte,288,288,11,A2
+requests,utils.py,Simple Atributte,302,302,8,A2
+requests,utils.py,Simple Atributte,359,359,16,A2
+requests,utils.py,Simple Atributte,392,392,8,A2
+requests,utils.py,Simple Atributte,424,424,22,A2
+requests,utils.py,Simple Atributte,467,467,20,A2
+requests,utils.py,Simple Atributte,497,497,72,A2
+requests,utils.py,Simple Atributte,498,498,81,A2
+requests,utils.py,Simple Atributte,504,504,10,A2
+requests,utils.py,Simple Atributte,517,517,27,A2
+requests,utils.py,Simple Atributte,522,522,16,A2
+requests,utils.py,Simple Atributte,548,548,15,A2
+requests,utils.py,Simple Atributte,565,565,14,A2
+requests,utils.py,Simple Atributte,565,565,43,A2
+requests,utils.py,Simple Atributte,567,567,13,A2
+requests,utils.py,Simple Atributte,619,619,19,A2
+requests,utils.py,Simple Atributte,621,621,15,A2
+requests,utils.py,Simple Atributte,684,684,13,A2
+requests,utils.py,Simple Atributte,686,686,14,A2
+requests,utils.py,Simple Atributte,699,699,28,A2
+requests,utils.py,Simple Atributte,707,707,8,A2
+requests,utils.py,Simple Atributte,719,719,7,A2
+requests,utils.py,Simple Atributte,747,747,20,A2
+requests,utils.py,Simple Atributte,748,748,8,A2
+requests,utils.py,Simple Atributte,786,786,27,A2
+requests,utils.py,Simple Atributte,796,796,29,A2
+requests,utils.py,Simple Atributte,797,797,15,A2
+requests,utils.py,Simple Atributte,840,840,15,A2
+requests,utils.py,Simple Atributte,840,840,27,A2
+requests,utils.py,Simple Atributte,843,843,34,A2
+requests,utils.py,Simple Atributte,845,845,19,A2
+requests,utils.py,Simple Atributte,877,877,16,A2
+requests,utils.py,Simple Atributte,931,931,21,A2
+requests,utils.py,Simple Atributte,939,939,8,A2
+requests,utils.py,Simple Atributte,958,958,18,A2
+requests,utils.py,Simple Atributte,958,958,39,A2
+requests,utils.py,Simple Atributte,962,962,22,A2
+requests,utils.py,Simple Atributte,962,962,43,A2
+requests,utils.py,Simple Atributte,1002,1002,17,A2
+requests,utils.py,Simple Atributte,1047,1047,11,A2
+requests,utils.py,Simple Atributte,1066,1066,13,A2
+requests,utils.py,Simple Atributte,1077,1077,8,A2
+requests,utils.py,Simple Atributte,78,78,31,A2
+requests,utils.py,Simple Atributte,79,79,16,A2
+requests,utils.py,Simple Atributte,100,100,19,A2
+requests,utils.py,Simple Atributte,101,101,19,A2
+requests,utils.py,Simple Atributte,102,102,19,A2
+requests,utils.py,Simple Atributte,103,103,15,A2
+requests,utils.py,Simple Atributte,103,103,36,A2
+requests,utils.py,Simple Atributte,166,166,31,A2
+requests,utils.py,Simple Atributte,217,217,15,A2
+requests,utils.py,Simple Atributte,231,231,23,A2
+requests,utils.py,Simple Atributte,232,232,15,A2
+requests,utils.py,Simple Atributte,235,235,21,A2
+requests,utils.py,Simple Atributte,255,255,15,A2
+requests,utils.py,Simple Atributte,270,270,26,A2
+requests,utils.py,Simple Atributte,271,271,26,A2
+requests,utils.py,Simple Atributte,287,287,39,A2
+requests,utils.py,Simple Atributte,288,288,11,A2
+requests,utils.py,Simple Atributte,291,291,12,A2
+requests,utils.py,Simple Atributte,298,298,52,A2
+requests,utils.py,Simple Atributte,300,300,13,A2
+requests,utils.py,Simple Atributte,304,304,8,A2
+requests,utils.py,Simple Atributte,453,453,19,A2
+requests,utils.py,Simple Atributte,502,502,8,A2
+requests,utils.py,Simple Atributte,503,503,10,A2
+requests,utils.py,Simple Atributte,525,525,30,A2
+requests,utils.py,Simple Atributte,613,613,23,A2
+requests,utils.py,Simple Atributte,639,639,27,A2
+requests,utils.py,Simple Atributte,684,684,33,A2
+requests,utils.py,Simple Atributte,686,686,34,A2
+requests,utils.py,Simple Atributte,687,687,14,A2
+requests,utils.py,Simple Atributte,729,729,12,A2
+requests,utils.py,Simple Atributte,747,747,20,A2
+requests,utils.py,Simple Atributte,768,768,15,A2
+requests,utils.py,Simple Atributte,768,768,38,A2
+requests,utils.py,Simple Atributte,809,809,34,A2
+requests,utils.py,Simple Atributte,810,810,27,A2
+requests,utils.py,Simple Atributte,840,840,44,A2
+requests,utils.py,Simple Atributte,843,843,8,A2
+requests,utils.py,Simple Atributte,877,877,44,A2
+requests,utils.py,Simple Atributte,880,880,12,A2
+requests,utils.py,Simple Atributte,925,925,26,A2
+requests,utils.py,Simple Atributte,929,929,23,A2
+requests,utils.py,Simple Atributte,937,937,45,A2
+requests,utils.py,Simple Atributte,1020,1020,24,A2
+requests,utils.py,Simple Atributte,1020,1020,50,A2
+requests,utils.py,Simple Atributte,1080,1080,22,A2
+requests,utils.py,Simple Atributte,85,85,28,A2
+requests,utils.py,Simple Atributte,147,147,27,A2
+requests,utils.py,Simple Atributte,210,210,22,A2
+requests,utils.py,Simple Atributte,217,217,15,A2
+requests,utils.py,Simple Atributte,232,232,15,A2
+requests,utils.py,Simple Atributte,270,270,26,A2
+requests,utils.py,Simple Atributte,291,291,31,A2
+requests,utils.py,Simple Atributte,298,298,52,A2
+requests,utils.py,Simple Atributte,527,527,22,A2
+requests,utils.py,Simple Atributte,528,528,24,A2
+requests,utils.py,Simple Atributte,529,529,24,A2
+requests,utils.py,Simple Atributte,615,615,12,A2
+requests,utils.py,Simple Atributte,687,687,34,A2
+requests,utils.py,Simple Atributte,754,754,20,A2
+requests,utils.py,Simple Atributte,756,756,16,A2
+requests,utils.py,Simple Atributte,768,768,15,A2
+requests,utils.py,Simple Atributte,768,768,38,A2
+requests,utils.py,Simple Atributte,768,768,53,A2
+requests,utils.py,Simple Atributte,784,784,37,A2
+requests,utils.py,Simple Atributte,933,933,29,A2
+requests,utils.py,Simple Atributte,937,937,17,A2
+requests,utils.py,Simple Atributte,83,83,30,A2
+requests,utils.py,Simple Atributte,140,140,21,A2
+requests,utils.py,Simple Atributte,141,141,16,A2
+requests,utils.py,Simple Atributte,151,151,26,A2
+requests,utils.py,Simple Atributte,179,179,20,A2
+requests,utils.py,Simple Atributte,180,180,35,A2
+requests,utils.py,Simple Atributte,184,184,20,A2
+requests,utils.py,Simple Atributte,210,210,22,A2
+requests,utils.py,Simple Atributte,453,453,19,A2
+requests,utils.py,Simple Atributte,721,721,23,A2
+requests,utils.py,Simple Atributte,729,729,29,A2
+requests,utils.py,Simple Atributte,789,789,42,A2
+requests,utils.py,Simple Atributte,791,791,21,A2
+requests,utils.py,Simple Atributte,798,798,38,A2
+requests,utils.py,Simple Atributte,801,801,19,A2
+requests,utils.py,Simple Atributte,801,801,53,A2
+requests,utils.py,Simple Atributte,147,147,27,A2
+requests,utils.py,Simple Atributte,152,152,16,A2
+requests,utils.py,Simple Atributte,784,784,37,A2
+requests,utils.py,Simple Atributte,801,801,19,A2
+requests,utils.py,Generator Expression,201,201,26,C1
+requests,utils.py,Generator Expression,784,784,19,C1
+requests,utils.py,Simple Assignment,56,56,0,A1
+requests,utils.py,Simple Assignment,58,58,0,A1
+requests,utils.py,Simple Assignment,60,60,0,A1
+requests,utils.py,Simple Assignment,63,65,0,A1
+requests,utils.py,Simple Assignment,625,627,0,A1
+requests,utils.py,Simple Assignment,945,945,0,A1
+requests,utils.py,Assigment with sum (total = total + 1),946,946,0,A1
+requests,utils.py,Assigment with sum (total = total + 1),947,947,0,A1
+requests,utils.py,Simple Assignment,129,129,4,A1
+requests,utils.py,Simple Assignment,130,130,4,A1
+requests,utils.py,Simple Assignment,197,197,4,A1
+requests,utils.py,Simple Assignment,253,253,4,A1
+requests,utils.py,Simple Assignment,269,269,4,A1
+requests,utils.py,Simple Assignment,281,281,4,A1
+requests,utils.py,Simple Assignment,286,286,4,A1
+requests,utils.py,Simple Assignment,287,287,4,A1
+requests,utils.py,Simple Assignment,298,298,4,A1
+requests,utils.py,Simple Assignment,388,388,4,A1
+requests,utils.py,Simple Assignment,419,419,4,A1
+requests,utils.py,Simple Assignment,464,464,4,A1
+requests,utils.py,Simple Assignment,497,497,4,A1
+requests,utils.py,Simple Assignment,498,498,4,A1
+requests,utils.py,Simple Assignment,499,499,4,A1
+requests,utils.py,Simple Assignment,516,516,4,A1
+requests,utils.py,Simple Assignment,517,517,4,A1
+requests,utils.py,Simple Assignment,518,518,4,A1
+requests,utils.py,Simple Assignment,519,519,4,A1
+requests,utils.py,Simple Assignment,540,540,4,A1
+requests,utils.py,Simple Assignment,545,545,4,A1
+requests,utils.py,Simple Assignment,565,565,4,A1
+requests,utils.py,Simple Assignment,570,570,4,A1
+requests,utils.py,Simple Assignment,577,577,4,A1
+requests,utils.py,Simple Assignment,606,606,4,A1
+requests,utils.py,Simple Assignment,609,609,4,A1
+requests,utils.py,Simple Assignment,636,636,4,A1
+requests,utils.py,Simple Assignment,662,662,4,A1
+requests,utils.py,Simple Assignment,663,663,4,A1
+requests,utils.py,Simple Assignment,684,684,4,A1
+requests,utils.py,Simple Assignment,685,685,4,A1
+requests,utils.py,Simple Assignment,686,686,4,A1
+requests,utils.py,Assigment with sum (total = total + 1),687,687,4,A1
+requests,utils.py,Assigment with sum (total = total + 1),698,698,4,A1
+requests,utils.py,Simple Assignment,745,745,4,A1
+requests,utils.py,Simple Assignment,772,772,4,A1
+requests,utils.py,Simple Assignment,775,775,4,A1
+requests,utils.py,Simple Assignment,837,837,4,A1
+requests,utils.py,Simple Assignment,838,838,4,A1
+requests,utils.py,Simple Assignment,842,847,4,A1
+requests,utils.py,Simple Assignment,848,848,4,A1
+requests,utils.py,Simple Assignment,868,868,4,A1
+requests,utils.py,Simple Assignment,869,869,4,A1
+requests,utils.py,Simple Assignment,870,870,4,A1
+requests,utils.py,Simple Assignment,871,871,4,A1
+requests,utils.py,Simple Assignment,872,872,4,A1
+requests,utils.py,Simple Assignment,915,915,4,A1
+requests,utils.py,Simple Assignment,917,917,4,A1
+requests,utils.py,Simple Assignment,919,919,4,A1
+requests,utils.py,Simple Assignment,957,957,4,A1
+requests,utils.py,Simple Assignment,964,964,4,A1
+requests,utils.py,Simple Assignment,988,988,4,A1
+requests,utils.py,Simple Assignment,989,989,4,A1
+requests,utils.py,Simple Assignment,995,995,4,A1
+requests,utils.py,Simple Assignment,1017,1017,4,A1
+requests,utils.py,Simple Assignment,1033,1033,4,A1
+requests,utils.py,Simple Assignment,1060,1060,4,A1
+requests,utils.py,Simple Assignment,1066,1066,4,A1
+requests,utils.py,Simple Assignment,1075,1075,4,A1
+requests,utils.py,Simple Assignment,94,94,8,A1
+requests,utils.py,Simple Assignment,123,123,8,A1
+requests,utils.py,Simple Assignment,133,133,8,A1
+requests,utils.py,Simple Assignment,189,189,8,A1
+requests,utils.py,Simple Assignment,199,199,8,A1
+requests,utils.py,Simple Assignment,201,201,8,A1
+requests,utils.py,Simple Assignment,206,206,8,A1
+requests,utils.py,Simple Assignment,225,225,8,A1
+requests,utils.py,Simple Assignment,229,229,8,A1
+requests,utils.py,Simple Assignment,232,232,8,A1
+requests,utils.py,Simple Assignment,271,271,8,A1
+requests,utils.py,Simple Assignment,276,276,8,A1
+requests,utils.py,Simple Assignment,359,359,8,A1
+requests,utils.py,Simple Assignment,424,424,8,A1
+requests,utils.py,Simple Assignment,427,427,8,A1
+requests,utils.py,Simple Assignment,445,445,8,A1
+requests,utils.py,Simple Assignment,467,467,8,A1
+requests,utils.py,Simple Assignment,522,522,8,A1
+requests,utils.py,Simple Assignment,567,567,8,A1
+requests,utils.py,Simple Assignment,579,579,8,A1
+requests,utils.py,Simple Assignment,638,638,8,A1
+requests,utils.py,Simple Assignment,747,747,8,A1
+requests,utils.py,Simple Assignment,748,748,8,A1
+requests,utils.py,Simple Assignment,774,774,8,A1
+requests,utils.py,Simple Assignment,784,784,8,A1
+requests,utils.py,Simple Assignment,875,875,8,A1
+requests,utils.py,Simple Assignment,877,877,8,A1
+requests,utils.py,Simple Assignment,929,929,8,A1
+requests,utils.py,Simple Assignment,997,997,8,A1
+requests,utils.py,Simple Assignment,1002,1002,8,A1
+requests,utils.py,Simple Assignment,1004,1004,8,A1
+requests,utils.py,Simple Assignment,1006,1006,8,A1
+requests,utils.py,Simple Assignment,1020,1020,8,A1
+requests,utils.py,Simple Assignment,1064,1064,8,A1
+requests,utils.py,Simple Assignment,78,81,12,A1
+requests,utils.py,Simple Assignment,83,83,12,A1
+requests,utils.py,Simple Assignment,85,85,12,A1
+requests,utils.py,Simple Assignment,100,100,12,A1
+requests,utils.py,Simple Assignment,101,101,12,A1
+requests,utils.py,Simple Assignment,102,102,12,A1
+requests,utils.py,Simple Assignment,136,136,8,A1
+requests,utils.py,Simple Assignment,166,166,12,A1
+requests,utils.py,Simple Assignment,231,231,12,A1
+requests,utils.py,Simple Assignment,235,235,12,A1
+requests,utils.py,Simple Assignment,391,391,12,A1
+requests,utils.py,Simple Assignment,422,422,12,A1
+requests,utils.py,Simple Assignment,426,426,12,A1
+requests,utils.py,Simple Assignment,524,524,12,A1
+requests,utils.py,Simple Assignment,525,525,12,A1
+requests,utils.py,Simple Assignment,529,529,12,A1
+requests,utils.py,Simple Assignment,650,650,12,A1
+requests,utils.py,Simple Assignment,721,721,12,A1
+requests,utils.py,Simple Assignment,796,796,12,A1
+requests,utils.py,Simple Assignment,809,809,12,A1
+requests,utils.py,Simple Assignment,851,851,12,A1
+requests,utils.py,Simple Assignment,925,925,12,A1
+requests,utils.py,Simple Assignment,937,937,12,A1
+requests,utils.py,Simple Assignment,1022,1022,8,A1
+requests,utils.py,Simple Assignment,210,210,16,A1
+requests,utils.py,Simple Assignment,218,218,16,A1
+requests,utils.py,Simple Assignment,238,238,16,A1
+requests,utils.py,Simple Assignment,527,527,16,A1
+requests,utils.py,Simple Assignment,528,528,16,A1
+requests,utils.py,Simple Assignment,641,641,16,A1
+requests,utils.py,Assigment with sum (total = total + 1),646,646,16,A1
+requests,utils.py,Simple Assignment,648,648,16,A1
+requests,utils.py,Simple Assignment,756,756,16,A1
+requests,utils.py,Simple Assignment,811,811,12,A1
+requests,utils.py,Simple Assignment,927,927,12,A1
+requests,utils.py,Simple Assignment,933,933,16,A1
+requests,utils.py,Simple Assignment,140,140,12,A1
+requests,utils.py,Simple Assignment,147,147,12,A1
+requests,utils.py,Simple Assignment,173,173,16,A1
+requests,utils.py,Simple Assignment,180,180,20,A1
+requests,utils.py,Simple Assignment,186,186,20,A1
+requests,utils.py,Simplified incremental Assignment with increase amount,582,582,8,A2
+requests,utils.py,Simplified incremental Assignment with increase amount,798,798,16,A2
+requests,utils.py,'raise' exception,330,330,8,B1
+requests,utils.py,'raise' exception,356,356,8,B1
+requests,utils.py,'raise' exception,1048,1051,8,B1
+requests,utils.py,'raise' exception,1086,1086,8,B1
+requests,utils.py,'raise' exception,305,305,8,B1
+requests,utils.py,'raise' exception,1037,1040,12,B1
+requests,utils.py,'raise' exception,1082,1084,12,B1
+requests,utils.py,'raise' exception,244,244,16,B1
+requests,utils.py,'raise' exception,643,643,16,B1
+requests,utils.py,'pass' statement,248,248,8,B1
+requests,utils.py,'pass' statement,145,145,12,B1
+requests,utils.py,Import,9,9,0,A2
+requests,utils.py,Import,10,10,0,A2
+requests,utils.py,Import,11,11,0,A2
+requests,utils.py,Import,12,12,0,A2
+requests,utils.py,Import're' module,13,13,0,C1
+requests,utils.py,Import,14,14,0,A2
+requests,utils.py,Import'struct' module,15,15,0,C1
+requests,utils.py,Import,16,16,0,A2
+requests,utils.py,Import,17,17,0,A2
+requests,utils.py,Import,18,18,0,A2
+requests,utils.py,Import,19,19,0,A2
+requests,utils.py,Import,73,73,12,A2
+requests,utils.py,From,20,20,0,A2
+requests,utils.py,From,22,22,0,A2
+requests,utils.py,Relative From,24,24,0,B1
+requests,utils.py,Relative From,25,25,0,B1
+requests,utils.py,Relative From,28,28,0,B1
+requests,utils.py,Relative From,29,36,0,B1
+requests,utils.py,Relative From with 'as' extension ,37,37,0,B1
+requests,utils.py,Relative From,38,46,0,B1
+requests,utils.py,Relative From,47,47,0,B1
+requests,utils.py,Relative From,48,53,0,B1
+requests,utils.py,Relative From,54,54,0,B1
+requests,utils.py,From,204,204,8,A2
+requests,utils.py,Simple If statements,68,116,0,A1
+requests,utils.py,Simple If statements,122,123,4,A1
+requests,utils.py,Simple If statements,132,162,4,A1
+requests,utils.py,Simple If statements,164,186,4,A1
+requests,utils.py,Simple If statements,188,189,4,A1
+requests,utils.py,Simple If statements,198,201,4,A1
+requests,utils.py,Simple If statements,254,255,4,A1
+requests,utils.py,Simple If statements,263,265,4,A1
+requests,utils.py,Simple If statements,278,279,4,A1
+requests,utils.py,Simple If statements,282,283,4,A1
+requests,utils.py,Simple If statements,288,291,4,A1
+requests,utils.py,Simple If statements,326,327,4,A1
+requests,utils.py,Simple If statements,329,330,4,A1
+requests,utils.py,Simple If statements,352,353,4,A1
+requests,utils.py,Simple If statements,355,356,4,A1
+requests,utils.py,Simple If statements,358,359,4,A1
+requests,utils.py,Simple If statements,440,453,4,A1
+requests,utils.py,Simple If statements,542,543,4,A1
+requests,utils.py,Simple If statements,547,548,4,A1
+requests,utils.py,Simple If statements,550,551,4,A1
+requests,utils.py,Simple If statements,553,555,4,A1
+requests,utils.py,Simple If statements,561,563,4,A1
+requests,utils.py,Simple If statements,571,572,4,A1
+requests,utils.py,Simple If statements,578,579,4,A1
+requests,utils.py,Simple If statements,611,615,4,A1
+requests,utils.py,Simple If statements,719,733,4,A1
+requests,utils.py,Simple If statements,746,748,4,A1
+requests,utils.py,Simple If statements,773,774,4,A1
+requests,utils.py,Simple If statements,777,779,4,A1
+requests,utils.py,Simple If statements,781,804,4,A1
+requests,utils.py,Simple If statements,813,814,4,A1
+requests,utils.py,Simple If statements,825,828,4,A1
+requests,utils.py,Simple If statements,839,840,4,A1
+requests,utils.py,Simple If statements,874,880,4,A1
+requests,utils.py,Simple If statements,920,921,4,A1
+requests,utils.py,Simple If statements,958,959,4,A1
+requests,utils.py,Simple If statements,960,961,4,A1
+requests,utils.py,Simple If statements,962,963,4,A1
+requests,utils.py,Simple If statements,965,966,4,A1
+requests,utils.py,Simple If statements,967,971,4,A1
+requests,utils.py,Simple If statements,973,977,4,A1
+requests,utils.py,Simple If statements,996,997,4,A1
+requests,utils.py,Simple If statements,999,1002,4,A1
+requests,utils.py,Simple If statements,1003,1004,4,A1
+requests,utils.py,Simple If statements,1005,1006,4,A1
+requests,utils.py,Simple If statements,1047,1051,4,A1
+requests,utils.py,Simple If statements,1063,1064,4,A1
+requests,utils.py,Simple If statements,1076,1086,4,A1
+requests,utils.py,Simple If statements,88,89,8,A1
+requests,utils.py,Simple If statements,113,116,8,A1
+requests,utils.py,Simple If statements,135,162,4,A1
+requests,utils.py,Simple If statements,222,223,8,A1
+requests,utils.py,Simple If statements,230,231,8,A1
+requests,utils.py,Simple If statements,272,275,8,A1
+requests,utils.py,Simple If statements,390,391,8,A1
+requests,utils.py,Simple If statements,421,423,8,A1
+requests,utils.py,Simple If statements,425,426,8,A1
+requests,utils.py,Simple If statements,452,453,8,A1
+requests,utils.py,Simple If statements,523,529,8,A1
+requests,utils.py,Simple If statements,568,569,8,A1
+requests,utils.py,Simple If statements,639,650,8,A1
+requests,utils.py,Simple If statements,725,726,8,A1
+requests,utils.py,Simple If statements,752,756,8,A1
+requests,utils.py,Simple If statements,786,804,8,A1
+requests,utils.py,Simple If statements,850,852,8,A1
+requests,utils.py,Simple If statements,879,880,8,A1
+requests,utils.py,Simple If statements,968,969,8,A1
+requests,utils.py,Simple If statements,970,971,8,A1
+requests,utils.py,Simple If statements,974,975,8,A1
+requests,utils.py,Simple If statements,976,977,8,A1
+requests,utils.py,Simple If statements,1036,1040,8,A1
+requests,utils.py,Simple If statements,97,99,12,A1
+requests,utils.py,Simple If statements,103,104,12,A1
+requests,utils.py,Simple If statements,138,162,4,A1
+requests,utils.py,Simple If statements,175,186,12,A1
+requests,utils.py,Simple If statements,217,219,12,A1
+requests,utils.py,Simple If statements,236,239,12,A1
+requests,utils.py,Simple If statements,526,528,12,A1
+requests,utils.py,Simple If statements,645,648,12,A1
+requests,utils.py,Simple If statements,753,756,12,A1
+requests,utils.py,Simple If statements,797,798,12,A1
+requests,utils.py,Simple If statements,98,99,16,A1
+requests,utils.py,Simple If statements,172,173,12,A1
+requests,utils.py,Simple If statements,243,244,12,A1
+requests,utils.py,Simple If statements,788,794,16,A1
+requests,utils.py,Simple If statements,801,804,16,A1
+requests,utils.py,Simple If statements,151,162,12,A1
+requests,utils.py,Simple If statements,789,790,20,A1
+requests,utils.py,Simple If statements,791,794,16,A1
+requests,utils.py,Simple For Loop,389,392,4,A1
+requests,utils.py,Simple For Loop,420,427,4,A1
+requests,utils.py,Simple For Loop,466,467,4,A1
+requests,utils.py,Simple For Loop,521,529,4,A1
+requests,utils.py,Simple For Loop,566,569,4,A1
+requests,utils.py,Simple For Loop,637,650,4,A1
+requests,utils.py,Simple For Loop,849,852,4,A1
+requests,utils.py,1 Nested For Loop,923,939,4,A2
+requests,utils.py,Simple For Loop,1035,1040,4,A1
+requests,utils.py,Simple For Loop,96,104,8,A1
+requests,utils.py,Simple For Loop,208,219,8,A1
+requests,utils.py,Simple For Loop,931,937,8,A1
+requests,utils.py,Simple For Loop,787,794,12,A1
+requests,utils.py,Simple For Loop,800,804,12,A1
+requests,utils.py,While with Else Loop,270,276,4,B1
+requests,utils.py,While with Else Loop,580,582,4,B1
+requests,utils.py,'break' statement,275,275,12,B1
+requests,utils.py,'break' statement,852,852,12,B1
+requests,utils.py,'break' statement,219,219,16,B1
+requests,utils.py,'break' statement,935,935,16,B1
+requests,utils.py,'continue' statement,423,423,12,B1
+requests,utils.py,Exception --> try/try/except,203,248,4,B1
+requests,utils.py,Exception --> try/except,299,305,4,B1
+requests,utils.py,Exception --> try/except,618,621,4,B1
+requests,utils.py,Exception --> try/except,664,673,4,B1
+requests,utils.py,Exception --> try/except,706,709,4,B1
+requests,utils.py,Exception --> try/finally,749,756,4,B2
+requests,utils.py,Exception --> try/except,1019,1022,4,B1
+requests,utils.py,Exception --> try/except,72,75,8,B1
+requests,utils.py,Exception --> try/except,77,87,8,B1
+requests,utils.py,Exception --> try/except/else,165,186,8,B1
+requests,utils.py,Exception --> try/except,234,244,8,B1
+requests,utils.py,Exception --> try/except,612,615,8,B1
+requests,utils.py,Exception --> try/except,720,723,8,B1
+requests,utils.py,Exception --> try/except,728,731,8,B1
+requests,utils.py,Exception --> try/except,808,811,8,B1
+requests,utils.py,Exception --> try/except,924,927,8,B1
+requests,utils.py,Exception --> try/except,1079,1084,8,B1
+requests,utils.py,Exception --> try/except,209,215,12,B1
+requests,utils.py,Exception --> try/except,640,643,12,B1
+requests,utils.py,Exception --> try/except,932,935,12,B1
+requests,utils.py,Exception --> try/except/else,139,162,8,B1
+requests,utils.py,Exception --> try/except,177,186,16,B1
+requests,utils.py,With,806,811,4,B1
+requests,utils.py,With,290,291,8,B1
+requests,utils.py,With,300,301,8,B1
+requests,utils.py,Function with Simple argument,119,125,0,A1
+requests,utils.py,Function with Simple argument,128,191,0,A1
+requests,utils.py,Function with Simple argument with Default argument,194,248,0,A2
+requests,utils.py,Function with Simple argument,251,255,0,A1
+requests,utils.py,Function with Simple argument,258,292,0,A1
+requests,utils.py,Function with Simple argument,296,305,0,A1
+requests,utils.py,Function with Simple argument,308,332,0,A1
+requests,utils.py,Function with Simple argument,335,361,0,A1
+requests,utils.py,Function with Simple argument,365,393,0,A1
+requests,utils.py,Function with Simple argument,397,428,0,A1
+requests,utils.py,Function with Simple argument with Default argument,432,454,0,A2
+requests,utils.py,Function with Simple argument,457,469,0,A1
+requests,utils.py,Function with Simple argument,472,480,0,A1
+requests,utils.py,Function with Simple argument,483,505,0,A1
+requests,utils.py,Function with Simple argument,508,530,0,A1
+requests,utils.py,Function with Simple argument,533,555,0,A1
+requests,utils.py,Function with Simple argument,558,572,0,A1
+requests,utils.py,Function with Simple argument,575,582,0,A1
+requests,utils.py,Function with Simple argument,585,621,0,A1
+requests,utils.py,Function with Simple argument,630,651,0,A1
+requests,utils.py,Function with Simple argument,654,673,0,A1
+requests,utils.py,Function with Simple argument,676,688,0,A1
+requests,utils.py,Function with Simple argument,691,699,0,A1
+requests,utils.py,Function with Simple argument,702,710,0,A1
+requests,utils.py,Function with Simple argument,713,734,0,A1
+requests,utils.py,Function with Simple argument,738,756,0,A1
+requests,utils.py,Function with Simple argument,759,816,0,A1
+requests,utils.py,Function with Simple argument with Default argument,819,828,0,A2
+requests,utils.py,Function with Simple argument,831,854,0,A1
+requests,utils.py,Function with Simple argument with Default argument,857,881,0,A2
+requests,utils.py,Function with Simple argument with Default argument,884,890,0,A2
+requests,utils.py,Function,893,904,0,A1
+requests,utils.py,Function with Simple argument,907,941,0,A1
+requests,utils.py,Function with Simple argument,950,979,0,A1
+requests,utils.py,Function with Simple argument,982,1008,0,A1
+requests,utils.py,Function with Simple argument,1011,1024,0,A1
+requests,utils.py,Function with Simple argument,1027,1043,0,A1
+requests,utils.py,Function with Simple argument,1046,1051,0,A1
+requests,utils.py,Function with Simple argument,1054,1068,0,A1
+requests,utils.py,Function with Simple argument,1071,1086,0,A1
+requests,utils.py,Function with Simple argument,71,105,4,A1
+requests,utils.py,Function with Simple argument,107,116,4,A1
+requests,utils.py,Function with Simple argument,767,768,4,A1
+requests,utils.py,Return,125,125,4,A1
+requests,utils.py,Return,191,191,4,A1
+requests,utils.py,Return,292,292,4,A1
+requests,utils.py,Return,332,332,4,A1
+requests,utils.py,Return,361,361,4,A1
+requests,utils.py,Return,393,393,4,A1
+requests,utils.py,Return,428,428,4,A1
+requests,utils.py,Return,454,454,4,A1
+requests,utils.py,Return,469,469,4,A1
+requests,utils.py,Return,480,480,4,A1
+requests,utils.py,Return,501,505,4,A1
+requests,utils.py,Return,530,530,4,A1
+requests,utils.py,Return,651,651,4,A1
+requests,utils.py,Return,688,688,4,A1
+requests,utils.py,Return,699,699,4,A1
+requests,utils.py,Return,710,710,4,A1
+requests,utils.py,Return,734,734,4,A1
+requests,utils.py,Return,816,816,4,A1
+requests,utils.py,Return,854,854,4,A1
+requests,utils.py,Return,881,881,4,A1
+requests,utils.py,Return,890,890,4,A1
+requests,utils.py,Return,897,904,4,A1
+requests,utils.py,Return,941,941,4,A1
+requests,utils.py,Return,979,979,4,A1
+requests,utils.py,Return,1008,1008,4,A1
+requests,utils.py,Return,1024,1024,4,A1
+requests,utils.py,Return,1068,1068,4,A1
+requests,utils.py,Return,105,105,8,A1
+requests,utils.py,Return,255,255,8,A1
+requests,utils.py,Return,265,265,8,A1
+requests,utils.py,Return,279,279,8,A1
+requests,utils.py,Return,283,283,8,A1
+requests,utils.py,Return,327,327,8,A1
+requests,utils.py,Return,353,353,8,A1
+requests,utils.py,Return,543,543,8,A1
+requests,utils.py,Return,548,548,8,A1
+requests,utils.py,Return,551,551,8,A1
+requests,utils.py,Return,555,555,8,A1
+requests,utils.py,Return,563,563,8,A1
+requests,utils.py,Return,619,619,8,A1
+requests,utils.py,Return,668,668,8,A1
+requests,utils.py,Return,733,733,8,A1
+requests,utils.py,Return,768,768,8,A1
+requests,utils.py,Return,779,779,8,A1
+requests,utils.py,Return,814,814,8,A1
+requests,utils.py,Return,826,826,8,A1
+requests,utils.py,Return,828,828,8,A1
+requests,utils.py,Return,840,840,8,A1
+requests,utils.py,Return,921,921,8,A1
+requests,utils.py,Return,959,959,8,A1
+requests,utils.py,Return,961,961,8,A1
+requests,utils.py,Return,963,963,8,A1
+requests,utils.py,Return,966,966,8,A1
+requests,utils.py,Return,89,89,12,A1
+requests,utils.py,Return,114,114,12,A1
+requests,utils.py,Return,116,116,12,A1
+requests,utils.py,Return,223,223,12,A1
+requests,utils.py,Return,453,453,12,A1
+requests,utils.py,Return,613,613,12,A1
+requests,utils.py,Return,621,621,8,A1
+requests,utils.py,Return,673,673,8,A1
+requests,utils.py,Return,709,709,8,A1
+requests,utils.py,Return,726,726,12,A1
+requests,utils.py,Return,969,969,12,A1
+requests,utils.py,Return,971,971,12,A1
+requests,utils.py,Return,975,975,12,A1
+requests,utils.py,Return,977,977,12,A1
+requests,utils.py,Return,75,75,12,A1
+requests,utils.py,Return,87,87,12,A1
+requests,utils.py,Return,104,104,16,A1
+requests,utils.py,Return,239,239,16,A1
+requests,utils.py,Return,723,723,12,A1
+requests,utils.py,Return,731,731,12,A1
+requests,utils.py,Return,99,99,20,A1
+requests,utils.py,Return,215,215,16,A1
+requests,utils.py,Return,804,804,20,A1
+requests,utils.py,Return,790,790,24,A1
+requests,utils.py,Return,794,794,20,A1
+requests,utils.py,Generator Function (yield),572,572,8,C1
+requests,utils.py,Generator Function (yield),581,581,8,C1
+requests,utils.py,Generator Function (yield),750,750,8,C1
+requests,utils.py,Generator Function (yield),301,301,12,C1
+requests,utils.py,Generator Function (yield),569,569,12,C1

@@ -1,0 +1,33 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+requests,compat.py,Simple Tuple,77,77,13,A1
+requests,compat.py,Simple Tuple,78,78,16,A1
+requests,compat.py,Simple Tuple,79,79,16,A1
+requests,compat.py,Simple Atributte,22,22,7,A2
+requests,compat.py,Simple Assignment,22,22,0,A1
+requests,compat.py,Simple Assignment,25,25,0,A1
+requests,compat.py,Simple Assignment,28,28,0,A1
+requests,compat.py,Simple Assignment,31,31,0,A1
+requests,compat.py,Simple Assignment,74,74,0,A1
+requests,compat.py,Simple Assignment,75,75,0,A1
+requests,compat.py,Simple Assignment,76,76,0,A1
+requests,compat.py,Simple Assignment,77,77,0,A1
+requests,compat.py,Simple Assignment,78,78,0,A1
+requests,compat.py,Simple Assignment,79,79,0,A1
+requests,compat.py,Simple Assignment,35,35,4,A1
+requests,compat.py,Import,15,15,0,A2
+requests,compat.py,Import,11,11,4,A2
+requests,compat.py,Import with 'as' extension ,33,33,4,B1
+requests,compat.py,Import with 'as' extension ,13,13,4,B1
+requests,compat.py,Import,37,37,4,A2
+requests,compat.py,From,45,45,0,A2
+requests,compat.py,From,46,46,0,A2
+requests,compat.py,From with 'as' extension ,47,47,0,B1
+requests,compat.py,From,48,48,0,A2
+requests,compat.py,From,49,49,0,A2
+requests,compat.py,From,54,65,0,A2
+requests,compat.py,From,66,72,0,A2
+requests,compat.py,From,40,40,4,A2
+requests,compat.py,From,42,42,4,A2
+requests,compat.py,Simple If statements,39,42,0,A1
+requests,compat.py,Exception --> try/except,10,13,0,B1
+requests,compat.py,Exception --> try/except,32,37,0,B1

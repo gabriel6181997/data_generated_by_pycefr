@@ -1,0 +1,51 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+requests,compat.py,Simple Tuple,58,58,20,A1
+requests,compat.py,Simple Tuple,59,59,20,A1
+requests,compat.py,Simple Tuple,79,79,17,A1
+requests,compat.py,Simple Tuple,80,80,20,A1
+requests,compat.py,Simple Tuple,81,81,20,A1
+requests,compat.py,Simple Atributte,23,23,7,A2
+requests,compat.py,Simple Assignment,23,23,0,A1
+requests,compat.py,Simple Assignment,26,26,0,A1
+requests,compat.py,Simple Assignment,29,29,0,A1
+requests,compat.py,Simple Assignment,31,31,0,A1
+requests,compat.py,Simple Assignment,34,34,4,A1
+requests,compat.py,Simple Assignment,54,54,4,A1
+requests,compat.py,Simple Assignment,55,55,4,A1
+requests,compat.py,Simple Assignment,56,56,4,A1
+requests,compat.py,Simple Assignment,57,57,4,A1
+requests,compat.py,Simple Assignment,58,58,4,A1
+requests,compat.py,Simple Assignment,59,59,4,A1
+requests,compat.py,Simple Assignment,60,60,4,A1
+requests,compat.py,Simple Assignment,76,76,4,A1
+requests,compat.py,Simple Assignment,77,77,4,A1
+requests,compat.py,Simple Assignment,78,78,4,A1
+requests,compat.py,Simple Assignment,79,79,4,A1
+requests,compat.py,Simple Assignment,80,80,4,A1
+requests,compat.py,Simple Assignment,81,81,4,A1
+requests,compat.py,Import,16,16,0,A2
+requests,compat.py,Import,12,12,4,A2
+requests,compat.py,Import with 'as' extension ,33,33,4,B1
+requests,compat.py,Import,48,48,4,A2
+requests,compat.py,Import with 'as' extension ,14,14,4,B1
+requests,compat.py,Import,36,36,4,A2
+requests,compat.py,From,43,45,4,A2
+requests,compat.py,From,46,46,4,A2
+requests,compat.py,From,47,47,4,A2
+requests,compat.py,From,49,49,4,A2
+requests,compat.py,From,50,50,4,A2
+requests,compat.py,From,52,52,4,A2
+requests,compat.py,From,63,63,4,A2
+requests,compat.py,From,64,64,4,A2
+requests,compat.py,From with 'as' extension ,65,65,4,B1
+requests,compat.py,From,66,66,4,A2
+requests,compat.py,From,67,67,4,A2
+requests,compat.py,From,69,69,4,A2
+requests,compat.py,From,70,70,4,A2
+requests,compat.py,From,72,72,8,A2
+requests,compat.py,From,74,74,8,A2
+requests,compat.py,Simple If statements,42,81,0,A1
+requests,compat.py,Simple If statements,62,81,0,A1
+requests,compat.py,Simple If statements,71,74,4,A1
+requests,compat.py,Exception --> try/except,11,14,0,B1
+requests,compat.py,Exception --> try/except,32,36,0,B1

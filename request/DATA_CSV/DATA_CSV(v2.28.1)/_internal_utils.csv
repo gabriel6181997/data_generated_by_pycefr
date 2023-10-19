@@ -1,0 +1,27 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+requests,_internal_utils.py,Simple Tuple,18,18,11,A1
+requests,_internal_utils.py,Simple Tuple,19,19,9,A1
+requests,_internal_utils.py,Simple Dictionary,17,20,20,A2
+requests,_internal_utils.py,Simple Atributte,12,12,29,A2
+requests,_internal_utils.py,Simple Atributte,13,13,28,A2
+requests,_internal_utils.py,Simple Atributte,14,14,30,A2
+requests,_internal_utils.py,Simple Atributte,15,15,29,A2
+requests,_internal_utils.py,Simple Atributte,31,31,14,A2
+requests,_internal_utils.py,Simple Atributte,45,45,8,A2
+requests,_internal_utils.py,Simple Assignment,12,12,0,A1
+requests,_internal_utils.py,Simple Assignment,13,13,0,A1
+requests,_internal_utils.py,Simple Assignment,14,14,0,A1
+requests,_internal_utils.py,Simple Assignment,15,15,0,A1
+requests,_internal_utils.py,Simple Assignment,17,20,0,A1
+requests,_internal_utils.py,Simple Assignment,29,29,8,A1
+requests,_internal_utils.py,Simple Assignment,31,31,8,A1
+requests,_internal_utils.py,'assert' exception,43,43,4,B2
+requests,_internal_utils.py,Import're' module,8,8,0,C1
+requests,_internal_utils.py,Relative From,10,10,0,B1
+requests,_internal_utils.py,Simple If statements,28,31,4,A1
+requests,_internal_utils.py,Exception --> try/except,44,48,4,B1
+requests,_internal_utils.py,Function with Simple argument with Default argument,23,33,0,A2
+requests,_internal_utils.py,Function with Simple argument,36,48,0,A1
+requests,_internal_utils.py,Return,33,33,4,A1
+requests,_internal_utils.py,Return,46,46,8,A1
+requests,_internal_utils.py,Return,48,48,8,A1

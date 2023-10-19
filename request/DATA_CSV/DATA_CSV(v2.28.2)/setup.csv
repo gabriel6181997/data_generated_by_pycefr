@@ -1,0 +1,82 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+requests,setup.py,Simple List,61,66,11,A1
+requests,setup.py,Simple List,67,74,20,A1
+requests,setup.py,Simple List,32,32,19,A1
+requests,setup.py,Simple List,45,45,25,A1
+requests,setup.py,Simple List,93,93,13,A1
+requests,setup.py,Simple List,101,120,16,A1
+requests,setup.py,Simple List,39,39,31,A1
+requests,setup.py,Simple List,94,94,22,A1
+requests,setup.py,Simple List,124,124,20,A1
+requests,setup.py,Simple List,125,125,17,A1
+requests,setup.py,Simple List,126,126,30,A1
+requests,setup.py,Simple List,41,41,31,A1
+requests,setup.py,Simple Tuple,10,10,18,A1
+requests,setup.py,Simple Tuple,32,32,20,A1
+requests,setup.py,Simple Tuple,40,40,15,A1
+requests,setup.py,Simple Dictionary,76,76,8,A2
+requests,setup.py,1 List Dictionary,94,94,17,B1
+requests,setup.py,Simple Dictionary,95,95,16,A2
+requests,setup.py,Simple Dictionary,121,121,13,A2
+requests,setup.py,3 List Dictionary,123,127,19,B1
+requests,setup.py,Simple Dictionary,128,131,17,A2
+requests,setup.py,Files --> 'write' call function,13,27,4,A2
+requests,setup.py,Files --> 'open' call function,78,78,5,A2
+requests,setup.py,Files --> 'open' call function,81,81,5,A2
+requests,setup.py,Files --> 'read' call function,82,82,13,A2
+requests,setup.py,Files --> 'read' call function,79,79,9,A2
+requests,setup.py,Simple Atributte,9,9,17,A2
+requests,setup.py,Simple Atributte,77,77,7,A2
+requests,setup.py,Simple Atributte,13,13,4,A2
+requests,setup.py,Simple Atributte,28,28,4,A2
+requests,setup.py,Simple Atributte,45,45,8,A2
+requests,setup.py,Simple Atributte,46,46,8,A2
+requests,setup.py,Simple Atributte,56,56,3,A2
+requests,setup.py,Simple Atributte,57,57,4,A2
+requests,setup.py,Simple Atributte,58,58,4,A2
+requests,setup.py,Simple Atributte,59,59,4,A2
+requests,setup.py,Simple Atributte,77,77,7,A2
+requests,setup.py,Simple Atributte,77,77,23,A2
+requests,setup.py,Simple Atributte,82,82,13,A2
+requests,setup.py,Simple Atributte,13,13,4,A2
+requests,setup.py,Simple Atributte,14,24,8,A2
+requests,setup.py,Simple Atributte,35,35,8,A2
+requests,setup.py,Simple Atributte,39,39,12,A2
+requests,setup.py,Simple Atributte,44,44,8,A2
+requests,setup.py,Simple Atributte,51,51,16,A2
+requests,setup.py,Simple Atributte,51,51,28,A2
+requests,setup.py,Simple Atributte,52,52,8,A2
+requests,setup.py,Simple Atributte,77,77,23,A2
+requests,setup.py,Simple Atributte,78,78,10,A2
+requests,setup.py,Simple Atributte,79,79,9,A2
+requests,setup.py,Simple Atributte,41,41,12,A2
+requests,setup.py,Simple Atributte,78,78,10,A2
+requests,setup.py,Simple Assignment,9,9,0,A1
+requests,setup.py,Simple Assignment,10,10,0,A1
+requests,setup.py,Simple Assignment,61,66,0,A1
+requests,setup.py,Simple Assignment,67,74,0,A1
+requests,setup.py,Simple Assignment,76,76,0,A1
+requests,setup.py,Simple Assignment,77,77,0,A1
+requests,setup.py,Simple Assignment,32,32,4,A1
+requests,setup.py,Simple Assignment,82,82,4,A1
+requests,setup.py,Simple Assignment,45,45,8,A1
+requests,setup.py,Simple Assignment,46,46,8,A1
+requests,setup.py,Simple Assignment,51,51,8,A1
+requests,setup.py,Simple Assignment,39,39,12,A1
+requests,setup.py,Simple Assignment,41,41,12,A1
+requests,setup.py,Import,2,2,0,A2
+requests,setup.py,Import,3,3,0,A2
+requests,setup.py,Import,49,49,8,A2
+requests,setup.py,From,4,4,0,A2
+requests,setup.py,From,6,6,0,A2
+requests,setup.py,From with 'as' extension ,7,7,0,B1
+requests,setup.py,From,37,37,12,A2
+requests,setup.py,Simple If statements,12,28,0,A1
+requests,setup.py,Simple If statements,56,59,0,A1
+requests,setup.py,Exception --> try/except,36,41,8,B1
+requests,setup.py,With,78,79,0,B1
+requests,setup.py,With,81,82,0,B1
+requests,setup.py,Function with Simple argument,34,41,4,A1
+requests,setup.py,Function with Simple argument,43,46,4,A1
+requests,setup.py,Function with Simple argument,48,52,4,A1
+requests,setup.py,Inherited Class from TestCommand,31,52,0,B1

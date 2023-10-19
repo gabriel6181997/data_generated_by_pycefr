@@ -1,0 +1,20 @@
+{
+    "docs": {
+        "conf.py": {
+            "Levels": {
+                "A1": 50,
+                "A2": 16,
+                "B1": 1
+            },
+            "Class": {
+                "Simple List": 11,
+                "Simple Tuple": 5,
+                "Simple Dictionary": 3,
+                " List Dictionary": 1,
+                "Simple Atributte": 10,
+                "Simple Assignment": 34,
+                "Import": 3
+            }
+        }
+    }
+}

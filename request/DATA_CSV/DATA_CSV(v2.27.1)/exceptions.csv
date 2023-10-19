@@ -1,0 +1,44 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+requests,exceptions.py,Super Function,27,27,8,C2
+requests,exceptions.py,Simple Atributte,22,22,8,A2
+requests,exceptions.py,Simple Atributte,23,23,8,A2
+requests,exceptions.py,Simple Atributte,21,21,19,A2
+requests,exceptions.py,Simple Atributte,23,23,23,A2
+requests,exceptions.py,Simple Atributte,26,26,12,A2
+requests,exceptions.py,Simple Atributte,26,26,27,A2
+requests,exceptions.py,Simple Atributte,27,27,8,A2
+requests,exceptions.py,Simple Atributte,24,24,41,A2
+requests,exceptions.py,Simple Atributte,26,26,27,A2
+requests,exceptions.py,Simple Assignment,21,21,8,A1
+requests,exceptions.py,Simple Assignment,22,22,8,A1
+requests,exceptions.py,Simple Assignment,23,23,8,A1
+requests,exceptions.py,Simple Assignment,26,26,12,A1
+requests,exceptions.py,From with 'as' extension ,9,9,0,B1
+requests,exceptions.py,Relative From with 'as' extension ,11,11,0,B1
+requests,exceptions.py,Simple If statements,24,26,8,A1
+requests,exceptions.py,Function with Simple argument with * argument  with ** argument,19,27,4,B1
+requests,exceptions.py,Inherited Class from IOError,14,27,0,B1
+requests,exceptions.py,Inherited Class from RequestException,30,31,0,B1
+requests,exceptions.py,Inherited Class from CompatJSONDecodeError,34,35,0,B1
+requests,exceptions.py,Inherited Class from RequestException,38,39,0,B1
+requests,exceptions.py,Inherited Class from RequestException,42,43,0,B1
+requests,exceptions.py,Inherited Class from ConnectionError,46,47,0,B1
+requests,exceptions.py,Inherited Class from ConnectionError,50,51,0,B1
+requests,exceptions.py,Inherited Class from RequestException,54,60,0,B1
+requests,exceptions.py,Inherited Class from Timeout,63,67,0,B1
+requests,exceptions.py,Inherited Class from Timeout,70,71,0,B1
+requests,exceptions.py,Inherited Class from RequestException,74,75,0,B1
+requests,exceptions.py,Inherited Class from RequestException,78,79,0,B1
+requests,exceptions.py,Inherited Class from ValueError,82,83,0,B1
+requests,exceptions.py,Inherited Class from ValueError,86,87,0,B1
+requests,exceptions.py,Inherited Class from ValueError,90,91,0,B1
+requests,exceptions.py,Inherited Class from ValueError,94,95,0,B1
+requests,exceptions.py,Inherited Class from InvalidURL,98,99,0,B1
+requests,exceptions.py,Inherited Class from RequestException,102,103,0,B1
+requests,exceptions.py,Inherited Class from BaseHTTPError,106,107,0,B1
+requests,exceptions.py,Inherited Class from TypeError,110,111,0,B1
+requests,exceptions.py,Inherited Class from RequestException,114,115,0,B1
+requests,exceptions.py,Inherited Class from RequestException,118,119,0,B1
+requests,exceptions.py,Inherited Class from Warning,124,125,0,B1
+requests,exceptions.py,Inherited Class from DeprecationWarning,128,129,0,B1
+requests,exceptions.py,Inherited Class from RequestsWarning,132,133,0,B1

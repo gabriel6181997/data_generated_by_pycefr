@@ -1,0 +1,102 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+requests,help.py,Simple List,55,57,45,A1
+requests,help.py,Simple Tuple,51,53,46,A1
+requests,help.py,Simple Dictionary,65,65,11,A2
+requests,help.py,Simple Dictionary,82,82,19,A2
+requests,help.py,Simple Dictionary,83,83,30,A2
+requests,help.py,Simple Dictionary,84,84,19,A2
+requests,help.py,Simple Dictionary,90,93,21,A2
+requests,help.py,Simple Dictionary,99,101,24,A2
+requests,help.py,Simple Dictionary,102,104,16,A2
+requests,help.py,Simple Dictionary,107,109,22,A2
+requests,help.py,1 Nested Dictionary,111,126,11,B1
+requests,help.py,Simple Dictionary,71,74,24,A2
+requests,help.py,Simple Dictionary,86,86,34,A2
+requests,help.py,Simple Dictionary,88,88,23,A2
+requests,help.py,Simple Dictionary,95,98,25,A2
+requests,help.py,Simple Dictionary,123,125,20,A2
+requests,help.py,Simple Dictionary,76,79,24,A2
+requests,help.py,Print,131,131,4,A1
+requests,help.py,If statements expression (else),108,108,19,B1
+requests,help.py,Simple Atributte,106,106,17,A2
+requests,help.py,Simple Atributte,46,46,21,A2
+requests,help.py,Simple Atributte,82,82,31,A2
+requests,help.py,Simple Atributte,49,49,33,A2
+requests,help.py,Simple Atributte,86,86,46,A2
+requests,help.py,Simple Atributte,88,88,35,A2
+requests,help.py,Simple Atributte,96,96,23,A2
+requests,help.py,Simple Atributte,131,131,10,A2
+requests,help.py,Simple Atributte,54,54,11,A2
+requests,help.py,Simple Atributte,72,72,22,A2
+requests,help.py,Simple Atributte,73,73,23,A2
+requests,help.py,Simple Atributte,97,97,38,A2
+requests,help.py,Simple Atributte,51,51,47,A2
+requests,help.py,Simple Atributte,52,52,47,A2
+requests,help.py,Simple Atributte,53,53,47,A2
+requests,help.py,Simple Atributte,54,54,11,A2
+requests,help.py,Simple Atributte,55,55,37,A2
+requests,help.py,Simple Atributte,59,59,33,A2
+requests,help.py,Simple Atributte,97,97,38,A2
+requests,help.py,Simple Atributte,51,51,47,A2
+requests,help.py,Simple Atributte,52,52,47,A2
+requests,help.py,Simple Atributte,53,53,47,A2
+requests,help.py,Simple Atributte,56,56,40,A2
+requests,help.py,Simple Atributte,61,61,33,A2
+requests,help.py,Simple Atributte,56,56,40,A2
+requests,help.py,Simple Assignment,46,46,4,A1
+requests,help.py,Simple Assignment,81,81,4,A1
+requests,help.py,Simple Assignment,82,82,4,A1
+requests,help.py,Simple Assignment,83,83,4,A1
+requests,help.py,Simple Assignment,84,84,4,A1
+requests,help.py,Simple Assignment,90,93,4,A1
+requests,help.py,Simple Assignment,99,101,4,A1
+requests,help.py,Simple Assignment,102,104,4,A1
+requests,help.py,Simple Assignment,106,106,4,A1
+requests,help.py,Simple Assignment,107,109,4,A1
+requests,help.py,Simple Assignment,17,17,4,A1
+requests,help.py,Simple Assignment,22,22,4,A1
+requests,help.py,Simple Assignment,27,27,4,A1
+requests,help.py,Simple Assignment,28,28,4,A1
+requests,help.py,Simple Assignment,29,29,4,A1
+requests,help.py,Simple Assignment,49,49,8,A1
+requests,help.py,Simple Assignment,71,74,8,A1
+requests,help.py,Simple Assignment,86,86,8,A1
+requests,help.py,Simple Assignment,88,88,8,A1
+requests,help.py,Simple Assignment,95,98,8,A1
+requests,help.py,Assigment with sum (total = total + 1),51,53,8,A1
+requests,help.py,Simple Assignment,76,79,8,A1
+requests,help.py,Simple Assignment,55,57,12,A1
+requests,help.py,Simple Assignment,59,59,8,A1
+requests,help.py,Simple Assignment,61,61,8,A1
+requests,help.py,Simple Assignment,63,63,8,A1
+requests,help.py,Import,4,4,0,A2
+requests,help.py,Import,5,5,0,A2
+requests,help.py,Import,6,6,0,A2
+requests,help.py,Import,7,7,0,A2
+requests,help.py,Import,9,9,0,A2
+requests,help.py,Import,10,10,0,A2
+requests,help.py,Import,15,15,4,A2
+requests,help.py,Import,20,20,4,A2
+requests,help.py,Import,31,31,4,A2
+requests,help.py,Import,32,32,4,A2
+requests,help.py,From,2,2,0,A2
+requests,help.py,Relative From with 'as' extension ,12,12,0,B1
+requests,help.py,From,25,25,4,A2
+requests,help.py,If statements using → __name__ == ‘__main__’,134,135,0,B2
+requests,help.py,Simple If statements,48,63,4,A1
+requests,help.py,Simple If statements,85,86,4,A1
+requests,help.py,Simple If statements,87,88,4,A1
+requests,help.py,Simple If statements,94,98,4,A1
+requests,help.py,Simple If statements,50,63,4,A1
+requests,help.py,Simple If statements,54,57,8,A1
+requests,help.py,Simple If statements,58,63,4,A1
+requests,help.py,Simple If statements,60,63,4,A1
+requests,help.py,Exception --> try/except,14,17,0,B1
+requests,help.py,Exception --> try/except,19,22,0,B1
+requests,help.py,Exception --> try/except/else,24,32,0,B1
+requests,help.py,Exception --> try/except,70,79,4,B1
+requests,help.py,Function,35,65,0,A1
+requests,help.py,Function,68,126,0,A1
+requests,help.py,Function,129,131,0,A1
+requests,help.py,Return,65,65,4,A1
+requests,help.py,Return,111,126,4,A1

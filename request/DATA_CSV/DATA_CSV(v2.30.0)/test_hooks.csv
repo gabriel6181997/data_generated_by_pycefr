@@ -1,0 +1,21 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+tests,test_hooks.py,Simple List,14,14,9,A1
+tests,test_hooks.py,Simple List,22,22,49,A1
+tests,test_hooks.py,4 Nested Tuple,12,15,4,A2
+tests,test_hooks.py,Simple Tuple,13,13,8,A1
+tests,test_hooks.py,Simple Tuple,14,14,8,A1
+tests,test_hooks.py,1 List Dictionary,22,22,36,B1
+tests,test_hooks.py,Simple Dictionary,18,18,43,A2
+tests,test_hooks.py,Simple Atributte,10,10,1,A2
+tests,test_hooks.py,Simple Atributte,10,10,1,A2
+tests,test_hooks.py,Simple Atributte,18,18,11,A2
+tests,test_hooks.py,Simple Atributte,22,22,11,A2
+tests,test_hooks.py,'assert' exception,18,18,4,B2
+tests,test_hooks.py,'assert' exception,22,22,4,B2
+tests,test_hooks.py,Import,1,1,0,A2
+tests,test_hooks.py,From,3,3,0,A2
+tests,test_hooks.py,Function with Simple argument,6,7,0,A1
+tests,test_hooks.py,Function with Simple argument,17,18,0,A1
+tests,test_hooks.py,Function,21,22,0,A1
+tests,test_hooks.py,Lambda,14,14,16,B1
+tests,test_hooks.py,Return,7,7,4,A1

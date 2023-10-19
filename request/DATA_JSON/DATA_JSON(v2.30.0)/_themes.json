@@ -1,0 +1,18 @@
+{
+    "_themes": {
+        "flask_theme_support.py": {
+            "Levels": {
+                "A2": 55,
+                "A1": 3,
+                "B1": 1
+            },
+            "Class": {
+                "Simple Dictionary": 1,
+                "Simple Atributte": 52,
+                "Simple Assignment": 3,
+                "From": 2,
+                "Inherited Class from Style": 1
+            }
+        }
+    }
+}

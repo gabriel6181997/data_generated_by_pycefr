@@ -1,0 +1,92 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+requests,status_codes.py,Simple Tuple,28,28,9,A1
+requests,status_codes.py,Simple Tuple,29,29,9,A1
+requests,status_codes.py,Simple Tuple,30,30,9,A1
+requests,status_codes.py,Simple Tuple,31,31,9,A1
+requests,status_codes.py,Simple Tuple,32,32,9,A1
+requests,status_codes.py,Simple Tuple,33,33,9,A1
+requests,status_codes.py,Simple Tuple,34,34,9,A1
+requests,status_codes.py,Simple Tuple,35,35,9,A1
+requests,status_codes.py,Simple Tuple,36,36,9,A1
+requests,status_codes.py,Simple Tuple,37,37,9,A1
+requests,status_codes.py,Simple Tuple,38,38,9,A1
+requests,status_codes.py,Simple Tuple,39,39,9,A1
+requests,status_codes.py,Simple Tuple,40,40,9,A1
+requests,status_codes.py,Simple Tuple,41,41,9,A1
+requests,status_codes.py,Simple Tuple,42,42,9,A1
+requests,status_codes.py,Simple Tuple,45,45,9,A1
+requests,status_codes.py,Simple Tuple,46,46,9,A1
+requests,status_codes.py,Simple Tuple,47,47,9,A1
+requests,status_codes.py,Simple Tuple,48,48,9,A1
+requests,status_codes.py,Simple Tuple,49,49,9,A1
+requests,status_codes.py,Simple Tuple,50,50,9,A1
+requests,status_codes.py,Simple Tuple,51,51,9,A1
+requests,status_codes.py,Simple Tuple,52,52,9,A1
+requests,status_codes.py,Simple Tuple,53,54,9,A1
+requests,status_codes.py,Simple Tuple,57,57,9,A1
+requests,status_codes.py,Simple Tuple,58,58,9,A1
+requests,status_codes.py,Simple Tuple,59,59,9,A1
+requests,status_codes.py,Simple Tuple,60,60,9,A1
+requests,status_codes.py,Simple Tuple,61,61,9,A1
+requests,status_codes.py,Simple Tuple,62,62,9,A1
+requests,status_codes.py,Simple Tuple,63,63,9,A1
+requests,status_codes.py,Simple Tuple,64,64,9,A1
+requests,status_codes.py,Simple Tuple,65,65,9,A1
+requests,status_codes.py,Simple Tuple,66,66,9,A1
+requests,status_codes.py,Simple Tuple,67,67,9,A1
+requests,status_codes.py,Simple Tuple,68,68,9,A1
+requests,status_codes.py,Simple Tuple,69,69,9,A1
+requests,status_codes.py,Simple Tuple,70,70,9,A1
+requests,status_codes.py,Simple Tuple,71,71,9,A1
+requests,status_codes.py,Simple Tuple,72,72,9,A1
+requests,status_codes.py,Simple Tuple,73,73,9,A1
+requests,status_codes.py,Simple Tuple,74,74,9,A1
+requests,status_codes.py,Simple Tuple,75,75,9,A1
+requests,status_codes.py,Simple Tuple,76,76,9,A1
+requests,status_codes.py,Simple Tuple,77,77,9,A1
+requests,status_codes.py,Simple Tuple,78,78,9,A1
+requests,status_codes.py,Simple Tuple,79,79,9,A1
+requests,status_codes.py,Simple Tuple,80,80,9,A1
+requests,status_codes.py,Simple Tuple,81,81,9,A1
+requests,status_codes.py,Simple Tuple,82,82,9,A1
+requests,status_codes.py,Simple Tuple,83,83,9,A1
+requests,status_codes.py,Simple Tuple,84,84,9,A1
+requests,status_codes.py,Simple Tuple,85,85,9,A1
+requests,status_codes.py,Simple Tuple,86,86,9,A1
+requests,status_codes.py,Simple Tuple,87,87,9,A1
+requests,status_codes.py,Simple Tuple,88,88,9,A1
+requests,status_codes.py,Simple Tuple,89,89,9,A1
+requests,status_codes.py,Simple Tuple,92,92,9,A1
+requests,status_codes.py,Simple Tuple,93,93,9,A1
+requests,status_codes.py,Simple Tuple,94,94,9,A1
+requests,status_codes.py,Simple Tuple,95,95,9,A1
+requests,status_codes.py,Simple Tuple,96,96,9,A1
+requests,status_codes.py,Simple Tuple,97,97,9,A1
+requests,status_codes.py,Simple Tuple,98,98,9,A1
+requests,status_codes.py,Simple Tuple,99,99,9,A1
+requests,status_codes.py,Simple Tuple,100,100,9,A1
+requests,status_codes.py,Simple Tuple,101,101,9,A1
+requests,status_codes.py,Simple Tuple,102,102,9,A1
+requests,status_codes.py,Simple Tuple,108,108,8,A1
+requests,status_codes.py,Simple Tuple,116,116,28,A1
+requests,status_codes.py,Simple Tuple,111,111,36,A1
+requests,status_codes.py,Simple Dictionary,25,103,9,A2
+requests,status_codes.py,If statements expression (else),119,121,15,B1
+requests,status_codes.py,Simple Atributte,108,108,24,A2
+requests,status_codes.py,Simple Atributte,115,115,16,A2
+requests,status_codes.py,Simple Atributte,120,120,15,A2
+requests,status_codes.py,Simple Atributte,111,111,19,A2
+requests,status_codes.py,Simple Atributte,112,112,31,A2
+requests,status_codes.py,Generator Expression,115,115,25,C1
+requests,status_codes.py,Generator Expression,120,120,24,C1
+requests,status_codes.py,Simple Assignment,25,103,0,A1
+requests,status_codes.py,Simple Assignment,105,105,0,A1
+requests,status_codes.py,Simple Assignment,119,121,4,A1
+requests,status_codes.py,Simple Assignment,115,115,8,A1
+requests,status_codes.py,Relative From,23,23,0,B1
+requests,status_codes.py,Simple If statements,111,112,12,A1
+requests,status_codes.py,For Loop with Tuple as name,108,112,4,A2
+requests,status_codes.py,Simple For Loop,109,112,8,A1
+requests,status_codes.py,Function,107,121,0,A1
+requests,status_codes.py,Function with Simple argument,114,116,4,A1
+requests,status_codes.py,Return,116,116,8,A1

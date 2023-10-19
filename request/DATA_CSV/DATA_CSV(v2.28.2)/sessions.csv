@@ -1,0 +1,463 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+requests,sessions.py,Simple List,374,387,16,A1
+requests,sessions.py,Simple List,173,173,15,A1
+requests,sessions.py,Simple List,97,97,65,A1
+requests,sessions.py,Simple List,100,100,65,A1
+requests,sessions.py,Simple List,725,725,22,A1
+requests,sessions.py,Simple List,201,201,31,A1
+requests,sessions.py,Simple Tuple,148,148,23,A1
+requests,sessions.py,Simple Tuple,786,786,12,A1
+requests,sessions.py,Simple Tuple,815,815,12,A1
+requests,sessions.py,Simple Tuple,84,84,23,A1
+requests,sessions.py,Simple Tuple,323,323,12,A1
+requests,sessions.py,Simple Tuple,760,760,16,A1
+requests,sessions.py,Simple Tuple,139,139,35,A1
+requests,sessions.py,Simple Tuple,141,141,35,A1
+requests,sessions.py,Simple Tuple,187,187,19,A1
+requests,sessions.py,Simple Tuple,224,227,39,A1
+requests,sessions.py,Simple Tuple,229,229,33,A1
+requests,sessions.py,Simple Tuple,325,325,12,A1
+requests,sessions.py,Simple Tuple,325,325,33,A1
+requests,sessions.py,Simple Dictionary,403,403,23,A2
+requests,sessions.py,Simple Dictionary,411,411,22,A2
+requests,sessions.py,Simple Dictionary,582,585,22,A2
+requests,sessions.py,Simple Dictionary,778,778,15,A2
+requests,sessions.py,Simple Dictionary,444,444,43,A2
+requests,sessions.py,Simple Dictionary,467,467,37,A2
+requests,sessions.py,Simple Dictionary,575,575,29,A2
+requests,sessions.py,Simple Dictionary,566,566,25,A2
+requests,sessions.py,Simple Dictionary,568,568,29,A2
+requests,sessions.py,Files --> 'read' call function,188,188,16,A2
+requests,sessions.py,If statements expression (else),299,299,19,B1
+requests,sessions.py,If statements expression (else),758,758,23,B1
+requests,sessions.py,Simple Atributte,55,55,3,A2
+requests,sessions.py,Simple Atributte,56,56,22,A2
+requests,sessions.py,Simple Atributte,58,58,22,A2
+requests,sessions.py,Simple Atributte,80,80,4,A2
+requests,sessions.py,Simple Atributte,115,115,11,A2
+requests,sessions.py,Simple Atributte,176,176,28,A2
+requests,sessions.py,Simple Atributte,288,288,18,A2
+requests,sessions.py,Simple Atributte,289,289,14,A2
+requests,sessions.py,Simple Atributte,315,315,18,A2
+requests,sessions.py,Simple Atributte,316,316,17,A2
+requests,sessions.py,Simple Atributte,336,336,17,A2
+requests,sessions.py,Simple Atributte,352,352,8,A2
+requests,sessions.py,Simple Atributte,394,394,8,A2
+requests,sessions.py,Simple Atributte,398,398,8,A2
+requests,sessions.py,Simple Atributte,403,403,8,A2
+requests,sessions.py,Simple Atributte,406,406,8,A2
+requests,sessions.py,Simple Atributte,411,411,8,A2
+requests,sessions.py,Simple Atributte,414,414,8,A2
+requests,sessions.py,Simple Atributte,424,424,8,A2
+requests,sessions.py,Simple Atributte,428,428,8,A2
+requests,sessions.py,Simple Atributte,434,434,8,A2
+requests,sessions.py,Simple Atributte,438,438,8,A2
+requests,sessions.py,Simple Atributte,444,444,8,A2
+requests,sessions.py,Simple Atributte,447,447,8,A2
+requests,sessions.py,Simple Atributte,479,479,15,A2
+requests,sessions.py,Simple Atributte,692,692,16,A2
+requests,sessions.py,Simple Atributte,705,705,8,A2
+requests,sessions.py,Simple Atributte,711,711,11,A2
+requests,sessions.py,Simple Atributte,756,756,11,A2
+requests,sessions.py,Simple Atributte,131,131,11,A2
+requests,sessions.py,Simple Atributte,131,131,34,A2
+requests,sessions.py,Simple Atributte,146,146,23,A2
+requests,sessions.py,Simple Atributte,146,146,42,A2
+requests,sessions.py,Simple Atributte,147,147,25,A2
+requests,sessions.py,Simple Atributte,147,147,46,A2
+requests,sessions.py,Simple Atributte,175,175,14,A2
+requests,sessions.py,Simple Atributte,183,183,12,A2
+requests,sessions.py,Simple Atributte,219,219,12,A2
+requests,sessions.py,Simple Atributte,234,234,22,A2
+requests,sessions.py,Simple Atributte,299,299,42,A2
+requests,sessions.py,Simple Atributte,317,317,65,A2
+requests,sessions.py,Simple Atributte,448,448,8,A2
+requests,sessions.py,Simple Atributte,449,449,8,A2
+requests,sessions.py,Simple Atributte,455,455,8,A2
+requests,sessions.py,Simple Atributte,467,467,18,A2
+requests,sessions.py,Simple Atributte,480,480,11,A2
+requests,sessions.py,Simple Atributte,484,484,8,A2
+requests,sessions.py,Simple Atributte,573,573,15,A2
+requests,sessions.py,Simple Atributte,577,577,19,A2
+requests,sessions.py,Simple Atributte,578,578,12,A2
+requests,sessions.py,Simple Atributte,586,586,8,A2
+requests,sessions.py,Simple Atributte,587,587,15,A2
+requests,sessions.py,Simple Atributte,599,599,8,A2
+requests,sessions.py,Simple Atributte,600,600,15,A2
+requests,sessions.py,Simple Atributte,610,610,8,A2
+requests,sessions.py,Simple Atributte,611,611,15,A2
+requests,sessions.py,Simple Atributte,621,621,8,A2
+requests,sessions.py,Simple Atributte,622,622,15,A2
+requests,sessions.py,Simple Atributte,635,635,15,A2
+requests,sessions.py,Simple Atributte,647,647,15,A2
+requests,sessions.py,Simple Atributte,659,659,15,A2
+requests,sessions.py,Simple Atributte,669,669,15,A2
+requests,sessions.py,Simple Atributte,678,678,8,A2
+requests,sessions.py,Simple Atributte,678,678,36,A2
+requests,sessions.py,Simple Atributte,679,679,8,A2
+requests,sessions.py,Simple Atributte,679,679,36,A2
+requests,sessions.py,Simple Atributte,680,680,8,A2
+requests,sessions.py,Simple Atributte,680,680,34,A2
+requests,sessions.py,Simple Atributte,690,690,26,A2
+requests,sessions.py,Simple Atributte,691,691,17,A2
+requests,sessions.py,Simple Atributte,695,695,18,A2
+requests,sessions.py,Simple Atributte,701,701,12,A2
+requests,sessions.py,Simple Atributte,714,714,24,A2
+requests,sessions.py,Simple Atributte,717,717,31,A2
+requests,sessions.py,Simple Atributte,717,717,54,A2
+requests,sessions.py,Simple Atributte,733,733,12,A2
+requests,sessions.py,Simple Atributte,745,745,12,A2
+requests,sessions.py,Simple Atributte,773,773,41,A2
+requests,sessions.py,Simple Atributte,774,774,39,A2
+requests,sessions.py,Simple Atributte,775,775,39,A2
+requests,sessions.py,Simple Atributte,776,776,35,A2
+requests,sessions.py,Simple Atributte,786,786,33,A2
+requests,sessions.py,Simple Atributte,796,796,17,A2
+requests,sessions.py,Simple Atributte,804,804,8,A2
+requests,sessions.py,Simple Atributte,815,815,27,A2
+requests,sessions.py,Simple Atributte,84,84,33,A2
+requests,sessions.py,Simple Atributte,97,97,32,A2
+requests,sessions.py,Simple Atributte,100,100,32,A2
+requests,sessions.py,Simple Atributte,116,116,23,A2
+requests,sessions.py,Simple Atributte,123,123,23,A2
+requests,sessions.py,Simple Atributte,138,138,12,A2
+requests,sessions.py,Simple Atributte,139,139,16,A2
+requests,sessions.py,Simple Atributte,140,140,16,A2
+requests,sessions.py,Simple Atributte,141,141,16,A2
+requests,sessions.py,Simple Atributte,148,148,24,A2
+requests,sessions.py,Simple Atributte,148,148,42,A2
+requests,sessions.py,Simple Atributte,151,151,16,A2
+requests,sessions.py,Simple Atributte,152,152,16,A2
+requests,sessions.py,Simple Atributte,176,176,37,A2
+requests,sessions.py,Simple Atributte,178,178,31,A2
+requests,sessions.py,Simple Atributte,182,182,12,A2
+requests,sessions.py,Simple Atributte,186,186,16,A2
+requests,sessions.py,Simple Atributte,190,190,36,A2
+requests,sessions.py,Simple Atributte,196,196,12,A2
+requests,sessions.py,Simple Atributte,199,199,15,A2
+requests,sessions.py,Simple Atributte,207,207,17,A2
+requests,sessions.py,Simple Atributte,209,209,18,A2
+requests,sessions.py,Simple Atributte,214,214,19,A2
+requests,sessions.py,Simple Atributte,221,221,12,A2
+requests,sessions.py,Simple Atributte,224,224,15,A2
+requests,sessions.py,Simple Atributte,232,232,16,A2
+requests,sessions.py,Simple Atributte,235,235,12,A2
+requests,sessions.py,Simple Atributte,240,240,35,A2
+requests,sessions.py,Simple Atributte,240,240,67,A2
+requests,sessions.py,Simple Atributte,241,241,26,A2
+requests,sessions.py,Simple Atributte,241,241,53,A2
+requests,sessions.py,Simple Atributte,242,242,12,A2
+requests,sessions.py,Simple Atributte,242,242,45,A2
+requests,sessions.py,Simple Atributte,245,245,22,A2
+requests,sessions.py,Simple Atributte,246,246,12,A2
+requests,sessions.py,Simple Atributte,291,291,42,A2
+requests,sessions.py,Simple Atributte,292,292,12,A2
+requests,sessions.py,Simple Atributte,301,301,12,A2
+requests,sessions.py,Simple Atributte,316,316,26,A2
+requests,sessions.py,Simple Atributte,339,339,11,A2
+requests,sessions.py,Simple Atributte,339,339,35,A2
+requests,sessions.py,Simple Atributte,344,344,11,A2
+requests,sessions.py,Simple Atributte,344,344,35,A2
+requests,sessions.py,Simple Atributte,349,349,11,A2
+requests,sessions.py,Simple Atributte,349,349,35,A2
+requests,sessions.py,Simple Atributte,470,470,35,A2
+requests,sessions.py,Simple Atributte,475,475,47,A2
+requests,sessions.py,Simple Atributte,480,480,47,A2
+requests,sessions.py,Simple Atributte,481,481,34,A2
+requests,sessions.py,Simple Atributte,486,486,16,A2
+requests,sessions.py,Simple Atributte,487,487,18,A2
+requests,sessions.py,Simple Atributte,488,488,17,A2
+requests,sessions.py,Simple Atributte,489,489,17,A2
+requests,sessions.py,Simple Atributte,682,682,57,A2
+requests,sessions.py,Simple Atributte,682,682,71,A2
+requests,sessions.py,Simple Atributte,695,695,39,A2
+requests,sessions.py,Simple Atributte,722,722,18,A2
+requests,sessions.py,Simple Atributte,730,730,12,A2
+requests,sessions.py,Simple Atributte,732,732,16,A2
+requests,sessions.py,Simple Atributte,738,738,16,A2
+requests,sessions.py,Simple Atributte,760,760,26,A2
+requests,sessions.py,Simple Atributte,786,786,33,A2
+requests,sessions.py,Simple Atributte,788,788,15,A2
+requests,sessions.py,Simple Atributte,796,796,17,A2
+requests,sessions.py,Simple Atributte,797,797,12,A2
+requests,sessions.py,Simple Atributte,805,805,35,A2
+requests,sessions.py,Simple Atributte,808,808,12,A2
+requests,sessions.py,Simple Atributte,808,808,33,A2
+requests,sessions.py,Simple Atributte,811,811,61,A2
+requests,sessions.py,Simple Atributte,190,190,19,A2
+requests,sessions.py,Simple Atributte,200,200,39,A2
+requests,sessions.py,Simple Atributte,201,201,22,A2
+requests,sessions.py,Simple Atributte,205,205,15,A2
+requests,sessions.py,Simple Atributte,206,206,25,A2
+requests,sessions.py,Simple Atributte,208,208,36,A2
+requests,sessions.py,Simple Atributte,215,215,30,A2
+requests,sessions.py,Simple Atributte,225,225,16,A2
+requests,sessions.py,Simple Atributte,226,226,16,A2
+requests,sessions.py,Simple Atributte,251,251,25,A2
+requests,sessions.py,Simple Atributte,266,266,23,A2
+requests,sessions.py,Simple Atributte,277,277,39,A2
+requests,sessions.py,Simple Atributte,277,277,71,A2
+requests,sessions.py,Simple Atributte,280,280,22,A2
+requests,sessions.py,Simple Atributte,292,292,12,A2
+requests,sessions.py,Simple Atributte,485,485,19,A2
+requests,sessions.py,Simple Atributte,491,491,16,A2
+requests,sessions.py,Simple Atributte,491,491,33,A2
+requests,sessions.py,Simple Atributte,493,493,33,A2
+requests,sessions.py,Simple Atributte,493,493,49,A2
+requests,sessions.py,Simple Atributte,494,494,37,A2
+requests,sessions.py,Simple Atributte,496,496,30,A2
+requests,sessions.py,Simple Atributte,496,496,45,A2
+requests,sessions.py,Simple Atributte,562,562,19,A2
+requests,sessions.py,Simple Atributte,715,715,39,A2
+requests,sessions.py,Simple Atributte,715,715,53,A2
+requests,sessions.py,Simple Atributte,715,715,67,A2
+requests,sessions.py,Simple Atributte,758,758,23,A2
+requests,sessions.py,Simple Atributte,761,761,16,A2
+requests,sessions.py,Simple Atributte,788,788,38,A2
+requests,sessions.py,Simple Atributte,808,808,33,A2
+requests,sessions.py,Simple Atributte,188,188,16,A2
+requests,sessions.py,Simple Atributte,231,231,20,A2
+requests,sessions.py,Simple Atributte,485,485,19,A2
+requests,sessions.py,Simple Atributte,739,739,20,A2
+requests,sessions.py,Simple Atributte,767,767,20,A2
+requests,sessions.py,Simple Atributte,768,768,23,A2
+requests,sessions.py,Simple Atributte,788,788,15,A2
+requests,sessions.py,Simple Atributte,188,188,16,A2
+requests,sessions.py,Simple Atributte,192,192,32,A2
+requests,sessions.py,Simple Atributte,201,201,49,A2
+requests,sessions.py,Simple Atributte,231,231,20,A2
+requests,sessions.py,Simple Atributte,767,767,20,A2
+requests,sessions.py,Simple Atributte,768,768,23,A2
+requests,sessions.py,List Comprehension with 1If statements,84,84,16,C1
+requests,sessions.py,List Comprehension with 1If statements,805,805,23,C1
+requests,sessions.py,Simple List Comprehension,723,723,22,C1
+requests,sessions.py,Simple Dictionary Comprehension,811,811,16,C1
+requests,sessions.py,Simple Assignment,56,56,4,A1
+requests,sessions.py,Simple Assignment,58,58,4,A1
+requests,sessions.py,Simple Assignment,79,79,4,A1
+requests,sessions.py,Simple Assignment,84,84,4,A1
+requests,sessions.py,Simple Assignment,374,387,4,A1
+requests,sessions.py,Simple Assignment,129,129,8,A1
+requests,sessions.py,Simple Assignment,130,130,8,A1
+requests,sessions.py,Simple Assignment,146,146,8,A1
+requests,sessions.py,Simple Assignment,147,147,8,A1
+requests,sessions.py,Simple Assignment,148,148,8,A1
+requests,sessions.py,Simple Assignment,173,173,8,A1
+requests,sessions.py,Simple Assignment,175,175,8,A1
+requests,sessions.py,Simple Assignment,176,176,8,A1
+requests,sessions.py,Simple Assignment,288,288,8,A1
+requests,sessions.py,Simple Assignment,289,289,8,A1
+requests,sessions.py,Simple Assignment,299,299,8,A1
+requests,sessions.py,Simple Assignment,315,315,8,A1
+requests,sessions.py,Simple Assignment,316,316,8,A1
+requests,sessions.py,Simple Assignment,317,317,8,A1
+requests,sessions.py,Simple Assignment,336,336,8,A1
+requests,sessions.py,Simple Assignment,352,352,8,A1
+requests,sessions.py,Simple Assignment,394,394,8,A1
+requests,sessions.py,Simple Assignment,398,398,8,A1
+requests,sessions.py,Simple Assignment,403,403,8,A1
+requests,sessions.py,Simple Assignment,406,406,8,A1
+requests,sessions.py,Simple Assignment,411,411,8,A1
+requests,sessions.py,Simple Assignment,414,414,8,A1
+requests,sessions.py,Simple Assignment,424,424,8,A1
+requests,sessions.py,Simple Assignment,428,428,8,A1
+requests,sessions.py,Simple Assignment,434,434,8,A1
+requests,sessions.py,Simple Assignment,438,438,8,A1
+requests,sessions.py,Simple Assignment,444,444,8,A1
+requests,sessions.py,Simple Assignment,447,447,8,A1
+requests,sessions.py,Simple Assignment,467,467,8,A1
+requests,sessions.py,Simple Assignment,474,476,8,A1
+requests,sessions.py,Simple Assignment,479,479,8,A1
+requests,sessions.py,Simple Assignment,483,483,8,A1
+requests,sessions.py,Simple Assignment,561,572,8,A1
+requests,sessions.py,Simple Assignment,573,573,8,A1
+requests,sessions.py,Simple Assignment,575,575,8,A1
+requests,sessions.py,Simple Assignment,577,579,8,A1
+requests,sessions.py,Simple Assignment,582,585,8,A1
+requests,sessions.py,Simple Assignment,587,587,8,A1
+requests,sessions.py,Simple Assignment,690,690,8,A1
+requests,sessions.py,Simple Assignment,691,691,8,A1
+requests,sessions.py,Simple Assignment,692,692,8,A1
+requests,sessions.py,Simple Assignment,695,695,8,A1
+requests,sessions.py,Simple Assignment,698,698,8,A1
+requests,sessions.py,Simple Assignment,701,701,8,A1
+requests,sessions.py,Assigment with sum (total = total + 1),704,704,8,A1
+requests,sessions.py,Simple Assignment,705,705,8,A1
+requests,sessions.py,Simple Assignment,708,708,8,A1
+requests,sessions.py,Simple Assignment,773,773,8,A1
+requests,sessions.py,Simple Assignment,774,774,8,A1
+requests,sessions.py,Simple Assignment,775,775,8,A1
+requests,sessions.py,Simple Assignment,776,776,8,A1
+requests,sessions.py,Simple Assignment,804,804,8,A1
+requests,sessions.py,Simple Assignment,805,805,8,A1
+requests,sessions.py,Simple Assignment,811,811,8,A1
+requests,sessions.py,Simple Assignment,116,116,12,A1
+requests,sessions.py,Simple Assignment,123,123,12,A1
+requests,sessions.py,Simple Assignment,178,178,12,A1
+requests,sessions.py,Simple Assignment,183,183,12,A1
+requests,sessions.py,Simple Assignment,204,204,12,A1
+requests,sessions.py,Simple Assignment,209,209,12,A1
+requests,sessions.py,Simple Assignment,219,219,12,A1
+requests,sessions.py,Simple Assignment,234,234,12,A1
+requests,sessions.py,Simple Assignment,245,245,12,A1
+requests,sessions.py,Simple Assignment,251,253,12,A1
+requests,sessions.py,Simple Assignment,260,260,12,A1
+requests,sessions.py,Simple Assignment,323,323,12,A1
+requests,sessions.py,Simple Assignment,328,328,12,A1
+requests,sessions.py,Simple Assignment,340,340,12,A1
+requests,sessions.py,Simple Assignment,345,345,12,A1
+requests,sessions.py,Simple Assignment,350,350,12,A1
+requests,sessions.py,Simple Assignment,471,471,12,A1
+requests,sessions.py,Simple Assignment,481,481,12,A1
+requests,sessions.py,Simple Assignment,682,682,12,A1
+requests,sessions.py,Simple Assignment,722,722,12,A1
+requests,sessions.py,Simple Assignment,723,723,12,A1
+requests,sessions.py,Simple Assignment,725,725,12,A1
+requests,sessions.py,Simple Assignment,732,732,12,A1
+requests,sessions.py,Simple Assignment,733,733,12,A1
+requests,sessions.py,Simple Assignment,758,758,12,A1
+requests,sessions.py,Simple Assignment,759,759,12,A1
+requests,sessions.py,Simple Assignment,808,808,12,A1
+requests,sessions.py,Simple Assignment,200,200,16,A1
+requests,sessions.py,Simple Assignment,201,201,16,A1
+requests,sessions.py,Simple Assignment,206,206,16,A1
+requests,sessions.py,Simple Assignment,215,215,16,A1
+requests,sessions.py,Simple Assignment,217,217,16,A1
+requests,sessions.py,Simple Assignment,229,229,16,A1
+requests,sessions.py,Simple Assignment,232,232,16,A1
+requests,sessions.py,Simple Assignment,266,275,16,A1
+requests,sessions.py,Simple Assignment,280,280,16,A1
+requests,sessions.py,Simple Assignment,325,325,12,A1
+requests,sessions.py,Simple Assignment,738,740,16,A1
+requests,sessions.py,Simple Assignment,766,770,16,A1
+requests,sessions.py,Simple Assignment,208,208,16,A1
+requests,sessions.py,'raise' exception,792,792,8,B1
+requests,sessions.py,'raise' exception,687,687,12,B1
+requests,sessions.py,'raise' exception,191,193,16,B1
+requests,sessions.py,'pass' statement,742,742,16,B1
+requests,sessions.py,Import,8,8,0,A2
+requests,sessions.py,Import,9,9,0,A2
+requests,sessions.py,Import,10,10,0,A2
+requests,sessions.py,From,11,11,0,A2
+requests,sessions.py,From,12,12,0,A2
+requests,sessions.py,Relative From,14,14,0,B1
+requests,sessions.py,Relative From,15,15,0,B1
+requests,sessions.py,Relative From,16,16,0,B1
+requests,sessions.py,Relative From,17,17,0,B1
+requests,sessions.py,Relative From,18,23,0,B1
+requests,sessions.py,Relative From,24,29,0,B1
+requests,sessions.py,Relative From,30,30,0,B1
+requests,sessions.py,Relative From,33,38,0,B1
+requests,sessions.py,Relative From,39,39,0,B1
+requests,sessions.py,Relative From,40,40,0,B1
+requests,sessions.py,Relative From,41,52,0,B1
+requests,sessions.py,Simple If statements,55,58,0,A1
+requests,sessions.py,Simple If statements,67,68,4,A1
+requests,sessions.py,Simple If statements,70,71,4,A1
+requests,sessions.py,Simple If statements,74,77,4,A1
+requests,sessions.py,Simple If statements,97,98,4,A1
+requests,sessions.py,Simple If statements,100,101,4,A1
+requests,sessions.py,Simple If statements,115,124,8,A1
+requests,sessions.py,Simple If statements,131,132,8,A1
+requests,sessions.py,Simple If statements,137,143,8,A1
+requests,sessions.py,Simple If statements,149,154,8,A1
+requests,sessions.py,Simple If statements,291,296,8,A1
+requests,sessions.py,Simple If statements,300,301,8,A1
+requests,sessions.py,Simple If statements,319,320,8,A1
+requests,sessions.py,Simple If statements,327,328,8,A1
+requests,sessions.py,Simple If statements,339,340,8,A1
+requests,sessions.py,Simple If statements,344,345,8,A1
+requests,sessions.py,Simple If statements,349,350,8,A1
+requests,sessions.py,Simple If statements,470,471,8,A1
+requests,sessions.py,Simple If statements,480,481,8,A1
+requests,sessions.py,Simple If statements,681,682,8,A1
+requests,sessions.py,Simple If statements,686,687,8,A1
+requests,sessions.py,Simple If statements,711,715,8,A1
+requests,sessions.py,Simple If statements,720,725,8,A1
+requests,sessions.py,Simple If statements,728,733,8,A1
+requests,sessions.py,Simple If statements,736,742,8,A1
+requests,sessions.py,Simple If statements,744,745,8,A1
+requests,sessions.py,Simple If statements,756,770,8,A1
+requests,sessions.py,Simple If statements,190,193,12,A1
+requests,sessions.py,Simple If statements,199,201,12,A1
+requests,sessions.py,Simple If statements,205,208,12,A1
+requests,sessions.py,Simple If statements,214,217,12,A1
+requests,sessions.py,Simple If statements,224,232,12,A1
+requests,sessions.py,Simple If statements,256,257,12,A1
+requests,sessions.py,Simple If statements,262,281,12,A1
+requests,sessions.py,Simple If statements,765,770,12,A1
+requests,sessions.py,Simple If statements,788,789,12,A1
+requests,sessions.py,Simple If statements,207,208,12,A1
+requests,sessions.py,Simple For Loop,85,86,4,A1
+requests,sessions.py,For Loop with Tuple as name,786,789,8,A2
+requests,sessions.py,Simple For Loop,796,797,8,A1
+requests,sessions.py,Simple For Loop,807,808,8,A1
+requests,sessions.py,For Loop with Tuple as name,815,816,8,A2
+requests,sessions.py,Simple For Loop,714,715,12,A1
+requests,sessions.py,For Loop with Tuple as name,760,761,12,A2
+requests,sessions.py,Simple For Loop,230,231,16,A1
+requests,sessions.py,While with Else Loop,177,281,8,B1
+requests,sessions.py,Exception --> try/except,322,325,8,B1
+requests,sessions.py,Exception --> try/except,185,188,12,B1
+requests,sessions.py,Exception --> try/except,737,742,12,B1
+requests,sessions.py,Function with Simple argument with Default argument,61,88,0,A2
+requests,sessions.py,Function with Simple argument with Default argument,91,103,0,A2
+requests,sessions.py,Function,819,831,0,A1
+requests,sessions.py,Function with Simple argument,107,125,4,A1
+requests,sessions.py,Function with Simple argument,127,157,4,A1
+requests,sessions.py,Function with Simple argument with Default argument with ** argument,159,281,4,B1
+requests,sessions.py,Function with Simple argument,283,301,4,A1
+requests,sessions.py,Function with Simple argument,303,330,4,A1
+requests,sessions.py,Function with Simple argument,332,352,4,A1
+requests,sessions.py,Function with Simple argument,389,449,4,A1
+requests,sessions.py,Function with Simple argument,451,452,4,A1
+requests,sessions.py,Function with Simple argument with * argument ,454,455,4,B1
+requests,sessions.py,Function with Simple argument,457,498,4,A1
+requests,sessions.py,Function with Simple argument with Default argument,500,589,4,A2
+requests,sessions.py,Function with Simple argument with ** argument,591,600,4,B1
+requests,sessions.py,Function with Simple argument with ** argument,602,611,4,B1
+requests,sessions.py,Function with Simple argument with ** argument,613,622,4,B1
+requests,sessions.py,Function with Simple argument with Default argument with ** argument,624,635,4,B1
+requests,sessions.py,Function with Simple argument with Default argument with ** argument,637,647,4,B1
+requests,sessions.py,Function with Simple argument with Default argument with ** argument,649,659,4,B1
+requests,sessions.py,Function with Simple argument with ** argument,661,669,4,B1
+requests,sessions.py,Function with Simple argument with ** argument,671,747,4,B1
+requests,sessions.py,Function with Simple argument,749,778,4,A1
+requests,sessions.py,Function with Simple argument,780,792,4,A1
+requests,sessions.py,Function with Simple argument,794,797,4,A1
+requests,sessions.py,Function with Simple argument,799,808,4,A1
+requests,sessions.py,Function with Simple argument,810,812,4,A1
+requests,sessions.py,Function with Simple argument,814,816,4,A1
+requests,sessions.py,Return,88,88,4,A1
+requests,sessions.py,Return,103,103,4,A1
+requests,sessions.py,Return,831,831,4,A1
+requests,sessions.py,Return,68,68,8,A1
+requests,sessions.py,Return,71,71,8,A1
+requests,sessions.py,Return,77,77,8,A1
+requests,sessions.py,Return,98,98,8,A1
+requests,sessions.py,Return,101,101,8,A1
+requests,sessions.py,Return,125,125,8,A1
+requests,sessions.py,Return,157,157,8,A1
+requests,sessions.py,Return,330,330,8,A1
+requests,sessions.py,Return,452,452,8,A1
+requests,sessions.py,Return,498,498,8,A1
+requests,sessions.py,Return,589,589,8,A1
+requests,sessions.py,Return,600,600,8,A1
+requests,sessions.py,Return,611,611,8,A1
+requests,sessions.py,Return,622,622,8,A1
+requests,sessions.py,Return,635,635,8,A1
+requests,sessions.py,Return,647,647,8,A1
+requests,sessions.py,Return,659,659,8,A1
+requests,sessions.py,Return,669,669,8,A1
+requests,sessions.py,Return,747,747,8,A1
+requests,sessions.py,Return,778,778,8,A1
+requests,sessions.py,Return,812,812,8,A1
+requests,sessions.py,Return,124,124,12,A1
+requests,sessions.py,Return,132,132,12,A1
+requests,sessions.py,Return,143,143,12,A1
+requests,sessions.py,Return,154,154,12,A1
+requests,sessions.py,Return,789,789,16,A1
+requests,sessions.py,Generator Function (yield),263,263,16,C1
+requests,sessions.py,Generator Function (yield),281,281,16,C1
+requests,sessions.py,Simple Class ,106,352,0,B1
+requests,sessions.py,Inherited Class from SessionRedirectMixin,355,816,0,B1

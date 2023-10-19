@@ -1,0 +1,70 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+requests,structures.py,Simple Tuple,51,51,35,A1
+requests,structures.py,Simple Tuple,68,68,12,A1
+requests,structures.py,Simple Tuple,60,60,29,A1
+requests,structures.py,Simple Tuple,69,69,16,A1
+requests,structures.py,Simple Dictionary,45,45,19,A2
+requests,structures.py,Super Function,94,94,8,C2
+requests,structures.py,Simple Atributte,43,43,8,A2
+requests,structures.py,Simple Atributte,93,93,8,A2
+requests,structures.py,Simple Atributte,46,46,8,A2
+requests,structures.py,Simple Atributte,51,51,8,A2
+requests,structures.py,Simple Atributte,57,57,12,A2
+requests,structures.py,Simple Atributte,63,63,19,A2
+requests,structures.py,Simple Atributte,94,94,8,A2
+requests,structures.py,Simple Atributte,97,97,36,A2
+requests,structures.py,Simple Atributte,102,102,15,A2
+requests,structures.py,Simple Atributte,105,105,15,A2
+requests,structures.py,Simple Atributte,51,51,20,A2
+requests,structures.py,Simple Atributte,54,54,15,A2
+requests,structures.py,Simple Atributte,57,57,24,A2
+requests,structures.py,Simple Atributte,83,83,35,A2
+requests,structures.py,Special Class Attribute __dict__,102,102,15,B2
+requests,structures.py,Special Class Attribute __dict__,105,105,15,B2
+requests,structures.py,Simple Atributte,54,54,27,A2
+requests,structures.py,Simple Atributte,60,60,54,A2
+requests,structures.py,Simple Atributte,70,70,15,A2
+requests,structures.py,Simple Atributte,79,79,20,A2
+requests,structures.py,Simple Atributte,79,79,48,A2
+requests,structures.py,Simple Atributte,83,83,35,A2
+requests,structures.py,Simple Atributte,86,86,24,A2
+requests,structures.py,Simple Atributte,60,60,54,A2
+requests,structures.py,Simple Atributte,70,70,15,A2
+requests,structures.py,Generator Expression,60,60,15,C1
+requests,structures.py,Generator Expression,67,71,15,C1
+requests,structures.py,Simple Assignment,43,43,8,A1
+requests,structures.py,Simple Assignment,51,51,8,A1
+requests,structures.py,Simple Assignment,93,93,8,A1
+requests,structures.py,Simple Assignment,45,45,12,A1
+requests,structures.py,Simple Assignment,75,75,12,A1
+requests,structures.py,From,10,10,0,A2
+requests,structures.py,Relative From,12,12,0,B1
+requests,structures.py,Simple If statements,44,45,8,A1
+requests,structures.py,Simple If statements,74,77,8,A1
+requests,structures.py,Function with Simple argument with Default argument with ** argument,42,46,4,B1
+requests,structures.py,Function with Simple argument,48,51,4,A1
+requests,structures.py,Function with Simple argument,53,54,4,A1
+requests,structures.py,Function with Simple argument,56,57,4,A1
+requests,structures.py,Function with Simple argument,59,60,4,A1
+requests,structures.py,Function with Simple argument,62,63,4,A1
+requests,structures.py,Function with Simple argument,65,71,4,A1
+requests,structures.py,Function with Simple argument,73,79,4,A1
+requests,structures.py,Function with Simple argument,82,83,4,A1
+requests,structures.py,Function with Simple argument,85,86,4,A1
+requests,structures.py,Function with Simple argument with Default argument,92,94,4,A2
+requests,structures.py,Function with Simple argument,96,97,4,A1
+requests,structures.py,Function with Simple argument,99,102,4,A1
+requests,structures.py,Function with Simple argument with Default argument,104,105,4,A2
+requests,structures.py,Return,54,54,8,A1
+requests,structures.py,Return,60,60,8,A1
+requests,structures.py,Return,63,63,8,A1
+requests,structures.py,Return,67,71,8,A1
+requests,structures.py,Return,79,79,8,A1
+requests,structures.py,Return,83,83,8,A1
+requests,structures.py,Return,86,86,8,A1
+requests,structures.py,Return,97,97,8,A1
+requests,structures.py,Return,102,102,8,A1
+requests,structures.py,Return,105,105,8,A1
+requests,structures.py,Return,77,77,12,A1
+requests,structures.py,Inherited Class from MutableMapping,15,86,0,B1
+requests,structures.py,Inherited Class from dict,89,105,0,B1

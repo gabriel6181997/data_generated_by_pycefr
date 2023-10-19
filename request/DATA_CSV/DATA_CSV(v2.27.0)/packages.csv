@@ -1,0 +1,27 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+requests,packages.py,Simple Tuple,14,14,15,A1
+requests,packages.py,Simple Atributte,22,22,9,A2
+requests,packages.py,Simple Atributte,23,23,16,A2
+requests,packages.py,Simple Atributte,18,18,20,A2
+requests,packages.py,Simple Atributte,9,9,4,A2
+requests,packages.py,Simple Atributte,24,24,24,A2
+requests,packages.py,Simple Atributte,25,25,8,A2
+requests,packages.py,Simple Atributte,25,25,80,A2
+requests,packages.py,Simple Atributte,19,19,29,A2
+requests,packages.py,Simple Atributte,20,20,12,A2
+requests,packages.py,Simple Atributte,20,20,54,A2
+requests,packages.py,Simple Atributte,25,25,43,A2
+requests,packages.py,Simple Assignment,22,22,0,A1
+requests,packages.py,Simple Assignment,15,15,4,A1
+requests,packages.py,Simple Assignment,25,25,8,A1
+requests,packages.py,Simple Assignment,20,20,12,A1
+requests,packages.py,Import,1,1,0,A2
+requests,packages.py,Import,4,4,4,A2
+requests,packages.py,Import with 'as' extension ,6,6,4,B1
+requests,packages.py,Import,7,7,4,A2
+requests,packages.py,Simple If statements,24,25,4,A1
+requests,packages.py,Simple If statements,19,20,8,A1
+requests,packages.py,For Loop with 1 Tuples to iterate,14,20,0,A2
+requests,packages.py,Simple For Loop,23,25,0,A1
+requests,packages.py,Simple For Loop,18,20,4,A1
+requests,packages.py,Exception --> try/except,3,9,0,B1

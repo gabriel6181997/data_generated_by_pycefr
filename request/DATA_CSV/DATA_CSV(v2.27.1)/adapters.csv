@@ -1,0 +1,356 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+requests,adapters.py,Simple List,111,112,16,A1
+requests,adapters.py,Simple Tuple,141,141,12,A1
+requests,adapters.py,Simple Tuple,387,387,8,A1
+requests,adapters.py,Simple Tuple,500,500,15,A1
+requests,adapters.py,Simple Tuple,527,527,15,A1
+requests,adapters.py,Simple Tuple,182,182,12,A1
+requests,adapters.py,Simple Tuple,425,425,16,A1
+requests,adapters.py,Simple Tuple,467,467,24,A1
+requests,adapters.py,Simple Dictionary,121,121,22,A2
+requests,adapters.py,Simple Dictionary,122,122,29,A2
+requests,adapters.py,Simple Dictionary,138,138,29,A2
+requests,adapters.py,Simple Dictionary,139,139,22,A2
+requests,adapters.py,Simple Dictionary,386,386,18,A2
+requests,adapters.py,Simple Dictionary,272,272,72,A2
+requests,adapters.py,Super Function,60,60,8,C2
+requests,adapters.py,Super Function,124,124,8,C2
+requests,adapters.py,Simple Atributte,121,121,8,A2
+requests,adapters.py,Simple Atributte,122,122,8,A2
+requests,adapters.py,Simple Atributte,126,126,8,A2
+requests,adapters.py,Simple Atributte,127,127,8,A2
+requests,adapters.py,Simple Atributte,128,128,8,A2
+requests,adapters.py,Simple Atributte,138,138,8,A2
+requests,adapters.py,Simple Atributte,139,139,8,A2
+requests,adapters.py,Simple Atributte,160,160,8,A2
+requests,adapters.py,Simple Atributte,161,161,8,A2
+requests,adapters.py,Simple Atributte,162,162,8,A2
+requests,adapters.py,Simple Atributte,164,164,8,A2
+requests,adapters.py,Simple Atributte,269,269,8,A2
+requests,adapters.py,Simple Atributte,272,272,8,A2
+requests,adapters.py,Simple Atributte,275,275,8,A2
+requests,adapters.py,Simple Atributte,276,276,8,A2
+requests,adapters.py,Simple Atributte,277,277,8,A2
+requests,adapters.py,Simple Atributte,277,277,26,A2
+requests,adapters.py,Simple Atributte,288,288,8,A2
+requests,adapters.py,Simple Atributte,289,289,8,A2
+requests,adapters.py,Simple Atributte,345,345,17,A2
+requests,adapters.py,Simple Atributte,353,353,14,A2
+requests,adapters.py,Simple Atributte,60,60,8,A2
+requests,adapters.py,Simple Atributte,118,118,12,A2
+requests,adapters.py,Simple Atributte,120,120,12,A2
+requests,adapters.py,Simple Atributte,124,124,8,A2
+requests,adapters.py,Simple Atributte,130,130,8,A2
+requests,adapters.py,Simple Atributte,141,141,27,A2
+requests,adapters.py,Simple Atributte,144,144,8,A2
+requests,adapters.py,Simple Atributte,144,144,30,A2
+requests,adapters.py,Simple Atributte,144,144,54,A2
+requests,adapters.py,Simple Atributte,179,179,20,A2
+requests,adapters.py,Simple Atributte,231,231,12,A2
+requests,adapters.py,Simple Atributte,238,238,12,A2
+requests,adapters.py,Simple Atributte,239,239,12,A2
+requests,adapters.py,Simple Atributte,240,240,12,A2
+requests,adapters.py,Simple Atributte,275,275,54,A2
+requests,adapters.py,Simple Atributte,277,277,26,A2
+requests,adapters.py,Simple Atributte,279,279,22,A2
+requests,adapters.py,Simple Atributte,280,280,12,A2
+requests,adapters.py,Simple Atributte,282,282,12,A2
+requests,adapters.py,Simple Atributte,282,282,27,A2
+requests,adapters.py,Simple Atributte,285,285,31,A2
+requests,adapters.py,Simple Atributte,326,326,8,A2
+requests,adapters.py,Simple Atributte,327,327,21,A2
+requests,adapters.py,Simple Atributte,344,344,29,A2
+requests,adapters.py,Simple Atributte,417,417,8,A2
+requests,adapters.py,Simple Atributte,417,417,31,A2
+requests,adapters.py,Simple Atributte,418,418,14,A2
+requests,adapters.py,Simple Atributte,419,419,8,A2
+requests,adapters.py,Simple Atributte,538,538,15,A2
+requests,adapters.py,Simple Atributte,120,120,31,A2
+requests,adapters.py,Simple Atributte,133,133,60,A2
+requests,adapters.py,Simple Atributte,145,145,36,A2
+requests,adapters.py,Simple Atributte,180,180,22,A2
+requests,adapters.py,Simple Atributte,181,181,13,A2
+requests,adapters.py,Simple Atributte,216,216,11,A2
+requests,adapters.py,Simple Atributte,234,234,16,A2
+requests,adapters.py,Simple Atributte,236,236,16,A2
+requests,adapters.py,Simple Atributte,244,244,16,A2
+requests,adapters.py,Simple Atributte,245,245,16,A2
+requests,adapters.py,Simple Atributte,247,247,16,A2
+requests,adapters.py,Simple Atributte,248,248,16,A2
+requests,adapters.py,Simple Atributte,249,249,15,A2
+requests,adapters.py,Simple Atributte,252,252,15,A2
+requests,adapters.py,Simple Atributte,280,280,27,A2
+requests,adapters.py,Simple Atributte,307,307,19,A2
+requests,adapters.py,Simple Atributte,310,310,28,A2
+requests,adapters.py,Simple Atributte,311,311,19,A2
+requests,adapters.py,Simple Atributte,315,315,18,A2
+requests,adapters.py,Simple Atributte,316,316,19,A2
+requests,adapters.py,Simple Atributte,326,326,8,A2
+requests,adapters.py,Simple Atributte,327,327,21,A2
+requests,adapters.py,Simple Atributte,328,328,12,A2
+requests,adapters.py,Simple Atributte,345,345,26,A2
+requests,adapters.py,Simple Atributte,350,350,27,A2
+requests,adapters.py,Simple Atributte,351,351,32,A2
+requests,adapters.py,Simple Atributte,355,355,32,A2
+requests,adapters.py,Simple Atributte,413,413,19,A2
+requests,adapters.py,Simple Atributte,413,413,39,A2
+requests,adapters.py,Simple Atributte,500,500,31,A2
+requests,adapters.py,Simple Atributte,183,183,22,A2
+requests,adapters.py,Simple Atributte,193,193,28,A2
+requests,adapters.py,Simple Atributte,194,194,22,A2
+requests,adapters.py,Simple Atributte,233,233,19,A2
+requests,adapters.py,Simple Atributte,280,280,27,A2
+requests,adapters.py,Simple Atributte,316,316,19,A2
+requests,adapters.py,Simple Atributte,350,350,27,A2
+requests,adapters.py,Simple Atributte,421,421,23,A2
+requests,adapters.py,Simple Atributte,421,421,67,A2
+requests,adapters.py,Simple Atributte,440,440,23,A2
+requests,adapters.py,Simple Atributte,456,456,27,A2
+requests,adapters.py,Simple Atributte,458,458,27,A2
+requests,adapters.py,Simple Atributte,472,472,29,A2
+requests,adapters.py,Simple Atributte,504,504,26,A2
+requests,adapters.py,Simple Atributte,509,509,26,A2
+requests,adapters.py,Simple Atributte,512,512,26,A2
+requests,adapters.py,Simple Atributte,515,515,26,A2
+requests,adapters.py,Simple Atributte,181,181,13,A2
+requests,adapters.py,Simple Atributte,187,187,26,A2
+requests,adapters.py,Simple Atributte,188,188,24,A2
+requests,adapters.py,Simple Atributte,189,189,22,A2
+requests,adapters.py,Simple Atributte,197,197,26,A2
+requests,adapters.py,Simple Atributte,198,198,24,A2
+requests,adapters.py,Simple Atributte,199,199,22,A2
+requests,adapters.py,Simple Atributte,216,216,11,A2
+requests,adapters.py,Simple Atributte,227,227,35,A2
+requests,adapters.py,Simple Atributte,228,229,30,A2
+requests,adapters.py,Simple Atributte,233,233,19,A2
+requests,adapters.py,Simple Atributte,249,249,38,A2
+requests,adapters.py,Simple Atributte,249,249,53,A2
+requests,adapters.py,Simple Atributte,250,251,30,A2
+requests,adapters.py,Simple Atributte,251,251,56,A2
+requests,adapters.py,Simple Atributte,252,252,37,A2
+requests,adapters.py,Simple Atributte,252,252,52,A2
+requests,adapters.py,Simple Atributte,253,254,30,A2
+requests,adapters.py,Simple Atributte,254,254,56,A2
+requests,adapters.py,Simple Atributte,429,431,23,A2
+requests,adapters.py,Simple Atributte,441,441,27,A2
+requests,adapters.py,Simple Atributte,443,443,25,A2
+requests,adapters.py,Simple Atributte,444,444,28,A2
+requests,adapters.py,Simple Atributte,449,449,28,A2
+requests,adapters.py,Simple Atributte,461,461,42,A2
+requests,adapters.py,Simple Atributte,462,462,20,A2
+requests,adapters.py,Simple Atributte,462,462,40,A2
+requests,adapters.py,Simple Atributte,467,467,41,A2
+requests,adapters.py,Simple Atributte,470,470,20,A2
+requests,adapters.py,Simple Atributte,477,477,20,A2
+requests,adapters.py,Simple Atributte,487,487,27,A2
+requests,adapters.py,Simple Atributte,227,227,35,A2
+requests,adapters.py,Simple Atributte,249,249,38,A2
+requests,adapters.py,Simple Atributte,252,252,37,A2
+requests,adapters.py,Simple Atributte,467,467,41,A2
+requests,adapters.py,Simple Atributte,468,468,24,A2
+requests,adapters.py,Simple Atributte,473,473,24,A2
+requests,adapters.py,Simple Atributte,474,474,24,A2
+requests,adapters.py,Simple Atributte,475,475,24,A2
+requests,adapters.py,Simple Atributte,476,476,24,A2
+requests,adapters.py,Simple Atributte,482,482,28,A2
+requests,adapters.py,Simple Atributte,497,497,20,A2
+requests,adapters.py,Simple Atributte,506,506,34,A2
+requests,adapters.py,Simple Atributte,473,473,38,A2
+requests,adapters.py,Simple Atributte,485,485,28,A2
+requests,adapters.py,Simple Dictionary Comprehension,133,133,15,C1
+requests,adapters.py,Simple Assignment,50,50,0,A1
+requests,adapters.py,Simple Assignment,51,51,0,A1
+requests,adapters.py,Simple Assignment,52,52,0,A1
+requests,adapters.py,Simple Assignment,53,53,0,A1
+requests,adapters.py,Simple Assignment,111,112,4,A1
+requests,adapters.py,Simple Assignment,121,121,8,A1
+requests,adapters.py,Simple Assignment,122,122,8,A1
+requests,adapters.py,Simple Assignment,126,126,8,A1
+requests,adapters.py,Simple Assignment,127,127,8,A1
+requests,adapters.py,Simple Assignment,128,128,8,A1
+requests,adapters.py,Simple Assignment,138,138,8,A1
+requests,adapters.py,Simple Assignment,139,139,8,A1
+requests,adapters.py,Simple Assignment,160,160,8,A1
+requests,adapters.py,Simple Assignment,161,161,8,A1
+requests,adapters.py,Simple Assignment,162,162,8,A1
+requests,adapters.py,Simple Assignment,164,165,8,A1
+requests,adapters.py,Simple Assignment,266,266,8,A1
+requests,adapters.py,Simple Assignment,269,269,8,A1
+requests,adapters.py,Simple Assignment,272,272,8,A1
+requests,adapters.py,Simple Assignment,275,275,8,A1
+requests,adapters.py,Simple Assignment,276,276,8,A1
+requests,adapters.py,Simple Assignment,277,277,8,A1
+requests,adapters.py,Simple Assignment,288,288,8,A1
+requests,adapters.py,Simple Assignment,289,289,8,A1
+requests,adapters.py,Simple Assignment,302,302,8,A1
+requests,adapters.py,Simple Assignment,344,344,8,A1
+requests,adapters.py,Simple Assignment,345,345,8,A1
+requests,adapters.py,Simple Assignment,347,347,8,A1
+requests,adapters.py,Simple Assignment,348,348,8,A1
+requests,adapters.py,Simple Assignment,353,353,8,A1
+requests,adapters.py,Simple Assignment,386,386,8,A1
+requests,adapters.py,Simple Assignment,387,387,8,A1
+requests,adapters.py,Simple Assignment,418,418,8,A1
+requests,adapters.py,Simple Assignment,421,421,8,A1
+requests,adapters.py,Simple Assignment,118,118,12,A1
+requests,adapters.py,Simple Assignment,120,120,12,A1
+requests,adapters.py,Simple Assignment,180,180,12,A1
+requests,adapters.py,Simple Assignment,218,218,12,A1
+requests,adapters.py,Simple Assignment,231,231,12,A1
+requests,adapters.py,Simple Assignment,238,238,12,A1
+requests,adapters.py,Simple Assignment,239,239,12,A1
+requests,adapters.py,Simple Assignment,240,240,12,A1
+requests,adapters.py,Simple Assignment,280,280,12,A1
+requests,adapters.py,Simple Assignment,282,282,12,A1
+requests,adapters.py,Simple Assignment,305,305,12,A1
+requests,adapters.py,Simple Assignment,306,306,12,A1
+requests,adapters.py,Simple Assignment,310,310,12,A1
+requests,adapters.py,Simple Assignment,311,311,12,A1
+requests,adapters.py,Simple Assignment,314,314,12,A1
+requests,adapters.py,Simple Assignment,315,315,12,A1
+requests,adapters.py,Simple Assignment,316,316,12,A1
+requests,adapters.py,Simple Assignment,350,350,12,A1
+requests,adapters.py,Simple Assignment,351,351,12,A1
+requests,adapters.py,Simple Assignment,355,355,12,A1
+requests,adapters.py,Simple Assignment,390,391,12,A1
+requests,adapters.py,Simple Assignment,413,413,12,A1
+requests,adapters.py,Simple Assignment,182,182,12,A1
+requests,adapters.py,Simple Assignment,183,191,12,A1
+requests,adapters.py,Simple Assignment,193,193,12,A1
+requests,adapters.py,Simple Assignment,194,200,12,A1
+requests,adapters.py,Simple Assignment,222,222,16,A1
+requests,adapters.py,Simple Assignment,225,225,16,A1
+requests,adapters.py,Simple Assignment,234,234,16,A1
+requests,adapters.py,Simple Assignment,236,236,16,A1
+requests,adapters.py,Simple Assignment,244,244,16,A1
+requests,adapters.py,Simple Assignment,245,245,16,A1
+requests,adapters.py,Simple Assignment,247,247,16,A1
+requests,adapters.py,Simple Assignment,248,248,16,A1
+requests,adapters.py,Simple Assignment,425,425,16,A1
+requests,adapters.py,Simple Assignment,426,426,16,A1
+requests,adapters.py,Simple Assignment,436,436,12,A1
+requests,adapters.py,Simple Assignment,440,451,16,A1
+requests,adapters.py,Simple Assignment,458,458,16,A1
+requests,adapters.py,Simple Assignment,429,431,16,A1
+requests,adapters.py,Simple Assignment,456,456,20,A1
+requests,adapters.py,Simple Assignment,461,461,20,A1
+requests,adapters.py,Simple Assignment,487,493,20,A1
+requests,adapters.py,Simple Assignment,482,482,24,A1
+requests,adapters.py,Simple Assignment,485,485,24,A1
+requests,adapters.py,'raise' exception,78,78,8,B1
+requests,adapters.py,'raise' exception,82,82,8,B1
+requests,adapters.py,'raise' exception,48,48,8,B1
+requests,adapters.py,'raise' exception,228,229,16,B1
+requests,adapters.py,'raise' exception,250,251,16,B1
+requests,adapters.py,'raise' exception,253,254,16,B1
+requests,adapters.py,'raise' exception,308,309,16,B1
+requests,adapters.py,'raise' exception,415,415,12,B1
+requests,adapters.py,'raise' exception,501,501,12,B1
+requests,adapters.py,'raise' exception,519,519,12,B1
+requests,adapters.py,'raise' exception,522,522,12,B1
+requests,adapters.py,'raise' exception,525,525,12,B1
+requests,adapters.py,'raise' exception,432,432,16,B1
+requests,adapters.py,'raise' exception,510,510,16,B1
+requests,adapters.py,'raise' exception,513,513,16,B1
+requests,adapters.py,'raise' exception,517,517,16,B1
+requests,adapters.py,'raise' exception,530,530,16,B1
+requests,adapters.py,'raise' exception,498,498,20,B1
+requests,adapters.py,'raise' exception,507,507,20,B1
+requests,adapters.py,'raise' exception,532,532,16,B1
+requests,adapters.py,'raise' exception,534,534,16,B1
+requests,adapters.py,'raise' exception,536,536,16,B1
+requests,adapters.py,'pass' statement,371,371,8,B1
+requests,adapters.py,'pass' statement,434,434,12,B1
+requests,adapters.py,Import,11,11,0,A2
+requests,adapters.py,Import,12,12,0,A2
+requests,adapters.py,From,14,14,0,A2
+requests,adapters.py,From,15,15,0,A2
+requests,adapters.py,From,16,16,0,A2
+requests,adapters.py,From with 'as' extension ,17,17,0,B1
+requests,adapters.py,From,18,18,0,A2
+requests,adapters.py,From,19,19,0,A2
+requests,adapters.py,From,20,20,0,A2
+requests,adapters.py,From with 'as' extension ,21,21,0,B1
+requests,adapters.py,From with 'as' extension ,22,22,0,B1
+requests,adapters.py,From,23,23,0,A2
+requests,adapters.py,From,24,24,0,A2
+requests,adapters.py,From with 'as' extension ,25,25,0,B1
+requests,adapters.py,From,26,26,0,A2
+requests,adapters.py,From,27,27,0,A2
+requests,adapters.py,From with 'as' extension ,28,28,0,B1
+requests,adapters.py,From,29,29,0,A2
+requests,adapters.py,From,30,30,0,A2
+requests,adapters.py,Relative From,32,32,0,B1
+requests,adapters.py,Relative From,33,33,0,B1
+requests,adapters.py,Relative From,34,36,0,B1
+requests,adapters.py,Relative From,37,37,0,B1
+requests,adapters.py,Relative From,38,38,0,B1
+requests,adapters.py,Relative From,39,41,0,B1
+requests,adapters.py,Relative From,42,42,0,B1
+requests,adapters.py,From,45,45,4,A2
+requests,adapters.py,Simple If statements,117,120,8,A1
+requests,adapters.py,Simple If statements,179,200,8,A1
+requests,adapters.py,Simple If statements,216,240,8,A1
+requests,adapters.py,Simple If statements,242,254,8,A1
+requests,adapters.py,Simple If statements,279,282,8,A1
+requests,adapters.py,Simple If statements,304,316,8,A1
+requests,adapters.py,Simple If statements,349,351,8,A1
+requests,adapters.py,Simple If statements,354,355,8,A1
+requests,adapters.py,Simple If statements,389,391,8,A1
+requests,adapters.py,Simple If statements,423,436,8,A1
+requests,adapters.py,Simple If statements,181,200,8,A1
+requests,adapters.py,Simple If statements,221,222,12,A1
+requests,adapters.py,Simple If statements,224,225,12,A1
+requests,adapters.py,Simple If statements,227,229,12,A1
+requests,adapters.py,Simple If statements,233,236,12,A1
+requests,adapters.py,Simple If statements,243,248,12,A1
+requests,adapters.py,Simple If statements,249,251,12,A1
+requests,adapters.py,Simple If statements,252,254,12,A1
+requests,adapters.py,Simple If statements,307,309,12,A1
+requests,adapters.py,Simple If statements,433,436,8,A1
+requests,adapters.py,Simple If statements,439,498,12,A1
+requests,adapters.py,Simple If statements,455,456,16,A1
+requests,adapters.py,Simple If statements,504,507,12,A1
+requests,adapters.py,Simple If statements,509,510,12,A1
+requests,adapters.py,Simple If statements,512,513,12,A1
+requests,adapters.py,Simple If statements,515,517,12,A1
+requests,adapters.py,Simple If statements,528,536,12,A1
+requests,adapters.py,Simple If statements,506,507,16,A1
+requests,adapters.py,Simple If statements,531,536,12,A1
+requests,adapters.py,Simple If statements,533,536,12,A1
+requests,adapters.py,For Loop with Tuple as name,141,142,8,A2
+requests,adapters.py,Simple For Loop,327,328,8,A1
+requests,adapters.py,For Loop with Tuple as name,467,468,20,A2
+requests,adapters.py,Simple For Loop,472,476,20,A1
+requests,adapters.py,Exception --> try/except,44,48,0,B1
+requests,adapters.py,Exception --> try/except,412,415,8,B1
+requests,adapters.py,Exception --> try/except,438,536,8,B1
+requests,adapters.py,Exception --> try/except,424,432,12,B1
+requests,adapters.py,Exception --> try/try/except,460,498,16,B1
+requests,adapters.py,Exception --> try/except,480,485,20,B1
+requests,adapters.py,Function with Simple argument,59,60,4,A1
+requests,adapters.py,Function with Simple argument with Default argument,62,78,4,A2
+requests,adapters.py,Function with Simple argument,80,82,4,A1
+requests,adapters.py,Function with Simple argument with Default argument,114,130,4,A2
+requests,adapters.py,Function with Simple argument,132,133,4,A1
+requests,adapters.py,Function with Simple argument,135,145,4,A1
+requests,adapters.py,Function with Simple argument with Default argument with ** argument,147,165,4,B1
+requests,adapters.py,Function with Simple argument with ** argument,167,202,4,B1
+requests,adapters.py,Function with Simple argument,204,254,4,A1
+requests,adapters.py,Function with Simple argument,256,291,4,A1
+requests,adapters.py,Function with Simple argument with Default argument,293,318,4,A2
+requests,adapters.py,Function with Simple argument,320,328,4,A1
+requests,adapters.py,Function with Simple argument,330,357,4,A1
+requests,adapters.py,Function with Simple argument with ** argument,359,371,4,B1
+requests,adapters.py,Function with Simple argument,373,393,4,A1
+requests,adapters.py,Function with Simple argument with Default argument,395,538,4,A2
+requests,adapters.py,Function with * argument  with ** argument,47,48,4,B1
+requests,adapters.py,Return,133,133,8,A1
+requests,adapters.py,Return,202,202,8,A1
+requests,adapters.py,Return,291,291,8,A1
+requests,adapters.py,Return,318,318,8,A1
+requests,adapters.py,Return,357,357,8,A1
+requests,adapters.py,Return,393,393,8,A1
+requests,adapters.py,Return,538,538,8,A1
+requests,adapters.py,Inherited Class from object,56,82,0,B1
+requests,adapters.py,Inherited Class from BaseAdapter,85,538,0,B1

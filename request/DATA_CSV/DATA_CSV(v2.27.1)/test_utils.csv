@@ -1,0 +1,624 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+tests,test_utils.py,Simple List,51,51,38,A1
+tests,test_utils.py,Simple List,63,63,38,A1
+tests,test_utils.py,Simple List,103,103,14,A1
+tests,test_utils.py,Simple List,762,762,30,A1
+tests,test_utils.py,Simple List,170,170,41,A1
+tests,test_utils.py,Simple List,334,334,54,A1
+tests,test_utils.py,1 Dictionary List,574,574,12,B1
+tests,test_utils.py,1 Dictionary List,578,578,12,B1
+tests,test_utils.py,1 Dictionary List,582,582,12,B1
+tests,test_utils.py,2 Dictionary List,586,589,12,B1
+tests,test_utils.py,Simple List,593,593,12,A1
+tests,test_utils.py,Simple List,135,135,13,A1
+tests,test_utils.py,Simple List,135,135,31,A1
+tests,test_utils.py,Simple List,136,136,33,A1
+tests,test_utils.py,Simple List,137,137,29,A1
+tests,test_utils.py,Simple List,772,772,23,A1
+tests,test_utils.py,Simple List,774,774,23,A1
+tests,test_utils.py,49 Nested Tuple,369,399,17,A2
+tests,test_utils.py,4 Nested Tuple,405,416,21,A2
+tests,test_utils.py,4 Nested Tuple,423,434,21,A2
+tests,test_utils.py,9 Nested Tuple,440,444,22,A2
+tests,test_utils.py,225 Nested Tuple,457,476,30,A2
+tests,test_utils.py,4 Nested Tuple,483,486,23,A2
+tests,test_utils.py,81 Nested Tuple,492,529,23,A2
+tests,test_utils.py,9 Nested Tuple,535,548,23,A2
+tests,test_utils.py,36 Nested Tuple,554,561,21,A2
+tests,test_utils.py,25 Nested Tuple,571,595,23,A2
+tests,test_utils.py,25 Nested Tuple,601,613,23,A2
+tests,test_utils.py,9 Nested Tuple,619,623,23,A2
+tests,test_utils.py,36 Nested Tuple,629,636,21,A2
+tests,test_utils.py,100 Nested Tuple,642,653,21,A2
+tests,test_utils.py,64 Nested Tuple,664,673,21,A2
+tests,test_utils.py,Simple Tuple,684,687,17,A1
+tests,test_utils.py,9 Nested Tuple,700,704,23,A2
+tests,test_utils.py,64 Nested Tuple,711,720,21,A2
+tests,test_utils.py,100 Nested Tuple,733,744,31,A2
+tests,test_utils.py,16 Nested Tuple,787,792,23,A2
+tests,test_utils.py,6 Nested Tuple,34,39,25,A2
+tests,test_utils.py,4 Nested Tuple,79,82,30,A2
+tests,test_utils.py,16 Nested Tuple,134,139,27,A2
+tests,test_utils.py,25 Nested Tuple,151,157,27,A2
+tests,test_utils.py,Simple Tuple,175,181,15,A1
+tests,test_utils.py,Simple Tuple,186,190,15,A1
+tests,test_utils.py,Simple Tuple,195,199,15,A1
+tests,test_utils.py,Simple Tuple,205,211,15,A1
+tests,test_utils.py,Simple Tuple,225,225,38,A1
+tests,test_utils.py,Simple Tuple,236,242,17,A1
+tests,test_utils.py,Simple Tuple,259,259,17,A1
+tests,test_utils.py,4 Nested Tuple,265,268,32,A2
+tests,test_utils.py,Simple Tuple,279,284,16,A1
+tests,test_utils.py,Simple Tuple,293,293,8,A1
+tests,test_utils.py,Simple Tuple,313,322,19,A1
+tests,test_utils.py,Simple Tuple,340,343,20,A1
+tests,test_utils.py,Simple Tuple,352,352,8,A1
+tests,test_utils.py,16 Nested Tuple,352,357,34,A2
+tests,test_utils.py,2 Nested Tuple,370,374,8,A2
+tests,test_utils.py,2 Nested Tuple,375,378,8,A2
+tests,test_utils.py,2 Nested Tuple,379,382,8,A2
+tests,test_utils.py,2 Nested Tuple,383,386,8,A2
+tests,test_utils.py,2 Nested Tuple,387,390,8,A2
+tests,test_utils.py,2 Nested Tuple,391,394,8,A2
+tests,test_utils.py,2 Nested Tuple,395,398,8,A2
+tests,test_utils.py,Simple Tuple,406,410,8,A1
+tests,test_utils.py,Simple Tuple,411,415,8,A1
+tests,test_utils.py,Simple Tuple,424,428,8,A1
+tests,test_utils.py,Simple Tuple,429,433,8,A1
+tests,test_utils.py,Simple Tuple,441,441,8,A1
+tests,test_utils.py,Simple Tuple,442,442,8,A1
+tests,test_utils.py,Simple Tuple,443,443,8,A1
+tests,test_utils.py,Simple Tuple,458,458,8,A1
+tests,test_utils.py,Simple Tuple,459,459,8,A1
+tests,test_utils.py,Simple Tuple,460,460,8,A1
+tests,test_utils.py,Simple Tuple,461,461,8,A1
+tests,test_utils.py,Simple Tuple,462,462,8,A1
+tests,test_utils.py,Simple Tuple,464,464,8,A1
+tests,test_utils.py,Simple Tuple,465,465,8,A1
+tests,test_utils.py,Simple Tuple,466,466,8,A1
+tests,test_utils.py,Simple Tuple,467,467,8,A1
+tests,test_utils.py,Simple Tuple,469,469,8,A1
+tests,test_utils.py,Simple Tuple,470,470,8,A1
+tests,test_utils.py,Simple Tuple,471,471,8,A1
+tests,test_utils.py,Simple Tuple,472,472,8,A1
+tests,test_utils.py,Simple Tuple,473,473,8,A1
+tests,test_utils.py,Simple Tuple,475,475,8,A1
+tests,test_utils.py,Simple Tuple,484,484,8,A1
+tests,test_utils.py,Simple Tuple,485,485,8,A1
+tests,test_utils.py,2 Nested Tuple,493,496,8,A2
+tests,test_utils.py,2 Nested Tuple,497,500,8,A2
+tests,test_utils.py,2 Nested Tuple,501,504,8,A2
+tests,test_utils.py,2 Nested Tuple,505,508,8,A2
+tests,test_utils.py,2 Nested Tuple,509,512,8,A2
+tests,test_utils.py,2 Nested Tuple,513,516,8,A2
+tests,test_utils.py,2 Nested Tuple,517,520,8,A2
+tests,test_utils.py,2 Nested Tuple,521,524,8,A2
+tests,test_utils.py,2 Nested Tuple,525,528,8,A2
+tests,test_utils.py,Simple Tuple,536,539,8,A1
+tests,test_utils.py,Simple Tuple,540,543,8,A1
+tests,test_utils.py,Simple Tuple,544,547,8,A1
+tests,test_utils.py,Simple Tuple,555,555,8,A1
+tests,test_utils.py,Simple Tuple,556,556,8,A1
+tests,test_utils.py,Simple Tuple,557,557,8,A1
+tests,test_utils.py,Simple Tuple,558,558,8,A1
+tests,test_utils.py,Simple Tuple,559,559,8,A1
+tests,test_utils.py,Simple Tuple,560,560,8,A1
+tests,test_utils.py,Simple Tuple,572,575,8,A1
+tests,test_utils.py,Simple Tuple,576,579,8,A1
+tests,test_utils.py,Simple Tuple,580,583,8,A1
+tests,test_utils.py,Simple Tuple,584,590,8,A1
+tests,test_utils.py,Simple Tuple,591,594,8,A1
+tests,test_utils.py,Simple Tuple,602,602,8,A1
+tests,test_utils.py,Simple Tuple,603,603,8,A1
+tests,test_utils.py,Simple Tuple,604,604,8,A1
+tests,test_utils.py,Simple Tuple,605,608,8,A1
+tests,test_utils.py,Simple Tuple,609,612,8,A1
+tests,test_utils.py,Simple Tuple,620,620,8,A1
+tests,test_utils.py,Simple Tuple,621,621,8,A1
+tests,test_utils.py,Simple Tuple,622,622,8,A1
+tests,test_utils.py,Simple Tuple,630,630,8,A1
+tests,test_utils.py,Simple Tuple,631,631,8,A1
+tests,test_utils.py,Simple Tuple,632,632,8,A1
+tests,test_utils.py,Simple Tuple,633,633,8,A1
+tests,test_utils.py,Simple Tuple,634,634,8,A1
+tests,test_utils.py,Simple Tuple,635,635,8,A1
+tests,test_utils.py,Simple Tuple,643,643,12,A1
+tests,test_utils.py,Simple Tuple,644,644,12,A1
+tests,test_utils.py,Simple Tuple,645,645,12,A1
+tests,test_utils.py,Simple Tuple,646,646,12,A1
+tests,test_utils.py,Simple Tuple,647,647,12,A1
+tests,test_utils.py,Simple Tuple,648,648,12,A1
+tests,test_utils.py,Simple Tuple,649,649,12,A1
+tests,test_utils.py,Simple Tuple,650,650,12,A1
+tests,test_utils.py,Simple Tuple,651,651,12,A1
+tests,test_utils.py,Simple Tuple,652,652,12,A1
+tests,test_utils.py,Simple Tuple,665,665,12,A1
+tests,test_utils.py,Simple Tuple,666,666,12,A1
+tests,test_utils.py,Simple Tuple,667,667,12,A1
+tests,test_utils.py,Simple Tuple,668,668,12,A1
+tests,test_utils.py,Simple Tuple,669,669,12,A1
+tests,test_utils.py,Simple Tuple,670,670,12,A1
+tests,test_utils.py,Simple Tuple,671,671,12,A1
+tests,test_utils.py,Simple Tuple,672,672,12,A1
+tests,test_utils.py,Simple Tuple,701,701,16,A1
+tests,test_utils.py,Simple Tuple,702,702,16,A1
+tests,test_utils.py,Simple Tuple,703,703,16,A1
+tests,test_utils.py,Simple Tuple,712,712,12,A1
+tests,test_utils.py,Simple Tuple,713,713,12,A1
+tests,test_utils.py,Simple Tuple,714,714,12,A1
+tests,test_utils.py,Simple Tuple,715,715,12,A1
+tests,test_utils.py,Simple Tuple,716,716,12,A1
+tests,test_utils.py,Simple Tuple,717,717,12,A1
+tests,test_utils.py,Simple Tuple,718,718,12,A1
+tests,test_utils.py,Simple Tuple,719,719,12,A1
+tests,test_utils.py,Simple Tuple,734,734,12,A1
+tests,test_utils.py,Simple Tuple,735,735,12,A1
+tests,test_utils.py,Simple Tuple,736,736,12,A1
+tests,test_utils.py,Simple Tuple,737,737,12,A1
+tests,test_utils.py,Simple Tuple,738,738,12,A1
+tests,test_utils.py,Simple Tuple,739,739,12,A1
+tests,test_utils.py,Simple Tuple,740,740,12,A1
+tests,test_utils.py,Simple Tuple,741,741,12,A1
+tests,test_utils.py,Simple Tuple,742,742,12,A1
+tests,test_utils.py,Simple Tuple,743,743,12,A1
+tests,test_utils.py,Simple Tuple,788,788,12,A1
+tests,test_utils.py,Simple Tuple,789,789,12,A1
+tests,test_utils.py,Simple Tuple,790,790,12,A1
+tests,test_utils.py,Simple Tuple,791,791,12,A1
+tests,test_utils.py,Simple Tuple,35,35,12,A1
+tests,test_utils.py,Simple Tuple,36,36,12,A1
+tests,test_utils.py,Simple Tuple,80,80,12,A1
+tests,test_utils.py,Simple Tuple,81,81,12,A1
+tests,test_utils.py,Simple Tuple,135,135,12,A1
+tests,test_utils.py,2 Nested Tuple,136,136,12,A2
+tests,test_utils.py,Simple Tuple,137,137,12,A1
+tests,test_utils.py,Simple Tuple,138,138,12,A1
+tests,test_utils.py,Simple Tuple,152,152,12,A1
+tests,test_utils.py,Simple Tuple,153,153,12,A1
+tests,test_utils.py,Simple Tuple,154,154,12,A1
+tests,test_utils.py,Simple Tuple,155,155,12,A1
+tests,test_utils.py,Simple Tuple,156,156,12,A1
+tests,test_utils.py,Simple Tuple,266,266,12,A1
+tests,test_utils.py,Simple Tuple,267,267,12,A1
+tests,test_utils.py,Simple Tuple,353,353,12,A1
+tests,test_utils.py,Simple Tuple,354,354,12,A1
+tests,test_utils.py,Simple Tuple,355,355,12,A1
+tests,test_utils.py,Simple Tuple,356,356,12,A1
+tests,test_utils.py,Simple Tuple,373,373,12,A1
+tests,test_utils.py,Simple Tuple,377,377,12,A1
+tests,test_utils.py,Simple Tuple,381,381,12,A1
+tests,test_utils.py,Simple Tuple,385,385,12,A1
+tests,test_utils.py,Simple Tuple,389,389,12,A1
+tests,test_utils.py,Simple Tuple,393,393,12,A1
+tests,test_utils.py,Simple Tuple,397,397,12,A1
+tests,test_utils.py,Simple Tuple,495,495,12,A1
+tests,test_utils.py,Simple Tuple,499,499,12,A1
+tests,test_utils.py,Simple Tuple,503,503,12,A1
+tests,test_utils.py,Simple Tuple,507,507,12,A1
+tests,test_utils.py,Simple Tuple,511,511,12,A1
+tests,test_utils.py,Simple Tuple,515,515,16,A1
+tests,test_utils.py,Simple Tuple,519,519,12,A1
+tests,test_utils.py,Simple Tuple,523,523,12,A1
+tests,test_utils.py,Simple Tuple,527,527,12,A1
+tests,test_utils.py,1 Nested Tuple,136,136,13,A2
+tests,test_utils.py,Simple Tuple,270,270,27,A1
+tests,test_utils.py,Simple Tuple,135,135,14,A1
+tests,test_utils.py,Simple Tuple,135,135,32,A1
+tests,test_utils.py,Simple Tuple,136,136,14,A1
+tests,test_utils.py,Simple Tuple,136,136,34,A1
+tests,test_utils.py,Simple Tuple,137,137,30,A1
+tests,test_utils.py,Simple Tuple,259,259,34,A1
+tests,test_utils.py,Simple Dictionary,449,450,15,A2
+tests,test_utils.py,Simple Dictionary,451,452,14,A2
+tests,test_utils.py,Simple Dictionary,453,455,16,A2
+tests,test_utils.py,Simple Dictionary,692,693,17,A2
+tests,test_utils.py,Simple Dictionary,183,183,58,A2
+tests,test_utils.py,Simple Dictionary,192,192,58,A2
+tests,test_utils.py,Simple Dictionary,202,202,62,A2
+tests,test_utils.py,Simple Dictionary,217,217,62,A2
+tests,test_utils.py,Simple Dictionary,484,484,43,A2
+tests,test_utils.py,Simple Dictionary,485,485,30,A2
+tests,test_utils.py,Simple Dictionary,137,137,13,A2
+tests,test_utils.py,Simple Dictionary,270,270,38,A2
+tests,test_utils.py,Simple Dictionary,495,495,32,A2
+tests,test_utils.py,Simple Dictionary,499,499,33,A2
+tests,test_utils.py,Simple Dictionary,503,503,33,A2
+tests,test_utils.py,Simple Dictionary,507,507,27,A2
+tests,test_utils.py,Simple Dictionary,511,511,36,A2
+tests,test_utils.py,Simple Dictionary,515,515,40,A2
+tests,test_utils.py,Simple Dictionary,519,519,36,A2
+tests,test_utils.py,Simple Dictionary,523,523,36,A2
+tests,test_utils.py,Simple Dictionary,527,527,33,A2
+tests,test_utils.py,Simple Dictionary,541,541,32,A2
+tests,test_utils.py,Simple Dictionary,545,545,32,A2
+tests,test_utils.py,Simple Dictionary,574,574,13,A2
+tests,test_utils.py,Simple Dictionary,578,578,13,A2
+tests,test_utils.py,Simple Dictionary,582,582,13,A2
+tests,test_utils.py,Simple Dictionary,587,587,16,A2
+tests,test_utils.py,Simple Dictionary,588,588,16,A2
+tests,test_utils.py,Simple Dictionary,259,259,45,A2
+tests,test_utils.py,Files --> 'write' call function,48,48,8,A2
+tests,test_utils.py,Files --> 'write' call function,85,85,8,A2
+tests,test_utils.py,Files --> 'write' call function,92,92,8,A2
+tests,test_utils.py,Files --> 'read' call function,117,117,8,A2
+tests,test_utils.py,Files --> 'open' call function,121,121,13,A2
+tests,test_utils.py,Files --> 'read' call function,123,123,24,A2
+tests,test_utils.py,Files --> 'write' call function,291,291,12,A2
+tests,test_utils.py,Simple Atributte,364,364,15,A2
+tests,test_utils.py,Simple Atributte,365,365,19,A2
+tests,test_utils.py,Simple Atributte,368,368,1,A2
+tests,test_utils.py,Simple Atributte,404,404,1,A2
+tests,test_utils.py,Simple Atributte,422,422,1,A2
+tests,test_utils.py,Simple Atributte,439,439,1,A2
+tests,test_utils.py,Simple Atributte,456,456,1,A2
+tests,test_utils.py,Simple Atributte,482,482,1,A2
+tests,test_utils.py,Simple Atributte,491,491,1,A2
+tests,test_utils.py,Simple Atributte,534,534,1,A2
+tests,test_utils.py,Simple Atributte,553,553,1,A2
+tests,test_utils.py,Simple Atributte,570,570,1,A2
+tests,test_utils.py,Simple Atributte,600,600,1,A2
+tests,test_utils.py,Simple Atributte,618,618,1,A2
+tests,test_utils.py,Simple Atributte,628,628,1,A2
+tests,test_utils.py,Simple Atributte,641,641,1,A2
+tests,test_utils.py,Simple Atributte,663,663,1,A2
+tests,test_utils.py,Simple Atributte,683,683,1,A2
+tests,test_utils.py,Simple Atributte,699,699,1,A2
+tests,test_utils.py,Simple Atributte,710,710,1,A2
+tests,test_utils.py,Simple Atributte,752,752,7,A2
+tests,test_utils.py,Simple Atributte,731,731,1,A2
+tests,test_utils.py,Simple Atributte,732,732,1,A2
+tests,test_utils.py,Simple Atributte,786,786,1,A2
+tests,test_utils.py,Simple Atributte,33,33,5,A2
+tests,test_utils.py,Simple Atributte,51,51,5,A2
+tests,test_utils.py,Simple Atributte,63,63,5,A2
+tests,test_utils.py,Simple Atributte,78,78,5,A2
+tests,test_utils.py,Simple Atributte,133,133,5,A2
+tests,test_utils.py,Simple Atributte,150,150,5,A2
+tests,test_utils.py,Simple Atributte,170,170,5,A2
+tests,test_utils.py,Simple Atributte,174,174,5,A2
+tests,test_utils.py,Simple Atributte,185,185,5,A2
+tests,test_utils.py,Simple Atributte,194,194,5,A2
+tests,test_utils.py,Simple Atributte,204,204,5,A2
+tests,test_utils.py,Simple Atributte,225,225,5,A2
+tests,test_utils.py,Simple Atributte,235,235,5,A2
+tests,test_utils.py,Simple Atributte,258,258,5,A2
+tests,test_utils.py,Simple Atributte,264,264,5,A2
+tests,test_utils.py,Simple Atributte,278,278,5,A2
+tests,test_utils.py,Simple Atributte,312,312,5,A2
+tests,test_utils.py,Simple Atributte,339,339,5,A2
+tests,test_utils.py,Simple Atributte,351,351,5,A2
+tests,test_utils.py,Simple Atributte,368,368,1,A2
+tests,test_utils.py,Simple Atributte,404,404,1,A2
+tests,test_utils.py,Simple Atributte,422,422,1,A2
+tests,test_utils.py,Simple Atributte,439,439,1,A2
+tests,test_utils.py,Simple Atributte,456,456,1,A2
+tests,test_utils.py,Simple Atributte,482,482,1,A2
+tests,test_utils.py,Simple Atributte,491,491,1,A2
+tests,test_utils.py,Simple Atributte,534,534,1,A2
+tests,test_utils.py,Simple Atributte,553,553,1,A2
+tests,test_utils.py,Simple Atributte,570,570,1,A2
+tests,test_utils.py,Simple Atributte,600,600,1,A2
+tests,test_utils.py,Simple Atributte,618,618,1,A2
+tests,test_utils.py,Simple Atributte,628,628,1,A2
+tests,test_utils.py,Simple Atributte,658,658,4,A2
+tests,test_utils.py,Simple Atributte,659,659,4,A2
+tests,test_utils.py,Simple Atributte,641,641,1,A2
+tests,test_utils.py,Simple Atributte,678,678,19,A2
+tests,test_utils.py,Simple Atributte,680,680,4,A2
+tests,test_utils.py,Simple Atributte,663,663,1,A2
+tests,test_utils.py,Simple Atributte,695,695,15,A2
+tests,test_utils.py,Simple Atributte,695,695,28,A2
+tests,test_utils.py,Simple Atributte,683,683,1,A2
+tests,test_utils.py,Simple Atributte,699,699,1,A2
+tests,test_utils.py,Simple Atributte,710,710,1,A2
+tests,test_utils.py,Simple Atributte,776,776,4,A2
+tests,test_utils.py,Simple Atributte,777,777,4,A2
+tests,test_utils.py,Simple Atributte,778,778,4,A2
+tests,test_utils.py,Simple Atributte,779,779,4,A2
+tests,test_utils.py,Simple Atributte,780,780,4,A2
+tests,test_utils.py,Simple Atributte,781,781,4,A2
+tests,test_utils.py,Simple Atributte,782,782,4,A2
+tests,test_utils.py,Simple Atributte,731,731,1,A2
+tests,test_utils.py,Simple Atributte,731,731,20,A2
+tests,test_utils.py,Simple Atributte,732,732,1,A2
+tests,test_utils.py,Simple Atributte,795,795,19,A2
+tests,test_utils.py,Simple Atributte,795,795,33,A2
+tests,test_utils.py,Simple Atributte,799,799,11,A2
+tests,test_utils.py,Simple Atributte,786,786,1,A2
+tests,test_utils.py,Simple Atributte,33,33,5,A2
+tests,test_utils.py,Simple Atributte,47,47,12,A2
+tests,test_utils.py,Simple Atributte,48,48,8,A2
+tests,test_utils.py,Simple Atributte,51,51,5,A2
+tests,test_utils.py,Simple Atributte,63,63,5,A2
+tests,test_utils.py,Simple Atributte,84,84,19,A2
+tests,test_utils.py,Simple Atributte,85,85,8,A2
+tests,test_utils.py,Simple Atributte,78,78,5,A2
+tests,test_utils.py,Simple Atributte,91,91,19,A2
+tests,test_utils.py,Simple Atributte,92,92,8,A2
+tests,test_utils.py,Simple Atributte,115,115,14,A2
+tests,test_utils.py,Simple Atributte,117,117,8,A2
+tests,test_utils.py,Simple Atributte,133,133,5,A2
+tests,test_utils.py,Simple Atributte,150,150,5,A2
+tests,test_utils.py,Simple Atributte,172,172,8,A2
+tests,test_utils.py,Simple Atributte,172,172,27,A2
+tests,test_utils.py,Simple Atributte,174,174,5,A2
+tests,test_utils.py,Simple Atributte,185,185,5,A2
+tests,test_utils.py,Simple Atributte,194,194,5,A2
+tests,test_utils.py,Simple Atributte,215,215,8,A2
+tests,test_utils.py,Simple Atributte,204,204,5,A2
+tests,test_utils.py,Simple Atributte,225,225,5,A2
+tests,test_utils.py,Simple Atributte,235,235,5,A2
+tests,test_utils.py,Simple Atributte,258,258,5,A2
+tests,test_utils.py,Simple Atributte,264,264,5,A2
+tests,test_utils.py,Simple Atributte,278,278,5,A2
+tests,test_utils.py,Simple Atributte,282,282,12,A2
+tests,test_utils.py,Simple Atributte,289,289,20,A2
+tests,test_utils.py,Simple Atributte,293,293,18,A2
+tests,test_utils.py,Simple Atributte,294,294,22,A2
+tests,test_utils.py,Simple Atributte,294,294,35,A2
+tests,test_utils.py,Simple Atributte,298,298,15,A2
+tests,test_utils.py,Simple Atributte,299,299,15,A2
+tests,test_utils.py,Simple Atributte,312,312,5,A2
+tests,test_utils.py,Simple Atributte,329,333,18,A2
+tests,test_utils.py,Simple Atributte,345,345,15,A2
+tests,test_utils.py,Simple Atributte,339,339,5,A2
+tests,test_utils.py,Simple Atributte,359,359,15,A2
+tests,test_utils.py,Simple Atributte,351,351,5,A2
+tests,test_utils.py,Simple Atributte,685,685,8,A2
+tests,test_utils.py,Simple Atributte,805,805,9,A2
+tests,test_utils.py,Simple Atributte,809,809,39,A2
+tests,test_utils.py,Simple Atributte,35,35,13,A2
+tests,test_utils.py,Simple Atributte,37,37,12,A2
+tests,test_utils.py,Simple Atributte,86,86,13,A2
+tests,test_utils.py,Simple Atributte,94,94,22,A2
+tests,test_utils.py,Simple Atributte,95,95,13,A2
+tests,test_utils.py,Simple Atributte,96,96,12,A2
+tests,test_utils.py,Simple Atributte,98,98,13,A2
+tests,test_utils.py,Simple Atributte,99,99,21,A2
+tests,test_utils.py,Simple Atributte,110,110,16,A2
+tests,test_utils.py,Simple Atributte,123,123,24,A2
+tests,test_utils.py,Simple Atributte,144,144,13,A2
+tests,test_utils.py,Simple Atributte,266,266,23,A2
+tests,test_utils.py,Simple Atributte,267,267,39,A2
+tests,test_utils.py,Simple Atributte,290,290,13,A2
+tests,test_utils.py,Simple Atributte,290,290,29,A2
+tests,test_utils.py,Simple Atributte,291,291,12,A2
+tests,test_utils.py,Simple Atributte,293,293,18,A2
+tests,test_utils.py,Simple Atributte,294,294,22,A2
+tests,test_utils.py,Simple Atributte,294,294,54,A2
+tests,test_utils.py,Simple Atributte,298,298,15,A2
+tests,test_utils.py,Simple Atributte,685,685,8,A2
+tests,test_utils.py,Simple Atributte,797,797,15,A2
+tests,test_utils.py,Simple Atributte,267,267,13,A2
+tests,test_utils.py,Simple Atributte,771,771,16,A2
+tests,test_utils.py,Simple Atributte,797,797,15,A2
+tests,test_utils.py,Simple Atributte,38,38,31,A2
+tests,test_utils.py,Simple Atributte,38,38,31,A2
+tests,test_utils.py,Simple Dictionary Comprehension,695,695,14,C1
+tests,test_utils.py,Simple Assignment,363,363,0,A1
+tests,test_utils.py,Simple Assignment,364,364,0,A1
+tests,test_utils.py,Simple Assignment,365,365,0,A1
+tests,test_utils.py,Simple Assignment,449,450,0,A1
+tests,test_utils.py,Simple Assignment,451,452,0,A1
+tests,test_utils.py,Simple Assignment,453,455,0,A1
+tests,test_utils.py,Simple Assignment,678,678,4,A1
+tests,test_utils.py,Simple Assignment,692,693,4,A1
+tests,test_utils.py,Simple Assignment,694,694,4,A1
+tests,test_utils.py,Simple Assignment,695,695,4,A1
+tests,test_utils.py,Simple Assignment,726,726,4,A1
+tests,test_utils.py,Simple Assignment,761,761,4,A1
+tests,test_utils.py,Simple Assignment,762,762,4,A1
+tests,test_utils.py,Simple Assignment,795,795,4,A1
+tests,test_utils.py,Simple Assignment,47,47,8,A1
+tests,test_utils.py,Simple Assignment,84,84,8,A1
+tests,test_utils.py,Simple Assignment,91,91,8,A1
+tests,test_utils.py,Simple Assignment,94,94,8,A1
+tests,test_utils.py,Simple Assignment,103,103,8,A1
+tests,test_utils.py,Simple Assignment,104,104,8,A1
+tests,test_utils.py,Simple Assignment,115,115,8,A1
+tests,test_utils.py,Simple Assignment,201,201,8,A1
+tests,test_utils.py,Simple Assignment,216,216,8,A1
+tests,test_utils.py,Simple Assignment,270,270,8,A1
+tests,test_utils.py,Simple Assignment,271,271,8,A1
+tests,test_utils.py,Simple Assignment,289,289,8,A1
+tests,test_utils.py,Simple Assignment,293,293,8,A1
+tests,test_utils.py,Simple Assignment,294,294,8,A1
+tests,test_utils.py,Simple Assignment,295,295,8,A1
+tests,test_utils.py,Simple Assignment,302,302,8,A1
+tests,test_utils.py,Simple Assignment,309,309,8,A1
+tests,test_utils.py,Simple Assignment,324,324,8,A1
+tests,test_utils.py,Simple Assignment,329,333,8,A1
+tests,test_utils.py,Simple Assignment,345,345,8,A1
+tests,test_utils.py,Simple Assignment,359,359,8,A1
+tests,test_utils.py,Simple Assignment,751,751,8,A1
+tests,test_utils.py,Simple Assignment,99,99,12,A1
+tests,test_utils.py,Simple Assignment,122,122,12,A1
+tests,test_utils.py,Simple Assignment,123,123,12,A1
+tests,test_utils.py,Simple Assignment,110,110,16,A1
+tests,test_utils.py,'raise' exception,807,807,12,B1
+tests,test_utils.py,'raise' exception,59,59,16,B1
+tests,test_utils.py,'raise' exception,68,68,16,B1
+tests,test_utils.py,'assert' exception,401,401,4,B2
+tests,test_utils.py,'assert' exception,419,419,4,B2
+tests,test_utils.py,'assert' exception,436,436,4,B2
+tests,test_utils.py,'assert' exception,446,446,4,B2
+tests,test_utils.py,'assert' exception,479,479,4,B2
+tests,test_utils.py,'assert' exception,488,488,4,B2
+tests,test_utils.py,'assert' exception,531,531,4,B2
+tests,test_utils.py,'assert' exception,550,550,4,B2
+tests,test_utils.py,'assert' exception,597,597,4,B2
+tests,test_utils.py,'assert' exception,615,615,4,B2
+tests,test_utils.py,'assert' exception,625,625,4,B2
+tests,test_utils.py,'assert' exception,638,638,4,B2
+tests,test_utils.py,'assert' exception,660,660,4,B2
+tests,test_utils.py,'assert' exception,696,696,4,B2
+tests,test_utils.py,'assert' exception,707,707,4,B2
+tests,test_utils.py,'assert' exception,728,728,4,B2
+tests,test_utils.py,'assert' exception,783,783,4,B2
+tests,test_utils.py,'assert' exception,799,799,4,B2
+tests,test_utils.py,'assert' exception,809,809,4,B2
+tests,test_utils.py,'assert' exception,42,42,8,B2
+tests,test_utils.py,'assert' exception,43,43,8,B2
+tests,test_utils.py,'assert' exception,49,49,8,B2
+tests,test_utils.py,'assert' exception,61,61,8,B2
+tests,test_utils.py,'assert' exception,73,73,8,B2
+tests,test_utils.py,'assert' exception,76,76,8,B2
+tests,test_utils.py,'assert' exception,88,88,8,B2
+tests,test_utils.py,'assert' exception,105,105,8,B2
+tests,test_utils.py,'assert' exception,112,112,8,B2
+tests,test_utils.py,'assert' exception,116,116,8,B2
+tests,test_utils.py,'assert' exception,118,118,8,B2
+tests,test_utils.py,'assert' exception,124,124,8,B2
+tests,test_utils.py,'assert' exception,128,128,8,B2
+tests,test_utils.py,'assert' exception,141,141,8,B2
+tests,test_utils.py,'assert' exception,159,159,8,B2
+tests,test_utils.py,'assert' exception,162,162,8,B2
+tests,test_utils.py,'assert' exception,183,183,8,B2
+tests,test_utils.py,'assert' exception,192,192,8,B2
+tests,test_utils.py,'assert' exception,202,202,8,B2
+tests,test_utils.py,'assert' exception,217,217,8,B2
+tests,test_utils.py,'assert' exception,223,223,8,B2
+tests,test_utils.py,'assert' exception,227,227,8,B2
+tests,test_utils.py,'assert' exception,233,233,8,B2
+tests,test_utils.py,'assert' exception,244,244,8,B2
+tests,test_utils.py,'assert' exception,250,250,8,B2
+tests,test_utils.py,'assert' exception,253,253,8,B2
+tests,test_utils.py,'assert' exception,262,262,8,B2
+tests,test_utils.py,'assert' exception,272,272,8,B2
+tests,test_utils.py,'assert' exception,273,273,8,B2
+tests,test_utils.py,'assert' exception,286,286,8,B2
+tests,test_utils.py,'assert' exception,297,297,8,B2
+tests,test_utils.py,'assert' exception,298,298,8,B2
+tests,test_utils.py,'assert' exception,299,299,8,B2
+tests,test_utils.py,'assert' exception,303,303,8,B2
+tests,test_utils.py,'assert' exception,310,310,8,B2
+tests,test_utils.py,'assert' exception,325,325,8,B2
+tests,test_utils.py,'assert' exception,326,326,8,B2
+tests,test_utils.py,'assert' exception,334,334,8,B2
+tests,test_utils.py,'assert' exception,346,346,8,B2
+tests,test_utils.py,'assert' exception,349,349,8,B2
+tests,test_utils.py,'assert' exception,360,360,8,B2
+tests,test_utils.py,'assert' exception,565,565,8,B2
+tests,test_utils.py,'assert' exception,567,567,8,B2
+tests,test_utils.py,'assert' exception,797,797,8,B2
+tests,test_utils.py,'assert' exception,87,87,12,B2
+tests,test_utils.py,'assert' exception,100,100,12,B2
+tests,test_utils.py,'pass' statement,759,759,12,B1
+tests,test_utils.py,'pass' statement,71,71,16,B1
+tests,test_utils.py,Import,3,3,0,A2
+tests,test_utils.py,Import,4,4,0,A2
+tests,test_utils.py,Import,5,5,0,A2
+tests,test_utils.py,Import,7,7,0,A2
+tests,test_utils.py,Import,8,8,0,A2
+tests,test_utils.py,Import,11,11,0,A2
+tests,test_utils.py,Import,753,753,8,A2
+tests,test_utils.py,Import with 'as' extension ,755,755,8,B1
+tests,test_utils.py,From,6,6,0,A2
+tests,test_utils.py,From,9,9,0,A2
+tests,test_utils.py,From,12,12,0,A2
+tests,test_utils.py,From,13,13,0,A2
+tests,test_utils.py,From,14,14,0,A2
+tests,test_utils.py,From,15,25,0,A2
+tests,test_utils.py,From,26,26,0,A2
+tests,test_utils.py,Relative From,28,28,0,B1
+tests,test_utils.py,Simple If statements,563,567,4,A1
+tests,test_utils.py,Simple If statements,750,751,4,A1
+tests,test_utils.py,Simple If statements,752,755,4,A1
+tests,test_utils.py,Simple If statements,768,774,8,A1
+tests,test_utils.py,Simple If statements,769,774,12,A1
+tests,test_utils.py,Simple If statements,773,774,12,A1
+tests,test_utils.py,With,796,797,4,B1
+tests,test_utils.py,With,805,807,4,B1
+tests,test_utils.py,With,86,87,8,B1
+tests,test_utils.py,With,95,96,8,B1
+tests,test_utils.py,With,98,100,8,B1
+tests,test_utils.py,With,121,123,8,B1
+tests,test_utils.py,With,144,145,8,B1
+tests,test_utils.py,With,290,291,8,B1
+tests,test_utils.py,With,806,807,8,B1
+tests,test_utils.py,Function with Simple argument,400,401,0,A1
+tests,test_utils.py,Function with Simple argument,417,419,0,A1
+tests,test_utils.py,Function with Simple argument,435,436,0,A1
+tests,test_utils.py,Function with Simple argument,445,446,0,A1
+tests,test_utils.py,Function with Simple argument,477,479,0,A1
+tests,test_utils.py,Function with Simple argument,487,488,0,A1
+tests,test_utils.py,Function with Simple argument,530,531,0,A1
+tests,test_utils.py,Function with Simple argument,549,550,0,A1
+tests,test_utils.py,Function with Simple argument,562,567,0,A1
+tests,test_utils.py,Function with Simple argument,596,597,0,A1
+tests,test_utils.py,Function with Simple argument,614,615,0,A1
+tests,test_utils.py,Function with Simple argument,624,625,0,A1
+tests,test_utils.py,Function with Simple argument,637,638,0,A1
+tests,test_utils.py,Function with Simple argument,654,660,0,A1
+tests,test_utils.py,Function with Simple argument,674,680,0,A1
+tests,test_utils.py,Function with Simple argument,688,696,0,A1
+tests,test_utils.py,Function with Simple argument,706,707,0,A1
+tests,test_utils.py,Function with Simple argument,721,728,0,A1
+tests,test_utils.py,Function with Simple argument,745,783,0,A1
+tests,test_utils.py,Function with Simple argument,793,799,0,A1
+tests,test_utils.py,Function,802,809,0,A1
+tests,test_utils.py,Function with Simple argument,40,43,4,A1
+tests,test_utils.py,Function with Simple argument,45,49,4,A1
+tests,test_utils.py,Function with Simple argument,52,61,4,A1
+tests,test_utils.py,Function with Simple argument,64,73,4,A1
+tests,test_utils.py,Function with Simple argument,75,76,4,A1
+tests,test_utils.py,Function with Simple argument,83,88,4,A1
+tests,test_utils.py,Function with Simple argument,90,100,4,A1
+tests,test_utils.py,Function with Simple argument,102,105,4,A1
+tests,test_utils.py,Function with Simple argument,107,112,4,A1
+tests,test_utils.py,Function with Simple argument,114,118,4,A1
+tests,test_utils.py,Function with Simple argument,120,124,4,A1
+tests,test_utils.py,Function with Simple argument,126,128,4,A1
+tests,test_utils.py,Function with Simple argument,140,141,4,A1
+tests,test_utils.py,Function with Simple argument,143,145,4,A1
+tests,test_utils.py,Function with Simple argument,158,159,4,A1
+tests,test_utils.py,Function with Simple argument,161,162,4,A1
+tests,test_utils.py,Function with Simple argument,171,172,4,A1
+tests,test_utils.py,Function with Simple argument,182,183,4,A1
+tests,test_utils.py,Function with Simple argument,191,192,4,A1
+tests,test_utils.py,Function with Simple argument,200,202,4,A1
+tests,test_utils.py,Function with Simple argument,212,217,4,A1
+tests,test_utils.py,Function with Simple argument,222,223,4,A1
+tests,test_utils.py,Function with Simple argument,226,227,4,A1
+tests,test_utils.py,Function with Simple argument,232,233,4,A1
+tests,test_utils.py,Function with Simple argument,243,244,4,A1
+tests,test_utils.py,Function with Simple argument,249,250,4,A1
+tests,test_utils.py,Function with Simple argument,252,253,4,A1
+tests,test_utils.py,Function with Simple argument,261,262,4,A1
+tests,test_utils.py,Function with Simple argument,269,273,4,A1
+tests,test_utils.py,Function with Simple argument,285,286,4,A1
+tests,test_utils.py,Function with Simple argument,288,299,4,A1
+tests,test_utils.py,Function with Simple argument,301,303,4,A1
+tests,test_utils.py,Function with Simple argument,308,310,4,A1
+tests,test_utils.py,Function with Simple argument,323,326,4,A1
+tests,test_utils.py,Function with Simple argument,328,334,4,A1
+tests,test_utils.py,Function with Simple argument,344,346,4,A1
+tests,test_utils.py,Function with Simple argument,348,349,4,A1
+tests,test_utils.py,Function with Simple argument,358,360,4,A1
+tests,test_utils.py,Function with Simple argument,764,765,4,A1
+tests,test_utils.py,Function with Simple argument,767,774,4,A1
+tests,test_utils.py,Function with Simple argument,758,759,8,A1
+tests,test_utils.py,Function with Simple argument,55,56,12,A1
+tests,test_utils.py,Function with Simple argument,58,59,12,A1
+tests,test_utils.py,Function with Simple argument,67,68,12,A1
+tests,test_utils.py,Function with Simple argument,70,71,12,A1
+tests,test_utils.py,Function with Simple argument,109,110,12,A1
+tests,test_utils.py,Return,765,765,8,A1
+tests,test_utils.py,Return,56,56,16,A1
+tests,test_utils.py,Return,772,772,16,A1
+tests,test_utils.py,Return,774,774,16,A1
+tests,test_utils.py,Simple Class ,31,128,0,B1
+tests,test_utils.py,Simple Class ,131,145,0,B1
+tests,test_utils.py,Simple Class ,148,162,0,B1
+tests,test_utils.py,Simple Class ,165,217,0,B1
+tests,test_utils.py,Simple Class ,220,227,0,B1
+tests,test_utils.py,Simple Class ,230,244,0,B1
+tests,test_utils.py,Simple Class ,247,253,0,B1
+tests,test_utils.py,Simple Class ,256,273,0,B1
+tests,test_utils.py,Simple Class ,276,303,0,B1
+tests,test_utils.py,Simple Class ,306,334,0,B1
+tests,test_utils.py,Simple Class ,337,360,0,B1
+tests,test_utils.py,Simple Class ,757,759,4,B1
+tests,test_utils.py,Inherited Class from object,54,59,8,B1
+tests,test_utils.py,Inherited Class from object,66,71,8,B1
+tests,test_utils.py,Inherited Class from object Using the constructor method --> __init__,108,110,8,B1

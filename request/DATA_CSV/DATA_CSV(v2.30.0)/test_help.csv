@@ -1,0 +1,16 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+tests,test_help.py,Simple Dictionary,19,19,29,A2
+tests,test_help.py,Simple Dictionary,25,25,29,A2
+tests,test_help.py,Simple Atributte,11,11,8,A2
+tests,test_help.py,Simple Atributte,18,18,4,A2
+tests,test_help.py,Simple Atributte,24,24,4,A2
+tests,test_help.py,Simple Assignment,11,11,8,A1
+tests,test_help.py,'assert' exception,6,6,4,B2
+tests,test_help.py,'assert' exception,19,19,4,B2
+tests,test_help.py,'assert' exception,25,25,4,B2
+tests,test_help.py,From,1,1,0,A2
+tests,test_help.py,Function,4,6,0,A1
+tests,test_help.py,Function with Simple argument,14,19,0,A1
+tests,test_help.py,Function with Simple argument,22,25,0,A1
+tests,test_help.py,Function with Simple argument,10,11,4,A1
+tests,test_help.py,Simple Class  Using the constructor method --> __init__,9,11,0,B1

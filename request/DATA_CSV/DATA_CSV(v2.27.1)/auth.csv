@@ -1,0 +1,328 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+requests,auth.py,Simple List,87,90,19,A1
+requests,auth.py,Simple List,299,302,19,A1
+requests,auth.py,Simple Tuple,182,182,26,A1
+requests,auth.py,Simple Tuple,183,183,23,A1
+requests,auth.py,Simple Tuple,217,217,33,A1
+requests,auth.py,Simple Tuple,225,225,57,A1
+requests,auth.py,Simple Tuple,169,169,46,A1
+requests,auth.py,Simple Tuple,200,200,41,A1
+requests,auth.py,Simple Tuple,203,203,40,A1
+requests,auth.py,Simple Tuple,205,207,42,A1
+requests,auth.py,Simple Tuple,66,66,28,A1
+requests,auth.py,Simple Dictionary,123,123,38,A2
+requests,auth.py,Simple Atributte,83,83,8,A2
+requests,auth.py,Simple Atributte,84,84,8,A2
+requests,auth.py,Simple Atributte,112,112,8,A2
+requests,auth.py,Simple Atributte,113,113,8,A2
+requests,auth.py,Simple Atributte,115,115,8,A2
+requests,auth.py,Simple Atributte,179,179,11,A2
+requests,auth.py,Simple Atributte,213,213,8,A2
+requests,auth.py,Simple Atributte,231,231,11,A2
+requests,auth.py,Simple Atributte,275,275,8,A2
+requests,auth.py,Simple Atributte,282,282,11,A2
+requests,auth.py,Simple Atributte,294,294,8,A2
+requests,auth.py,Simple Atributte,39,39,8,A2
+requests,auth.py,Simple Atributte,49,49,8,A2
+requests,auth.py,Simple Atributte,60,60,19,A2
+requests,auth.py,Simple Atributte,63,63,19,A2
+requests,auth.py,Simple Atributte,96,96,8,A2
+requests,auth.py,Simple Atributte,96,96,53,A2
+requests,auth.py,Simple Atributte,96,96,68,A2
+requests,auth.py,Simple Atributte,104,104,8,A2
+requests,auth.py,Simple Atributte,104,104,59,A2
+requests,auth.py,Simple Atributte,104,104,74,A2
+requests,auth.py,Simple Atributte,115,115,29,A2
+requests,auth.py,Simple Atributte,120,120,12,A2
+requests,auth.py,Simple Atributte,121,121,12,A2
+requests,auth.py,Simple Atributte,122,122,12,A2
+requests,auth.py,Simple Atributte,123,123,12,A2
+requests,auth.py,Simple Atributte,124,124,12,A2
+requests,auth.py,Simple Atributte,125,125,12,A2
+requests,auth.py,Simple Atributte,132,132,16,A2
+requests,auth.py,Simple Atributte,133,133,16,A2
+requests,auth.py,Simple Atributte,134,134,14,A2
+requests,auth.py,Simple Atributte,135,135,20,A2
+requests,auth.py,Simple Atributte,136,136,17,A2
+requests,auth.py,Simple Atributte,178,178,15,A2
+requests,auth.py,Simple Atributte,188,188,20,A2
+requests,auth.py,Simple Atributte,189,189,12,A2
+requests,auth.py,Simple Atributte,191,191,12,A2
+requests,auth.py,Simple Atributte,192,192,27,A2
+requests,auth.py,Simple Atributte,193,193,12,A2
+requests,auth.py,Simple Atributte,194,194,13,A2
+requests,auth.py,Simple Atributte,195,195,13,A2
+requests,auth.py,Simple Atributte,196,196,13,A2
+requests,auth.py,Simple Atributte,213,213,8,A2
+requests,auth.py,Simple Atributte,232,232,12,A2
+requests,auth.py,Simple Atributte,244,244,12,A2
+requests,auth.py,Simple Atributte,247,247,11,A2
+requests,auth.py,Simple Atributte,251,251,17,A2
+requests,auth.py,Simple Atributte,255,255,12,A2
+requests,auth.py,Simple Atributte,257,257,12,A2
+requests,auth.py,Simple Atributte,261,261,12,A2
+requests,auth.py,Simple Atributte,271,271,12,A2
+requests,auth.py,Simple Atributte,275,275,8,A2
+requests,auth.py,Simple Atributte,280,280,8,A2
+requests,auth.py,Simple Atributte,282,282,11,A2
+requests,auth.py,Simple Atributte,285,285,12,A2
+requests,auth.py,Simple Atributte,292,292,8,A2
+requests,auth.py,Simple Atributte,292,292,36,A2
+requests,auth.py,Simple Atributte,293,293,8,A2
+requests,auth.py,Simple Atributte,293,293,36,A2
+requests,auth.py,Simple Atributte,294,294,8,A2
+requests,auth.py,Simple Atributte,40,43,12,A2
+requests,auth.py,Simple Atributte,50,53,12,A2
+requests,auth.py,Simple Atributte,66,66,8,A2
+requests,auth.py,Simple Atributte,119,119,23,A2
+requests,auth.py,Simple Atributte,120,120,12,A2
+requests,auth.py,Simple Atributte,121,121,12,A2
+requests,auth.py,Simple Atributte,122,122,12,A2
+requests,auth.py,Simple Atributte,123,123,12,A2
+requests,auth.py,Simple Atributte,124,124,12,A2
+requests,auth.py,Simple Atributte,125,125,12,A2
+requests,auth.py,Simple Atributte,132,132,16,A2
+requests,auth.py,Simple Atributte,133,133,16,A2
+requests,auth.py,Simple Atributte,134,134,14,A2
+requests,auth.py,Simple Atributte,135,135,20,A2
+requests,auth.py,Simple Atributte,136,136,17,A2
+requests,auth.py,Simple Atributte,142,142,25,A2
+requests,auth.py,Simple Atributte,180,180,26,A2
+requests,auth.py,Simple Atributte,182,182,27,A2
+requests,auth.py,Simple Atributte,182,182,49,A2
+requests,auth.py,Simple Atributte,188,188,20,A2
+requests,auth.py,Simple Atributte,189,189,12,A2
+requests,auth.py,Simple Atributte,191,191,12,A2
+requests,auth.py,Simple Atributte,192,192,27,A2
+requests,auth.py,Simple Atributte,198,198,18,A2
+requests,auth.py,Simple Atributte,217,217,34,A2
+requests,auth.py,Simple Atributte,232,232,12,A2
+requests,auth.py,Simple Atributte,243,243,22,A2
+requests,auth.py,Simple Atributte,244,244,12,A2
+requests,auth.py,Simple Atributte,247,247,11,A2
+requests,auth.py,Simple Atributte,250,250,12,A2
+requests,auth.py,Simple Atributte,250,250,32,A2
+requests,auth.py,Simple Atributte,251,251,17,A2
+requests,auth.py,Simple Atributte,253,253,42,A2
+requests,auth.py,Simple Atributte,255,255,12,A2
+requests,auth.py,Simple Atributte,256,256,18,A2
+requests,auth.py,Simple Atributte,257,257,12,A2
+requests,auth.py,Simple Atributte,262,262,12,A2
+requests,auth.py,Simple Atributte,263,263,19,A2
+requests,auth.py,Simple Atributte,264,264,35,A2
+requests,auth.py,Simple Atributte,264,264,50,A2
+requests,auth.py,Simple Atributte,264,264,61,A2
+requests,auth.py,Simple Atributte,265,265,12,A2
+requests,auth.py,Simple Atributte,265,265,33,A2
+requests,auth.py,Simple Atributte,267,267,12,A2
+requests,auth.py,Simple Atributte,267,267,44,A2
+requests,auth.py,Simple Atributte,268,268,16,A2
+requests,auth.py,Simple Atributte,268,268,29,A2
+requests,auth.py,Simple Atributte,269,269,17,A2
+requests,auth.py,Simple Atributte,270,270,12,A2
+requests,auth.py,Simple Atributte,283,283,12,A2
+requests,auth.py,Simple Atributte,283,283,41,A2
+requests,auth.py,Simple Atributte,283,283,66,A2
+requests,auth.py,Simple Atributte,283,283,76,A2
+requests,auth.py,Simple Atributte,285,285,12,A2
+requests,auth.py,Simple Atributte,285,285,37,A2
+requests,auth.py,Simple Atributte,291,291,12,A2
+requests,auth.py,Simple Atributte,88,88,12,A2
+requests,auth.py,Simple Atributte,89,89,12,A2
+requests,auth.py,Simple Atributte,134,134,14,A2
+requests,auth.py,Simple Atributte,135,135,20,A2
+requests,auth.py,Simple Atributte,136,136,17,A2
+requests,auth.py,Simple Atributte,148,148,23,A2
+requests,auth.py,Simple Atributte,193,193,16,A2
+requests,auth.py,Simple Atributte,195,195,13,A2
+requests,auth.py,Simple Atributte,250,250,12,A2
+requests,auth.py,Simple Atributte,250,250,32,A2
+requests,auth.py,Simple Atributte,253,253,23,A2
+requests,auth.py,Simple Atributte,253,253,42,A2
+requests,auth.py,Simple Atributte,256,256,47,A2
+requests,auth.py,Simple Atributte,257,257,56,A2
+requests,auth.py,Simple Atributte,263,263,19,A2
+requests,auth.py,Simple Atributte,269,269,17,A2
+requests,auth.py,Simple Atributte,270,270,12,A2
+requests,auth.py,Simple Atributte,285,285,37,A2
+requests,auth.py,Simple Atributte,291,291,12,A2
+requests,auth.py,Simple Atributte,300,300,12,A2
+requests,auth.py,Simple Atributte,301,301,12,A2
+requests,auth.py,Simple Atributte,147,147,24,A2
+requests,auth.py,Simple Atributte,154,154,23,A2
+requests,auth.py,Simple Atributte,193,193,16,A2
+requests,auth.py,Simple Atributte,198,198,18,A2
+requests,auth.py,Simple Atributte,204,204,40,A2
+requests,auth.py,Simple Atributte,250,250,12,A2
+requests,auth.py,Simple Atributte,66,66,18,A2
+requests,auth.py,Simple Atributte,148,148,23,A2
+requests,auth.py,Simple Atributte,153,153,24,A2
+requests,auth.py,Simple Atributte,160,160,23,A2
+requests,auth.py,Simple Atributte,154,154,23,A2
+requests,auth.py,Simple Atributte,159,159,24,A2
+requests,auth.py,Simple Atributte,166,166,23,A2
+requests,auth.py,Simple Atributte,160,160,23,A2
+requests,auth.py,Simple Atributte,165,165,24,A2
+requests,auth.py,Simple Atributte,166,166,23,A2
+requests,auth.py,Simple Assignment,24,24,0,A1
+requests,auth.py,Simple Assignment,25,25,0,A1
+requests,auth.py,Assigment with sum (total = total + 1),65,67,4,A1
+requests,auth.py,Simple Assignment,46,46,8,A1
+requests,auth.py,Simple Assignment,56,56,8,A1
+requests,auth.py,Simple Assignment,60,60,8,A1
+requests,auth.py,Simple Assignment,63,63,8,A1
+requests,auth.py,Simple Assignment,83,83,8,A1
+requests,auth.py,Simple Assignment,84,84,8,A1
+requests,auth.py,Simple Assignment,96,96,8,A1
+requests,auth.py,Simple Assignment,104,104,8,A1
+requests,auth.py,Simple Assignment,112,112,8,A1
+requests,auth.py,Simple Assignment,113,113,8,A1
+requests,auth.py,Simple Assignment,115,115,8,A1
+requests,auth.py,Simple Assignment,132,132,8,A1
+requests,auth.py,Simple Assignment,133,133,8,A1
+requests,auth.py,Simple Assignment,134,134,8,A1
+requests,auth.py,Simple Assignment,135,135,8,A1
+requests,auth.py,Simple Assignment,136,136,8,A1
+requests,auth.py,Simple Assignment,137,137,8,A1
+requests,auth.py,Simple Assignment,169,169,8,A1
+requests,auth.py,Simple Assignment,175,175,8,A1
+requests,auth.py,Simple Assignment,176,176,8,A1
+requests,auth.py,Simple Assignment,178,178,8,A1
+requests,auth.py,Assigment with sum (total = total + 1),182,182,8,A1
+requests,auth.py,Assigment with sum (total = total + 1),183,183,8,A1
+requests,auth.py,Simple Assignment,185,185,8,A1
+requests,auth.py,Simple Assignment,186,186,8,A1
+requests,auth.py,Assigment with sum (total = total + 1),192,192,8,A1
+requests,auth.py,Simple Assignment,193,193,8,A1
+requests,auth.py,Simple Assignment,198,198,8,A1
+requests,auth.py,Simple Assignment,213,213,8,A1
+requests,auth.py,Assigment with sum (total = total + 1),216,217,8,A1
+requests,auth.py,Simple Assignment,251,251,8,A1
+requests,auth.py,Simple Assignment,275,275,8,A1
+requests,auth.py,Simple Assignment,294,294,8,A1
+requests,auth.py,Simple Assignment,120,120,12,A1
+requests,auth.py,Simple Assignment,121,121,12,A1
+requests,auth.py,Simple Assignment,122,122,12,A1
+requests,auth.py,Simple Assignment,123,123,12,A1
+requests,auth.py,Simple Assignment,124,124,12,A1
+requests,auth.py,Simple Assignment,125,125,12,A1
+requests,auth.py,Simple Assignment,140,140,12,A1
+requests,auth.py,Simple Assignment,142,142,12,A1
+requests,auth.py,Simple Assignment,149,149,12,A1
+requests,auth.py,Simple Assignment,191,191,12,A1
+requests,auth.py,Simple Assignment,200,200,12,A1
+requests,auth.py,Simple Assignment,203,203,12,A1
+requests,auth.py,Simple Assignment,232,232,12,A1
+requests,auth.py,Simple Assignment,244,244,12,A1
+requests,auth.py,Simple Assignment,256,256,12,A1
+requests,auth.py,Simple Assignment,257,257,12,A1
+requests,auth.py,Simple Assignment,263,263,12,A1
+requests,auth.py,Simple Assignment,267,268,12,A1
+requests,auth.py,Simple Assignment,269,269,12,A1
+requests,auth.py,Simple Assignment,271,271,12,A1
+requests,auth.py,Simple Assignment,283,283,12,A1
+requests,auth.py,Simple Assignment,285,285,12,A1
+requests,auth.py,Simple Assignment,155,155,12,A1
+requests,auth.py,Assigment with sum (total = total + 1),205,207,12,A1
+requests,auth.py,Simple Assignment,208,208,12,A1
+requests,auth.py,Simple Assignment,291,291,12,A1
+requests,auth.py,Simple Assignment,147,147,20,A1
+requests,auth.py,Simple Assignment,161,161,12,A1
+requests,auth.py,Simple Assignment,153,153,20,A1
+requests,auth.py,Simple Assignment,167,167,12,A1
+requests,auth.py,Simple Assignment,159,159,20,A1
+requests,auth.py,Simple Assignment,165,165,20,A1
+requests,auth.py,Simplified incremental Assignment with increase amount,194,194,8,A2
+requests,auth.py,Simplified incremental Assignment with increase amount,195,195,8,A2
+requests,auth.py,Simplified incremental Assignment with increase amount,196,196,8,A2
+requests,auth.py,Simplified incremental Assignment with increase amount,180,180,12,A2
+requests,auth.py,Simplified incremental Assignment with increase amount,189,189,12,A2
+requests,auth.py,Simplified incremental Assignment with increase amount,219,219,12,A2
+requests,auth.py,Simplified incremental Assignment with increase amount,221,221,12,A2
+requests,auth.py,Simplified incremental Assignment with increase amount,223,223,12,A2
+requests,auth.py,Simplified incremental Assignment with increase amount,225,225,12,A2
+requests,auth.py,Simplified incremental Assignment with increase amount,255,255,12,A2
+requests,auth.py,'raise' exception,76,76,8,B1
+requests,auth.py,Import,10,10,0,A2
+requests,auth.py,Import're' module,11,11,0,C1
+requests,auth.py,Import,12,12,0,A2
+requests,auth.py,Import,13,13,0,A2
+requests,auth.py,Import,14,14,0,A2
+requests,auth.py,Import,15,15,0,A2
+requests,auth.py,From,17,17,0,A2
+requests,auth.py,Relative From,19,19,0,B1
+requests,auth.py,Relative From,20,20,0,B1
+requests,auth.py,Relative From,21,21,0,B1
+requests,auth.py,Relative From,22,22,0,B1
+requests,auth.py,Simple If statements,38,46,4,A1
+requests,auth.py,Simple If statements,48,56,4,A1
+requests,auth.py,Simple If statements,59,60,4,A1
+requests,auth.py,Simple If statements,62,63,4,A1
+requests,auth.py,Simple If statements,119,125,8,A1
+requests,auth.py,Simple If statements,139,142,8,A1
+requests,auth.py,Simple If statements,144,167,8,A1
+requests,auth.py,Simple If statements,171,172,8,A1
+requests,auth.py,Simple If statements,179,180,8,A1
+requests,auth.py,Simple If statements,188,191,8,A1
+requests,auth.py,Simple If statements,199,200,8,A1
+requests,auth.py,Simple If statements,202,211,8,A1
+requests,auth.py,Simple If statements,218,219,8,A1
+requests,auth.py,Simple If statements,220,221,8,A1
+requests,auth.py,Simple If statements,222,223,8,A1
+requests,auth.py,Simple If statements,224,225,8,A1
+requests,auth.py,Simple If statements,231,232,8,A1
+requests,auth.py,Simple If statements,243,245,8,A1
+requests,auth.py,Simple If statements,247,250,8,A1
+requests,auth.py,Simple If statements,253,273,8,A1
+requests,auth.py,Simple If statements,282,283,8,A1
+requests,auth.py,Simple If statements,150,167,8,A1
+requests,auth.py,Simple If statements,204,211,8,A1
+requests,auth.py,Simple If statements,146,147,16,A1
+requests,auth.py,Simple If statements,156,167,8,A1
+requests,auth.py,Simple If statements,152,153,16,A1
+requests,auth.py,Simple If statements,162,167,8,A1
+requests,auth.py,Simple If statements,158,159,16,A1
+requests,auth.py,Simple If statements,164,165,16,A1
+requests,auth.py,Exception --> try/except,284,291,8,B1
+requests,auth.py,Function with Simple argument,28,69,0,A1
+requests,auth.py,Function with Simple argument,75,76,4,A1
+requests,auth.py,Function with Simple argument,82,84,4,A1
+requests,auth.py,Function with Simple argument,86,90,4,A1
+requests,auth.py,Function with Simple argument,92,93,4,A1
+requests,auth.py,Function with Simple argument,95,97,4,A1
+requests,auth.py,Function with Simple argument,103,105,4,A1
+requests,auth.py,Function with Simple argument,111,115,4,A1
+requests,auth.py,Function with Simple argument,117,125,4,A1
+requests,auth.py,Function with Simple argument,127,227,4,A1
+requests,auth.py,Function with Simple argument with ** argument,229,232,4,B1
+requests,auth.py,Function with Simple argument with ** argument,234,276,4,B1
+requests,auth.py,Function with Simple argument,278,296,4,A1
+requests,auth.py,Function with Simple argument,298,302,4,A1
+requests,auth.py,Function with Simple argument,304,305,4,A1
+requests,auth.py,Function with Simple argument,145,148,12,A1
+requests,auth.py,Function with Simple argument,151,154,12,A1
+requests,auth.py,Function with Simple argument,157,160,12,A1
+requests,auth.py,Function with Simple argument,163,166,12,A1
+requests,auth.py,Lambda,169,169,13,B1
+requests,auth.py,Return,69,69,4,A1
+requests,auth.py,Return,87,90,8,A1
+requests,auth.py,Return,93,93,8,A1
+requests,auth.py,Return,97,97,8,A1
+requests,auth.py,Return,105,105,8,A1
+requests,auth.py,Return,227,227,8,A1
+requests,auth.py,Return,276,276,8,A1
+requests,auth.py,Return,296,296,8,A1
+requests,auth.py,Return,299,302,8,A1
+requests,auth.py,Return,305,305,8,A1
+requests,auth.py,Return,172,172,12,A1
+requests,auth.py,Return,245,245,12,A1
+requests,auth.py,Return,273,273,12,A1
+requests,auth.py,Return,148,148,16,A1
+requests,auth.py,Return,211,211,12,A1
+requests,auth.py,Return,154,154,16,A1
+requests,auth.py,Return,160,160,16,A1
+requests,auth.py,Return,166,166,16,A1
+requests,auth.py,Inherited Class from object,72,76,0,B1
+requests,auth.py,Inherited Class from AuthBase,79,97,0,B1
+requests,auth.py,Inherited Class from HTTPBasicAuth,100,105,0,B1
+requests,auth.py,Inherited Class from AuthBase,108,305,0,B1

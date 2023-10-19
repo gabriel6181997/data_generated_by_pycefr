@@ -1,0 +1,88 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+requests,__init__.py,Simple List,60,60,30,A1
+requests,__init__.py,Simple List,96,96,30,A1
+requests,__init__.py,Simple Tuple,67,67,4,A1
+requests,__init__.py,Simple Tuple,68,68,4,A1
+requests,__init__.py,Simple Tuple,68,68,26,A1
+requests,__init__.py,Simple Tuple,108,108,7,A1
+requests,__init__.py,Simple Tuple,76,76,8,A1
+requests,__init__.py,Simple Tuple,77,77,8,A1
+requests,__init__.py,Simple Tuple,77,77,30,A1
+requests,__init__.py,Simple Tuple,79,79,15,A1
+requests,__init__.py,Simple Tuple,79,79,28,A1
+requests,__init__.py,Simple Tuple,79,79,52,A1
+requests,__init__.py,Simple Tuple,81,81,8,A1
+requests,__init__.py,Simple Tuple,82,82,8,A1
+requests,__init__.py,Simple Tuple,82,82,30,A1
+requests,__init__.py,Simple Tuple,84,84,15,A1
+requests,__init__.py,Simple Tuple,84,84,28,A1
+requests,__init__.py,Simple Tuple,84,84,52,A1
+requests,__init__.py,'map' call function,92,92,36,C2
+requests,__init__.py,Simple Atributte,141,141,0,A2
+requests,__init__.py,Simple Atributte,177,177,0,A2
+requests,__init__.py,Simple Atributte,180,180,0,A2
+requests,__init__.py,Simple Atributte,59,59,22,A2
+requests,__init__.py,Simple Atributte,106,106,8,A2
+requests,__init__.py,Simple Atributte,64,64,8,A2
+requests,__init__.py,Simple Atributte,97,97,18,A2
+requests,__init__.py,Simple Atributte,100,100,8,A2
+requests,__init__.py,Simple Atributte,109,109,4,A2
+requests,__init__.py,Simple Atributte,129,129,8,A2
+requests,__init__.py,Simple Atributte,177,177,0,A2
+requests,__init__.py,Simple Atributte,76,76,30,A2
+requests,__init__.py,Simple Atributte,110,111,8,A2
+requests,__init__.py,Simple Atributte,112,112,12,A2
+requests,__init__.py,Simple Atributte,81,81,30,A2
+requests,__init__.py,Simple Atributte,92,92,45,A2
+requests,__init__.py,Simple Assignment,59,59,4,A1
+requests,__init__.py,Simple Assignment,67,67,4,A1
+requests,__init__.py,Simple Assignment,68,68,4,A1
+requests,__init__.py,Simple Assignment,50,50,4,A1
+requests,__init__.py,Simple Assignment,55,55,4,A1
+requests,__init__.py,Simple Assignment,76,76,8,A1
+requests,__init__.py,Simple Assignment,77,77,8,A1
+requests,__init__.py,Simple Assignment,92,92,8,A1
+requests,__init__.py,Simple Assignment,97,99,8,A1
+requests,__init__.py,Simple Assignment,81,81,8,A1
+requests,__init__.py,Simple Assignment,82,82,8,A1
+requests,__init__.py,Simple Assignment,124,124,8,A1
+requests,__init__.py,'raise' exception,86,86,8,B1
+requests,__init__.py,'assert' exception,60,60,4,B2
+requests,__init__.py,'assert' exception,70,70,4,B2
+requests,__init__.py,'assert' exception,71,71,4,B2
+requests,__init__.py,'assert' exception,72,72,4,B2
+requests,__init__.py,'assert' exception,79,79,8,B2
+requests,__init__.py,'assert' exception,84,84,8,B2
+requests,__init__.py,'pass' statement,136,136,4,B1
+requests,__init__.py,Import,41,41,0,A2
+requests,__init__.py,Import,43,43,0,A2
+requests,__init__.py,Import,144,144,0,A2
+requests,__init__.py,Import,122,122,8,A2
+requests,__init__.py,Relative From,45,45,0,B1
+requests,__init__.py,From,139,139,0,A2
+requests,__init__.py,From,145,145,0,A2
+requests,__init__.py,Relative From,147,147,0,B1
+requests,__init__.py,Relative From,148,159,0,B1
+requests,__init__.py,Relative From,160,160,0,B1
+requests,__init__.py,Relative From,161,172,0,B1
+requests,__init__.py,Relative From,173,173,0,B1
+requests,__init__.py,Relative From,174,174,0,B1
+requests,__init__.py,Relative From,175,175,0,B1
+requests,__init__.py,From with 'as' extension ,48,48,4,B1
+requests,__init__.py,From with 'as' extension ,53,53,4,B1
+requests,__init__.py,From,127,127,8,A2
+requests,__init__.py,From with 'as' extension ,132,132,8,B1
+requests,__init__.py,Simple If statements,63,64,4,A1
+requests,__init__.py,Simple If statements,75,86,4,A1
+requests,__init__.py,Simple If statements,96,100,4,A1
+requests,__init__.py,Simple If statements,126,134,4,A1
+requests,__init__.py,Simple If statements,80,86,4,A1
+requests,__init__.py,Exception --> try/except,47,50,0,B1
+requests,__init__.py,Exception --> try/except,52,55,0,B1
+requests,__init__.py,Exception --> try/except,104,115,0,B1
+requests,__init__.py,Exception --> try/try/except,120,136,0,B1
+requests,__init__.py,Exception --> try/except,91,94,4,B1
+requests,__init__.py,Exception --> try/except,121,124,4,B1
+requests,__init__.py,Function with Simple argument,58,86,0,A1
+requests,__init__.py,Function with Simple argument,89,100,0,A1
+requests,__init__.py,Return,94,94,8,A1

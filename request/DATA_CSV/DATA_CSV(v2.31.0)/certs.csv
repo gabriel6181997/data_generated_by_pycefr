@@ -1,0 +1,4 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+requests,certs.py,Print,17,17,4,A1
+requests,certs.py,From,14,14,0,A2
+requests,certs.py,If statements using → __name__ == ‘__main__’,16,17,0,B2

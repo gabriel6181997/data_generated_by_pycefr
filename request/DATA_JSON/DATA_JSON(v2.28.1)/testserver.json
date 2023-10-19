@@ -1,0 +1,37 @@
+{
+    "testserver": {
+        "server.py": {
+            "Levels": {
+                "A1": 57,
+                "A2": 73,
+                "C2": 1,
+                "B1": 11,
+                "B2": 1
+            },
+            "Class": {
+                "Simple List": 7,
+                "Simple Tuple": 3,
+                "'range' call function": 1,
+                "Super Function": 1,
+                "Simple Atributte": 66,
+                "Simple Assignment": 20,
+                "Simplified incremental Assignment with increase amount": 1,
+                "'raise' exception": 1,
+                "'pass' statement": 1,
+                "Import": 3,
+                "Simple If statements": 8,
+                "Simple For Loop": 1,
+                "While with Else Loop": 1,
+                "'break' statement": 3,
+                "Exception --> try/finally": 1,
+                "Exception --> try/except": 2,
+                "Function with Simple argument with Default argument": 2,
+                "Function with Simple argument with Default argument with ** argument": 1,
+                "Function with Simple argument with ** argument": 1,
+                "Function with Simple argument": 8,
+                "Return": 10,
+                "Simple Class ": 1
+            }
+        }
+    }
+}

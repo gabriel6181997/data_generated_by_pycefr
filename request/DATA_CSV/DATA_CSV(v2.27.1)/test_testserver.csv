@@ -1,0 +1,167 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+tests,test_testserver.py,Simple Tuple,24,24,32,A1
+tests,test_testserver.py,Simple Tuple,34,34,47,A1
+tests,test_testserver.py,Simple Tuple,52,52,23,A1
+tests,test_testserver.py,Simple Tuple,61,61,47,A1
+tests,test_testserver.py,Simple Tuple,71,71,79,A1
+tests,test_testserver.py,Simple Tuple,85,85,23,A1
+tests,test_testserver.py,Simple Tuple,26,26,25,A1
+tests,test_testserver.py,Simple Tuple,36,36,25,A1
+tests,test_testserver.py,Simple Tuple,42,42,29,A1
+tests,test_testserver.py,Simple Tuple,73,73,25,A1
+tests,test_testserver.py,'range' call function,87,87,21,A2
+tests,test_testserver.py,Simple Atributte,95,95,5,A2
+tests,test_testserver.py,Simple Atributte,46,46,17,A2
+tests,test_testserver.py,Simple Atributte,69,69,23,A2
+tests,test_testserver.py,Simple Atributte,83,83,17,A2
+tests,test_testserver.py,Simple Atributte,99,99,17,A2
+tests,test_testserver.py,Simple Atributte,95,95,5,A2
+tests,test_testserver.py,Simple Atributte,120,120,17,A2
+tests,test_testserver.py,Simple Atributte,133,133,17,A2
+tests,test_testserver.py,Simple Atributte,147,147,17,A2
+tests,test_testserver.py,Simple Atributte,159,159,17,A2
+tests,test_testserver.py,Simple Atributte,20,20,19,A2
+tests,test_testserver.py,Simple Atributte,22,22,12,A2
+tests,test_testserver.py,Simple Atributte,25,25,19,A2
+tests,test_testserver.py,Simple Atributte,26,26,12,A2
+tests,test_testserver.py,Simple Atributte,27,27,12,A2
+tests,test_testserver.py,Simple Atributte,28,28,19,A2
+tests,test_testserver.py,Simple Atributte,30,30,12,A2
+tests,test_testserver.py,Simple Atributte,34,34,13,A2
+tests,test_testserver.py,Simple Atributte,35,35,19,A2
+tests,test_testserver.py,Simple Atributte,36,36,12,A2
+tests,test_testserver.py,Simple Atributte,38,38,12,A2
+tests,test_testserver.py,Simple Atributte,40,40,13,A2
+tests,test_testserver.py,Simple Atributte,40,40,27,A2
+tests,test_testserver.py,Simple Atributte,41,41,23,A2
+tests,test_testserver.py,Simple Atributte,42,42,12,A2
+tests,test_testserver.py,Simple Atributte,53,53,16,A2
+tests,test_testserver.py,Simple Atributte,55,55,19,A2
+tests,test_testserver.py,Simple Atributte,56,56,19,A2
+tests,test_testserver.py,Simple Atributte,61,61,13,A2
+tests,test_testserver.py,Simple Atributte,62,62,16,A2
+tests,test_testserver.py,Simple Atributte,63,63,19,A2
+tests,test_testserver.py,Simple Atributte,64,64,19,A2
+tests,test_testserver.py,Simple Atributte,71,71,13,A2
+tests,test_testserver.py,Simple Atributte,72,72,19,A2
+tests,test_testserver.py,Simple Atributte,73,73,12,A2
+tests,test_testserver.py,Simple Atributte,74,74,12,A2
+tests,test_testserver.py,Simple Atributte,75,75,12,A2
+tests,test_testserver.py,Simple Atributte,76,76,12,A2
+tests,test_testserver.py,Simple Atributte,77,77,12,A2
+tests,test_testserver.py,Simple Atributte,86,86,25,A2
+tests,test_testserver.py,Simple Atributte,104,104,20,A2
+tests,test_testserver.py,Simple Atributte,105,105,20,A2
+tests,test_testserver.py,Simple Atributte,107,107,12,A2
+tests,test_testserver.py,Simple Atributte,108,108,12,A2
+tests,test_testserver.py,Simple Atributte,109,109,12,A2
+tests,test_testserver.py,Simple Atributte,111,111,12,A2
+tests,test_testserver.py,Simple Atributte,112,112,12,A2
+tests,test_testserver.py,Simple Atributte,113,113,12,A2
+tests,test_testserver.py,Simple Atributte,115,115,15,A2
+tests,test_testserver.py,Simple Atributte,116,116,15,A2
+tests,test_testserver.py,Simple Atributte,123,123,19,A2
+tests,test_testserver.py,Simple Atributte,124,124,12,A2
+tests,test_testserver.py,Simple Atributte,125,125,12,A2
+tests,test_testserver.py,Simple Atributte,126,126,12,A2
+tests,test_testserver.py,Simple Atributte,127,127,12,A2
+tests,test_testserver.py,Simple Atributte,129,129,15,A2
+tests,test_testserver.py,Simple Atributte,137,137,19,A2
+tests,test_testserver.py,Simple Atributte,138,138,12,A2
+tests,test_testserver.py,Simple Atributte,139,139,12,A2
+tests,test_testserver.py,Simple Atributte,140,140,12,A2
+tests,test_testserver.py,Simple Atributte,141,141,12,A2
+tests,test_testserver.py,Simple Atributte,143,143,15,A2
+tests,test_testserver.py,Simple Atributte,148,148,13,A2
+tests,test_testserver.py,Simple Atributte,152,152,19,A2
+tests,test_testserver.py,Simple Atributte,163,163,19,A2
+tests,test_testserver.py,Simple Atributte,53,53,29,A2
+tests,test_testserver.py,Simple Atributte,57,57,19,A2
+tests,test_testserver.py,Simple Atributte,62,62,29,A2
+tests,test_testserver.py,Simple Atributte,65,65,19,A2
+tests,test_testserver.py,Simple Atributte,88,88,20,A2
+tests,test_testserver.py,Simple Atributte,89,89,23,A2
+tests,test_testserver.py,Simple Atributte,92,92,17,A2
+tests,test_testserver.py,Simple Atributte,92,92,31,A2
+tests,test_testserver.py,Simple Atributte,93,93,20,A2
+tests,test_testserver.py,Simple Atributte,92,92,31,A2
+tests,test_testserver.py,Simple Assignment,16,16,8,A1
+tests,test_testserver.py,Simple Assignment,17,17,8,A1
+tests,test_testserver.py,Simple Assignment,46,50,8,A1
+tests,test_testserver.py,Simple Assignment,69,69,8,A1
+tests,test_testserver.py,Simple Assignment,81,81,8,A1
+tests,test_testserver.py,Simple Assignment,83,83,8,A1
+tests,test_testserver.py,Simple Assignment,99,99,8,A1
+tests,test_testserver.py,Simple Assignment,100,100,8,A1
+tests,test_testserver.py,Simple Assignment,101,101,8,A1
+tests,test_testserver.py,Simple Assignment,120,120,8,A1
+tests,test_testserver.py,Simple Assignment,133,133,8,A1
+tests,test_testserver.py,Simple Assignment,134,134,8,A1
+tests,test_testserver.py,Simple Assignment,147,147,8,A1
+tests,test_testserver.py,Simple Assignment,159,159,8,A1
+tests,test_testserver.py,Simple Assignment,20,20,12,A1
+tests,test_testserver.py,Simple Assignment,25,25,12,A1
+tests,test_testserver.py,Simple Assignment,28,28,12,A1
+tests,test_testserver.py,Simple Assignment,35,35,12,A1
+tests,test_testserver.py,Simple Assignment,41,41,12,A1
+tests,test_testserver.py,Simple Assignment,53,53,12,A1
+tests,test_testserver.py,Simple Assignment,62,62,12,A1
+tests,test_testserver.py,Simple Assignment,72,72,12,A1
+tests,test_testserver.py,Simple Assignment,86,86,12,A1
+tests,test_testserver.py,Simple Assignment,104,104,12,A1
+tests,test_testserver.py,Simple Assignment,105,105,12,A1
+tests,test_testserver.py,Simple Assignment,123,123,12,A1
+tests,test_testserver.py,Simple Assignment,137,137,12,A1
+tests,test_testserver.py,Simple Assignment,88,88,16,A1
+tests,test_testserver.py,Simple Assignment,93,93,16,A1
+tests,test_testserver.py,'raise' exception,150,150,16,B1
+tests,test_testserver.py,'assert' exception,115,115,8,B2
+tests,test_testserver.py,'assert' exception,116,116,8,B2
+tests,test_testserver.py,'assert' exception,129,129,8,B2
+tests,test_testserver.py,'assert' exception,143,143,8,B2
+tests,test_testserver.py,'assert' exception,152,152,8,B2
+tests,test_testserver.py,'assert' exception,163,163,8,B2
+tests,test_testserver.py,'assert' exception,21,21,12,B2
+tests,test_testserver.py,'assert' exception,29,29,12,B2
+tests,test_testserver.py,'assert' exception,55,55,12,B2
+tests,test_testserver.py,'assert' exception,56,56,12,B2
+tests,test_testserver.py,'assert' exception,57,57,12,B2
+tests,test_testserver.py,'assert' exception,63,63,12,B2
+tests,test_testserver.py,'assert' exception,64,64,12,B2
+tests,test_testserver.py,'assert' exception,65,65,12,B2
+tests,test_testserver.py,'assert' exception,89,89,16,B2
+tests,test_testserver.py,'pass' statement,161,161,12,B1
+tests,test_testserver.py,Import,3,3,0,A2
+tests,test_testserver.py,Import,4,4,0,A2
+tests,test_testserver.py,Import,5,5,0,A2
+tests,test_testserver.py,Import,7,7,0,A2
+tests,test_testserver.py,Import,8,8,0,A2
+tests,test_testserver.py,From,9,9,0,A2
+tests,test_testserver.py,Simple For Loop,87,89,12,A1
+tests,test_testserver.py,With,24,30,8,B1
+tests,test_testserver.py,With,34,38,8,B1
+tests,test_testserver.py,With,40,42,8,B1
+tests,test_testserver.py,With,52,57,8,B1
+tests,test_testserver.py,With,61,65,8,B1
+tests,test_testserver.py,With,71,77,8,B1
+tests,test_testserver.py,With,85,93,8,B1
+tests,test_testserver.py,With,103,113,8,B1
+tests,test_testserver.py,With,122,127,8,B1
+tests,test_testserver.py,With,136,141,8,B1
+tests,test_testserver.py,With,148,150,8,B1
+tests,test_testserver.py,With,160,161,8,B1
+tests,test_testserver.py,With,92,93,12,B1
+tests,test_testserver.py,With,149,150,12,B1
+tests,test_testserver.py,Function with Simple argument,14,30,4,A1
+tests,test_testserver.py,Function with Simple argument,32,42,4,A1
+tests,test_testserver.py,Function with Simple argument,44,57,4,A1
+tests,test_testserver.py,Function with Simple argument,59,65,4,A1
+tests,test_testserver.py,Function with Simple argument,67,77,4,A1
+tests,test_testserver.py,Function with Simple argument,79,93,4,A1
+tests,test_testserver.py,Function with Simple argument,96,116,4,A1
+tests,test_testserver.py,Function with Simple argument,118,129,4,A1
+tests,test_testserver.py,Function with Simple argument,131,143,4,A1
+tests,test_testserver.py,Function with Simple argument,145,152,4,A1
+tests,test_testserver.py,Function with Simple argument,157,163,4,A1
+tests,test_testserver.py,Function with Simple argument,19,22,8,A1
+tests,test_testserver.py,Simple Class ,12,163,0,B1

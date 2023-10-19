@@ -1,0 +1,21 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+requests,hooks.py,Simple List,14,14,8,A1
+requests,hooks.py,Simple List,18,18,19,A1
+requests,hooks.py,Simple List,29,29,20,A1
+requests,hooks.py,Simple Dictionary,25,25,21,A2
+requests,hooks.py,Simple Atributte,26,26,12,A2
+requests,hooks.py,Simple Dictionary Comprehension,18,18,11,C1
+requests,hooks.py,Simple Assignment,14,14,0,A1
+requests,hooks.py,Simple Assignment,25,25,4,A1
+requests,hooks.py,Simple Assignment,26,26,4,A1
+requests,hooks.py,Simple Assignment,29,29,12,A1
+requests,hooks.py,Simple Assignment,31,31,12,A1
+requests,hooks.py,Simple Assignment,33,33,16,A1
+requests,hooks.py,Simple If statements,27,33,4,A1
+requests,hooks.py,Simple If statements,28,29,8,A1
+requests,hooks.py,Simple If statements,32,33,12,A1
+requests,hooks.py,Simple For Loop,30,33,8,A1
+requests,hooks.py,Function,17,18,0,A1
+requests,hooks.py,Function with Simple argument with ** argument,23,34,0,B1
+requests,hooks.py,Return,18,18,4,A1
+requests,hooks.py,Return,34,34,4,A1

@@ -1,0 +1,77 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+tests,test_structures.py,Simple List,14,14,51,A1
+tests,test_structures.py,Simple List,30,32,65,A1
+tests,test_structures.py,Simple Tuple,17,17,15,A1
+tests,test_structures.py,9 Nested Tuple,44,48,8,A2
+tests,test_structures.py,4 Nested Tuple,66,69,8,A2
+tests,test_structures.py,Simple Tuple,45,45,12,A1
+tests,test_structures.py,Simple Tuple,46,46,12,A1
+tests,test_structures.py,Simple Tuple,47,47,12,A1
+tests,test_structures.py,Simple Tuple,67,67,12,A1
+tests,test_structures.py,Simple Tuple,68,68,12,A1
+tests,test_structures.py,Simple Tuple,31,31,12,A1
+tests,test_structures.py,Simple Dictionary,45,45,13,A2
+tests,test_structures.py,Simple Dictionary,46,46,13,A2
+tests,test_structures.py,Simple Atributte,10,10,8,A2
+tests,test_structures.py,Simple Atributte,7,7,5,A2
+tests,test_structures.py,Simple Atributte,16,16,20,A2
+tests,test_structures.py,Simple Atributte,42,42,5,A2
+tests,test_structures.py,Simple Atributte,58,58,8,A2
+tests,test_structures.py,Simple Atributte,59,59,8,A2
+tests,test_structures.py,Simple Atributte,55,55,5,A2
+tests,test_structures.py,Simple Atributte,64,64,26,A2
+tests,test_structures.py,Simple Atributte,11,11,8,A2
+tests,test_structures.py,Simple Atributte,16,16,20,A2
+tests,test_structures.py,Simple Atributte,26,26,12,A2
+tests,test_structures.py,Simple Atributte,27,27,26,A2
+tests,test_structures.py,Simple Atributte,38,38,15,A2
+tests,test_structures.py,Simple Atributte,39,39,27,A2
+tests,test_structures.py,Simple Atributte,40,40,23,A2
+tests,test_structures.py,Simple Atributte,42,42,5,A2
+tests,test_structures.py,Simple Atributte,59,59,8,A2
+tests,test_structures.py,Simple Atributte,64,64,26,A2
+tests,test_structures.py,Simple Atributte,14,14,20,A2
+tests,test_structures.py,Simple Atributte,22,22,15,A2
+tests,test_structures.py,Simple Atributte,35,35,20,A2
+tests,test_structures.py,Simple Atributte,38,38,15,A2
+tests,test_structures.py,Simple Atributte,51,51,16,A2
+tests,test_structures.py,Simple Atributte,62,62,20,A2
+tests,test_structures.py,Simple Atributte,74,74,15,A2
+tests,test_structures.py,Simple Atributte,78,78,15,A2
+tests,test_structures.py,Simple Atributte,30,30,20,A2
+tests,test_structures.py,Simple Atributte,78,78,15,A2
+tests,test_structures.py,Simple Atributte,30,30,20,A2
+tests,test_structures.py,Simple Assignment,16,18,4,A1
+tests,test_structures.py,Simple Assignment,64,70,4,A1
+tests,test_structures.py,Simple Assignment,10,10,8,A1
+tests,test_structures.py,Simple Assignment,11,11,8,A1
+tests,test_structures.py,Simple Assignment,38,38,8,A1
+tests,test_structures.py,Simple Assignment,58,58,8,A1
+tests,test_structures.py,Simple Assignment,59,59,8,A1
+tests,test_structures.py,'assert' exception,14,14,8,B2
+tests,test_structures.py,'assert' exception,22,22,8,B2
+tests,test_structures.py,'assert' exception,27,27,8,B2
+tests,test_structures.py,'assert' exception,30,32,8,B2
+tests,test_structures.py,'assert' exception,35,35,8,B2
+tests,test_structures.py,'assert' exception,39,39,8,B2
+tests,test_structures.py,'assert' exception,40,40,8,B2
+tests,test_structures.py,'assert' exception,51,51,8,B2
+tests,test_structures.py,'assert' exception,62,62,8,B2
+tests,test_structures.py,'assert' exception,74,74,8,B2
+tests,test_structures.py,'assert' exception,78,78,8,B2
+tests,test_structures.py,Import,1,1,0,A2
+tests,test_structures.py,From,3,3,0,A2
+tests,test_structures.py,Function with Simple argument,8,11,4,A1
+tests,test_structures.py,Function with Simple argument,13,14,4,A1
+tests,test_structures.py,Function with Simple argument,21,22,4,A1
+tests,test_structures.py,Function with Simple argument,25,27,4,A1
+tests,test_structures.py,Function with Simple argument,29,32,4,A1
+tests,test_structures.py,Function with Simple argument,34,35,4,A1
+tests,test_structures.py,Function with Simple argument,37,40,4,A1
+tests,test_structures.py,Function with Simple argument,50,51,4,A1
+tests,test_structures.py,Function with Simple argument,56,59,4,A1
+tests,test_structures.py,Function with Simple argument,61,62,4,A1
+tests,test_structures.py,Function with Simple argument,73,74,4,A1
+tests,test_structures.py,Function with Simple argument,77,78,4,A1
+tests,test_structures.py,Simple Class ,6,51,0,B1
+tests,test_structures.py,Simple Class ,54,78,0,B1

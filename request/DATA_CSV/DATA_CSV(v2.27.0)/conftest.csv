@@ -1,0 +1,57 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+tests,conftest.py,Simple Tuple,53,53,24,A1
+tests,conftest.py,Simple Tuple,58,58,10,A1
+tests,conftest.py,Simple Atributte,28,28,1,A2
+tests,conftest.py,Simple Atributte,33,33,1,A2
+tests,conftest.py,Simple Atributte,38,38,1,A2
+tests,conftest.py,Simple Atributte,54,54,4,A2
+tests,conftest.py,Simple Atributte,44,44,13,A2
+tests,conftest.py,Simple Atributte,45,45,9,A2
+tests,conftest.py,Simple Atributte,47,47,18,A2
+tests,conftest.py,Simple Atributte,49,49,4,A2
+tests,conftest.py,Simple Atributte,51,51,14,A2
+tests,conftest.py,Simple Atributte,51,51,41,A2
+tests,conftest.py,Simple Atributte,52,52,4,A2
+tests,conftest.py,Simple Atributte,54,54,20,A2
+tests,conftest.py,Simple Atributte,54,54,40,A2
+tests,conftest.py,Simple Atributte,55,55,20,A2
+tests,conftest.py,Simple Atributte,56,56,4,A2
+tests,conftest.py,Simple Atributte,60,60,4,A2
+tests,conftest.py,Simple Atributte,61,61,4,A2
+tests,conftest.py,Simple Atributte,20,20,18,A2
+tests,conftest.py,Simple Atributte,49,49,4,A2
+tests,conftest.py,Simple Atributte,51,51,41,A2
+tests,conftest.py,Simple Atributte,55,55,44,A2
+tests,conftest.py,Simple Atributte,20,20,18,A2
+tests,conftest.py,Simple Atributte,23,23,36,A2
+tests,conftest.py,Simple Atributte,58,58,23,A2
+tests,conftest.py,Assigment with sum (total = total + 1),20,20,4,A1
+tests,conftest.py,Simple Assignment,44,44,4,A1
+tests,conftest.py,Simple Assignment,45,45,4,A1
+tests,conftest.py,Simple Assignment,47,47,4,A1
+tests,conftest.py,Simple Assignment,48,48,4,A1
+tests,conftest.py,Simple Assignment,51,51,4,A1
+tests,conftest.py,Simple Assignment,53,53,4,A1
+tests,conftest.py,Simple Assignment,54,54,4,A1
+tests,conftest.py,Simple Assignment,55,55,4,A1
+tests,conftest.py,Import,10,10,0,A2
+tests,conftest.py,Import,11,11,0,A2
+tests,conftest.py,Import,12,12,0,A2
+tests,conftest.py,Import,14,14,0,A2
+tests,conftest.py,Import,42,42,4,A2
+tests,conftest.py,From,15,15,0,A2
+tests,conftest.py,From,4,4,4,A2
+tests,conftest.py,From,5,5,4,A2
+tests,conftest.py,From,7,7,4,A2
+tests,conftest.py,From,8,8,4,A2
+tests,conftest.py,Exception --> try/except,3,8,0,B1
+tests,conftest.py,Function with Simple argument,18,25,0,A1
+tests,conftest.py,Function with Simple argument,29,30,0,A1
+tests,conftest.py,Function with Simple argument,34,35,0,A1
+tests,conftest.py,Function with Simple argument,39,61,0,A1
+tests,conftest.py,Function with * argument ,22,23,4,B1
+tests,conftest.py,Return,25,25,4,A1
+tests,conftest.py,Return,30,30,4,A1
+tests,conftest.py,Return,35,35,4,A1
+tests,conftest.py,Return,23,23,8,A1
+tests,conftest.py,Generator Function (yield),58,58,4,C1

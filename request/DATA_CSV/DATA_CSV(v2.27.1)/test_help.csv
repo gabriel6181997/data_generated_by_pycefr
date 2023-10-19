@@ -1,0 +1,18 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+tests,test_help.py,Simple Dictionary,25,25,29,A2
+tests,test_help.py,Simple Dictionary,31,31,29,A2
+tests,test_help.py,Simple Atributte,17,17,8,A2
+tests,test_help.py,Simple Atributte,24,24,4,A2
+tests,test_help.py,Simple Atributte,30,30,4,A2
+tests,test_help.py,Simple Assignment,17,17,8,A1
+tests,test_help.py,'assert' exception,12,12,4,B2
+tests,test_help.py,'assert' exception,25,25,4,B2
+tests,test_help.py,'assert' exception,31,31,4,B2
+tests,test_help.py,Import,3,3,0,A2
+tests,test_help.py,Import,5,5,0,A2
+tests,test_help.py,From,7,7,0,A2
+tests,test_help.py,Function,10,12,0,A1
+tests,test_help.py,Function with Simple argument,20,25,0,A1
+tests,test_help.py,Function with Simple argument,28,31,0,A1
+tests,test_help.py,Function with Simple argument,16,17,4,A1
+tests,test_help.py,Inherited Class from object Using the constructor method --> __init__,15,17,0,B1

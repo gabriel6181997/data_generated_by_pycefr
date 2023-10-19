@@ -1,0 +1,22 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+requests,api.py,Simple Atributte,99,99,4,A2
+requests,api.py,Simple Atributte,58,58,9,A2
+requests,api.py,Simple Atributte,59,59,15,A2
+requests,api.py,Relative From,11,11,0,B1
+requests,api.py,With,58,59,4,B1
+requests,api.py,Function with Simple argument with ** argument,14,59,0,B1
+requests,api.py,Function with Simple argument with Default argument with ** argument,62,73,0,B1
+requests,api.py,Function with Simple argument with ** argument,76,85,0,B1
+requests,api.py,Function with Simple argument with ** argument,88,100,0,B1
+requests,api.py,Function with Simple argument with Default argument with ** argument,103,115,0,B1
+requests,api.py,Function with Simple argument with Default argument with ** argument,118,130,0,B1
+requests,api.py,Function with Simple argument with Default argument with ** argument,133,145,0,B1
+requests,api.py,Function with Simple argument with ** argument,148,157,0,B1
+requests,api.py,Return,73,73,4,A1
+requests,api.py,Return,85,85,4,A1
+requests,api.py,Return,100,100,4,A1
+requests,api.py,Return,115,115,4,A1
+requests,api.py,Return,130,130,4,A1
+requests,api.py,Return,145,145,4,A1
+requests,api.py,Return,157,157,4,A1
+requests,api.py,Return,59,59,8,A1

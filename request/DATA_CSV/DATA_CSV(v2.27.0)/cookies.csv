@@ -1,0 +1,366 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+requests,cookies.py,Simple List,151,151,17,A1
+requests,cookies.py,Simple List,272,272,18,A1
+requests,cookies.py,Simple List,280,280,16,A1
+requests,cookies.py,Simple List,292,292,18,A1
+requests,cookies.py,Simple List,60,63,26,A1
+requests,cookies.py,Simple Tuple,161,161,8,A1
+requests,cookies.py,Simple Tuple,159,159,26,A1
+requests,cookies.py,Simple Tuple,259,259,18,A1
+requests,cookies.py,Simple Tuple,374,374,55,A1
+requests,cookies.py,Simple Tuple,399,399,55,A1
+requests,cookies.py,1 Nested Dictionary,447,461,13,B1
+requests,cookies.py,Simple Dictionary,39,39,28,A2
+requests,cookies.py,Simple Dictionary,306,306,21,A2
+requests,cookies.py,Simple Dictionary,459,459,16,A2
+requests,cookies.py,Simple Dictionary,500,500,13,A2
+requests,cookies.py,Super Function,346,346,15,C2
+requests,cookies.py,Super Function,317,317,19,C2
+requests,cookies.py,Super Function,354,354,12,C2
+requests,cookies.py,Simple Atributte,171,171,24,A2
+requests,cookies.py,Simple Atributte,38,38,8,A2
+requests,cookies.py,Simple Atributte,39,39,8,A2
+requests,cookies.py,Simple Atributte,40,40,8,A2
+requests,cookies.py,Simple Atributte,40,40,20,A2
+requests,cookies.py,Simple Atributte,43,43,15,A2
+requests,cookies.py,Simple Atributte,46,46,15,A2
+requests,cookies.py,Simple Atributte,82,82,15,A2
+requests,cookies.py,Simple Atributte,109,109,8,A2
+requests,cookies.py,Simple Atributte,112,112,15,A2
+requests,cookies.py,Simple Atributte,131,131,23,A2
+requests,cookies.py,Simple Atributte,132,132,4,A2
+requests,cookies.py,Simple Atributte,142,142,4,A2
+requests,cookies.py,Simple Atributte,143,143,11,A2
+requests,cookies.py,Simple Atributte,423,423,15,A2
+requests,cookies.py,Simple Atributte,434,434,14,A2
+requests,cookies.py,Simple Atributte,435,435,4,A2
+requests,cookies.py,Simple Atributte,468,468,4,A2
+requests,cookies.py,Simple Atributte,471,471,35,A2
+requests,cookies.py,Simple Atributte,474,474,11,A2
+requests,cookies.py,Simple Atributte,49,49,15,A2
+requests,cookies.py,Simple Atributte,55,55,19,A2
+requests,cookies.py,Simple Atributte,58,58,26,A2
+requests,cookies.py,Simple Atributte,72,72,15,A2
+requests,cookies.py,Simple Atributte,79,79,8,A2
+requests,cookies.py,Simple Atributte,86,86,15,A2
+requests,cookies.py,Simple Atributte,90,90,15,A2
+requests,cookies.py,Simple Atributte,94,94,15,A2
+requests,cookies.py,Simple Atributte,115,115,8,A2
+requests,cookies.py,Simple Atributte,126,126,12,A2
+requests,cookies.py,Simple Atributte,131,131,23,A2
+requests,cookies.py,Simple Atributte,153,153,11,A2
+requests,cookies.py,Simple Atributte,159,159,8,A2
+requests,cookies.py,Simple Atributte,162,162,8,A2
+requests,cookies.py,Simple Atributte,215,215,8,A2
+requests,cookies.py,Simple Atributte,328,328,15,A2
+requests,cookies.py,Simple Atributte,335,335,8,A2
+requests,cookies.py,Simple Atributte,345,345,12,A2
+requests,cookies.py,Simple Atributte,346,346,15,A2
+requests,cookies.py,Simple Atributte,350,350,29,A2
+requests,cookies.py,Simple Atributte,403,403,16,A2
+requests,cookies.py,Simple Atributte,405,405,8,A2
+requests,cookies.py,Simple Atributte,410,410,8,A2
+requests,cookies.py,Special Class Attribute __dict__,411,411,34,B2
+requests,cookies.py,Simple Atributte,412,412,12,A2
+requests,cookies.py,Simple Atributte,417,417,8,A2
+requests,cookies.py,Simple Atributte,418,418,8,A2
+requests,cookies.py,Simple Atributte,432,432,15,A2
+requests,cookies.py,Simple Atributte,437,437,8,A2
+requests,cookies.py,Simple Atributte,497,497,13,A2
+requests,cookies.py,Simple Atributte,503,503,14,A2
+requests,cookies.py,Simple Atributte,521,521,26,A2
+requests,cookies.py,Simple Atributte,536,536,33,A2
+requests,cookies.py,Simple Atributte,542,542,29,A2
+requests,cookies.py,Simple Atributte,40,40,29,A2
+requests,cookies.py,Simple Atributte,46,46,24,A2
+requests,cookies.py,Simple Atributte,54,54,15,A2
+requests,cookies.py,Simple Atributte,55,55,19,A2
+requests,cookies.py,Simple Atributte,57,57,32,A2
+requests,cookies.py,Simple Atributte,58,58,26,A2
+requests,cookies.py,Simple Atributte,61,61,12,A2
+requests,cookies.py,Simple Atributte,61,61,33,A2
+requests,cookies.py,Simple Atributte,61,61,46,A2
+requests,cookies.py,Simple Atributte,61,61,61,A2
+requests,cookies.py,Simple Atributte,62,62,12,A2
+requests,cookies.py,Simple Atributte,69,69,23,A2
+requests,cookies.py,Simple Atributte,69,69,50,A2
+requests,cookies.py,Simple Atributte,72,72,15,A2
+requests,cookies.py,Simple Atributte,72,72,41,A2
+requests,cookies.py,Simple Atributte,115,115,8,A2
+requests,cookies.py,Simple Atributte,143,143,11,A2
+requests,cookies.py,Simple Atributte,155,155,44,A2
+requests,cookies.py,Simple Atributte,157,157,40,A2
+requests,cookies.py,Simple Atributte,159,159,27,A2
+requests,cookies.py,Simple Atributte,159,159,42,A2
+requests,cookies.py,Simple Atributte,159,159,55,A2
+requests,cookies.py,Simple Atributte,197,197,19,A2
+requests,cookies.py,Simple Atributte,225,225,18,A2
+requests,cookies.py,Simple Atributte,233,233,20,A2
+requests,cookies.py,Simple Atributte,242,242,18,A2
+requests,cookies.py,Simple Atributte,250,250,20,A2
+requests,cookies.py,Simple Atributte,268,268,20,A2
+requests,cookies.py,Simple Atributte,274,274,15,A2
+requests,cookies.py,Simple Atributte,282,282,15,A2
+requests,cookies.py,Simple Atributte,296,296,12,A2
+requests,cookies.py,Simple Atributte,296,296,27,A2
+requests,cookies.py,Simple Atributte,312,312,42,A2
+requests,cookies.py,Simple Atributte,317,317,19,A2
+requests,cookies.py,Simple Atributte,344,344,19,A2
+requests,cookies.py,Simple Atributte,344,344,51,A2
+requests,cookies.py,Simple Atributte,344,344,84,A2
+requests,cookies.py,Simple Atributte,345,345,27,A2
+requests,cookies.py,Simple Atributte,354,354,12,A2
+requests,cookies.py,Simple Atributte,369,369,15,A2
+requests,cookies.py,Simple Atributte,390,390,15,A2
+requests,cookies.py,Special Class Attribute __dict__,403,403,16,B2
+requests,cookies.py,Special Class Attribute __dict__,410,410,8,B2
+requests,cookies.py,Simple Atributte,412,412,33,A2
+requests,cookies.py,Simple Atributte,417,417,26,A2
+requests,cookies.py,Simple Atributte,437,437,27,A2
+requests,cookies.py,Simple Atributte,488,488,18,A2
+requests,cookies.py,Simple Atributte,40,40,29,A2
+requests,cookies.py,Simple Atributte,46,46,24,A2
+requests,cookies.py,Simple Atributte,54,54,15,A2
+requests,cookies.py,Simple Atributte,57,57,32,A2
+requests,cookies.py,Simple Atributte,69,69,23,A2
+requests,cookies.py,Simple Atributte,72,72,15,A2
+requests,cookies.py,Simple Atributte,72,72,41,A2
+requests,cookies.py,Simple Atributte,259,259,18,A2
+requests,cookies.py,Simple Atributte,259,259,31,A2
+requests,cookies.py,Simple Atributte,275,275,16,A2
+requests,cookies.py,Simple Atributte,275,275,31,A2
+requests,cookies.py,Simple Atributte,283,283,16,A2
+requests,cookies.py,Simple Atributte,283,283,29,A2
+requests,cookies.py,Simple Atributte,294,294,15,A2
+requests,cookies.py,Simple Atributte,294,294,45,A2
+requests,cookies.py,Simple Atributte,312,312,27,A2
+requests,cookies.py,Simple Atributte,344,344,51,A2
+requests,cookies.py,Simple Atributte,344,344,84,A2
+requests,cookies.py,Simple Atributte,345,345,27,A2
+requests,cookies.py,Simple Atributte,352,352,16,A2
+requests,cookies.py,Simple Atributte,489,489,12,A2
+requests,cookies.py,Simple Atributte,524,524,16,A2
+requests,cookies.py,Simple Atributte,544,544,12,A2
+requests,cookies.py,Simple Atributte,54,54,15,A2
+requests,cookies.py,Simple Atributte,208,208,53,A2
+requests,cookies.py,Simple Atributte,208,208,80,A2
+requests,cookies.py,Simple Atributte,309,309,35,A2
+requests,cookies.py,Simple Atributte,310,310,33,A2
+requests,cookies.py,Simple Atributte,352,352,32,A2
+requests,cookies.py,Simple Atributte,370,370,37,A2
+requests,cookies.py,Simple Atributte,372,372,31,A2
+requests,cookies.py,Simple Atributte,391,391,37,A2
+requests,cookies.py,Simple Atributte,395,395,35,A2
+requests,cookies.py,Simple Atributte,483,483,26,A2
+requests,cookies.py,Simple Atributte,371,371,39,A2
+requests,cookies.py,Simple Atributte,392,392,39,A2
+requests,cookies.py,Simple Atributte,547,547,16,A2
+requests,cookies.py,Simple List Comprehension,521,521,25,C1
+requests,cookies.py,Simple Assignment,129,129,4,A1
+requests,cookies.py,Simple Assignment,131,131,4,A1
+requests,cookies.py,Simple Assignment,141,141,4,A1
+requests,cookies.py,Simple Assignment,151,151,4,A1
+requests,cookies.py,Simple Assignment,434,434,4,A1
+requests,cookies.py,Simple Assignment,447,461,4,A1
+requests,cookies.py,Assigment with sum (total = total + 1),463,463,4,A1
+requests,cookies.py,Simple Assignment,469,469,4,A1
+requests,cookies.py,Simple Assignment,470,470,4,A1
+requests,cookies.py,Simple Assignment,471,471,4,A1
+requests,cookies.py,Simple Assignment,472,472,4,A1
+requests,cookies.py,Simple Assignment,480,480,4,A1
+requests,cookies.py,Simple Assignment,38,38,8,A1
+requests,cookies.py,Simple Assignment,39,39,8,A1
+requests,cookies.py,Simple Assignment,40,40,8,A1
+requests,cookies.py,Simple Assignment,57,57,8,A1
+requests,cookies.py,Simple Assignment,58,58,8,A1
+requests,cookies.py,Simple Assignment,79,79,8,A1
+requests,cookies.py,Simple Assignment,109,109,8,A1
+requests,cookies.py,Simple Assignment,272,272,8,A1
+requests,cookies.py,Simple Assignment,280,280,8,A1
+requests,cookies.py,Simple Assignment,292,292,8,A1
+requests,cookies.py,Simple Assignment,306,306,8,A1
+requests,cookies.py,Simple Assignment,388,388,8,A1
+requests,cookies.py,Simple Assignment,403,403,8,A1
+requests,cookies.py,Simple Assignment,416,416,8,A1
+requests,cookies.py,Simple Assignment,465,465,8,A1
+requests,cookies.py,Simple Assignment,518,518,8,A1
+requests,cookies.py,Simple Assignment,521,521,8,A1
+requests,cookies.py,Simple Assignment,540,541,8,A1
+requests,cookies.py,Simple Assignment,212,212,12,A1
+requests,cookies.py,Simple Assignment,214,214,12,A1
+requests,cookies.py,Simple Assignment,345,345,12,A1
+requests,cookies.py,Simple Assignment,412,412,12,A1
+requests,cookies.py,Simple Assignment,483,483,12,A1
+requests,cookies.py,Simple Assignment,487,487,8,A1
+requests,cookies.py,Simple Assignment,488,490,8,A1
+requests,cookies.py,Simple Assignment,312,312,16,A1
+requests,cookies.py,Simple Assignment,395,395,24,A1
+requests,cookies.py,'raise' exception,76,76,8,B1
+requests,cookies.py,'raise' exception,374,374,8,B1
+requests,cookies.py,'raise' exception,399,399,8,B1
+requests,cookies.py,'raise' exception,466,466,8,B1
+requests,cookies.py,'raise' exception,537,537,8,B1
+requests,cookies.py,'raise' exception,485,485,12,B1
+requests,cookies.py,'raise' exception,394,394,28,B1
+requests,cookies.py,Import,12,12,0,A2
+requests,cookies.py,Import,13,13,0,A2
+requests,cookies.py,Import,14,14,0,A2
+requests,cookies.py,Import,20,20,4,A2
+requests,cookies.py,Import with 'as' extension ,22,22,4,B1
+requests,cookies.py,Relative From,16,16,0,B1
+requests,cookies.py,Relative From,17,17,0,B1
+requests,cookies.py,Simple If statements,125,127,4,A1
+requests,cookies.py,Simple If statements,427,428,4,A1
+requests,cookies.py,Simple If statements,430,432,4,A1
+requests,cookies.py,Simple If statements,464,466,4,A1
+requests,cookies.py,Simple If statements,481,490,4,A1
+requests,cookies.py,Simple If statements,517,518,4,A1
+requests,cookies.py,Simple If statements,520,524,4,A1
+requests,cookies.py,Simple If statements,536,537,4,A1
+requests,cookies.py,Simple If statements,539,547,4,A1
+requests,cookies.py,Simple If statements,54,55,8,A1
+requests,cookies.py,Simple If statements,153,154,8,A1
+requests,cookies.py,Simple If statements,155,156,8,A1
+requests,cookies.py,Simple If statements,157,158,8,A1
+requests,cookies.py,Simple If statements,207,209,8,A1
+requests,cookies.py,Simple If statements,211,214,8,A1
+requests,cookies.py,Simple If statements,344,345,8,A1
+requests,cookies.py,Simple If statements,350,354,8,A1
+requests,cookies.py,Simple If statements,397,398,8,A1
+requests,cookies.py,Simple If statements,411,412,8,A1
+requests,cookies.py,Simple If statements,486,490,4,A1
+requests,cookies.py,Simple If statements,542,547,4,A1
+requests,cookies.py,Simple If statements,274,275,12,A1
+requests,cookies.py,Simple If statements,282,283,12,A1
+requests,cookies.py,Simple If statements,294,295,12,A1
+requests,cookies.py,Simple If statements,308,312,12,A1
+requests,cookies.py,Simple If statements,369,372,12,A1
+requests,cookies.py,Simple If statements,390,395,12,A1
+requests,cookies.py,Simple If statements,523,524,12,A1
+requests,cookies.py,Simple If statements,370,372,16,A1
+requests,cookies.py,Simple If statements,391,395,16,A1
+requests,cookies.py,Simple If statements,371,372,20,A1
+requests,cookies.py,Simple If statements,392,395,20,A1
+requests,cookies.py,Simple If statements,393,394,24,A1
+requests,cookies.py,Simple For Loop,152,159,4,A1
+requests,cookies.py,For Loop with Tuple as name,161,162,4,A2
+requests,cookies.py,Simple For Loop,436,437,4,A1
+requests,cookies.py,Simple For Loop,224,225,8,A1
+requests,cookies.py,Simple For Loop,241,242,8,A1
+requests,cookies.py,Simple For Loop,258,259,8,A1
+requests,cookies.py,Simple For Loop,273,275,8,A1
+requests,cookies.py,Simple For Loop,281,283,8,A1
+requests,cookies.py,Simple For Loop,293,296,8,A1
+requests,cookies.py,Simple For Loop,307,312,8,A1
+requests,cookies.py,Simple For Loop,368,372,8,A1
+requests,cookies.py,Simple For Loop,389,395,8,A1
+requests,cookies.py,Simple For Loop,522,524,8,A1
+requests,cookies.py,Simple For Loop,351,352,12,A1
+requests,cookies.py,Simple For Loop,546,547,12,A1
+requests,cookies.py,'continue' statement,154,154,12,B1
+requests,cookies.py,'continue' statement,156,156,12,B1
+requests,cookies.py,'continue' statement,158,158,12,B1
+requests,cookies.py,Exception --> try/except,19,22,0,B1
+requests,cookies.py,Exception --> try/except,196,199,8,B1
+requests,cookies.py,Exception --> try/except,316,319,8,B1
+requests,cookies.py,Exception --> try/except,482,485,8,B1
+requests,cookies.py,Exception --> try/except,543,547,8,B1
+requests,cookies.py,Function with Simple argument,118,132,0,A1
+requests,cookies.py,Function with Simple argument,135,143,0,A1
+requests,cookies.py,Function with Simple argument with Default argument,146,162,0,A2
+requests,cookies.py,Function with Simple argument,426,438,0,A1
+requests,cookies.py,Function with Simple argument with ** argument,441,474,0,B1
+requests,cookies.py,Function with Simple argument,477,505,0,A1
+requests,cookies.py,Function with Simple argument with Default argument,508,526,0,A2
+requests,cookies.py,Function with Simple argument,529,549,0,A1
+requests,cookies.py,Function with Simple argument,37,40,4,A1
+requests,cookies.py,Function with Simple argument,42,43,4,A1
+requests,cookies.py,Function with Simple argument,45,46,4,A1
+requests,cookies.py,Function with Simple argument,48,49,4,A1
+requests,cookies.py,Function with Simple argument,51,63,4,A1
+requests,cookies.py,Function with Simple argument,65,66,4,A1
+requests,cookies.py,Function with Simple argument,68,69,4,A1
+requests,cookies.py,Function with Simple argument with Default argument,71,72,4,A2
+requests,cookies.py,Function with Simple argument,74,76,4,A1
+requests,cookies.py,Function with Simple argument,78,79,4,A1
+requests,cookies.py,Function with Simple argument,81,82,4,A1
+requests,cookies.py,Function with Simple argument,85,86,4,A1
+requests,cookies.py,Function with Simple argument,89,90,4,A1
+requests,cookies.py,Function with Simple argument,93,94,4,A1
+requests,cookies.py,Function with Simple argument,104,109,4,A1
+requests,cookies.py,Function with Simple argument,111,112,4,A1
+requests,cookies.py,Function with Simple argument,114,115,4,A1
+requests,cookies.py,Function with Simple argument with Default argument,189,199,4,A2
+requests,cookies.py,Function with Simple argument with ** argument,201,216,4,B1
+requests,cookies.py,Function with Simple argument,218,225,4,A1
+requests,cookies.py,Function with Simple argument,227,233,4,A1
+requests,cookies.py,Function with Simple argument,235,242,4,A1
+requests,cookies.py,Function with Simple argument,244,250,4,A1
+requests,cookies.py,Function with Simple argument,252,259,4,A1
+requests,cookies.py,Function with Simple argument,261,268,4,A1
+requests,cookies.py,Function with Simple argument,270,276,4,A1
+requests,cookies.py,Function with Simple argument,278,284,4,A1
+requests,cookies.py,Function with Simple argument,286,297,4,A1
+requests,cookies.py,Function with Simple argument with Default argument,299,313,4,A2
+requests,cookies.py,Function with Simple argument,315,319,4,A1
+requests,cookies.py,Function with Simple argument,321,328,4,A1
+requests,cookies.py,Function with Simple argument,330,335,4,A1
+requests,cookies.py,Function with Simple argument,337,341,4,A1
+requests,cookies.py,Function with Simple argument with * argument  with ** argument,343,346,4,B1
+requests,cookies.py,Function with Simple argument,348,354,4,A1
+requests,cookies.py,Function with Simple argument with Default argument,356,374,4,A2
+requests,cookies.py,Function with Simple argument with Default argument,376,399,4,A2
+requests,cookies.py,Function with Simple argument,401,406,4,A1
+requests,cookies.py,Function with Simple argument,408,412,4,A1
+requests,cookies.py,Function with Simple argument,414,419,4,A1
+requests,cookies.py,Function with Simple argument,421,423,4,A1
+requests,cookies.py,Return,143,143,4,A1
+requests,cookies.py,Return,438,438,4,A1
+requests,cookies.py,Return,474,474,4,A1
+requests,cookies.py,Return,491,505,4,A1
+requests,cookies.py,Return,526,526,4,A1
+requests,cookies.py,Return,549,549,4,A1
+requests,cookies.py,Return,43,43,8,A1
+requests,cookies.py,Return,46,46,8,A1
+requests,cookies.py,Return,49,49,8,A1
+requests,cookies.py,Return,60,63,8,A1
+requests,cookies.py,Return,66,66,8,A1
+requests,cookies.py,Return,69,69,8,A1
+requests,cookies.py,Return,72,72,8,A1
+requests,cookies.py,Return,82,82,8,A1
+requests,cookies.py,Return,86,86,8,A1
+requests,cookies.py,Return,90,90,8,A1
+requests,cookies.py,Return,94,94,8,A1
+requests,cookies.py,Return,112,112,8,A1
+requests,cookies.py,Return,127,127,8,A1
+requests,cookies.py,Return,216,216,8,A1
+requests,cookies.py,Return,233,233,8,A1
+requests,cookies.py,Return,250,250,8,A1
+requests,cookies.py,Return,268,268,8,A1
+requests,cookies.py,Return,276,276,8,A1
+requests,cookies.py,Return,284,284,8,A1
+requests,cookies.py,Return,297,297,8,A1
+requests,cookies.py,Return,313,313,8,A1
+requests,cookies.py,Return,328,328,8,A1
+requests,cookies.py,Return,346,346,8,A1
+requests,cookies.py,Return,406,406,8,A1
+requests,cookies.py,Return,419,419,8,A1
+requests,cookies.py,Return,423,423,8,A1
+requests,cookies.py,Return,428,428,8,A1
+requests,cookies.py,Return,432,432,8,A1
+requests,cookies.py,Return,55,55,12,A1
+requests,cookies.py,Return,197,197,12,A1
+requests,cookies.py,Return,209,209,12,A1
+requests,cookies.py,Return,317,317,12,A1
+requests,cookies.py,Return,398,398,12,A1
+requests,cookies.py,Return,199,199,12,A1
+requests,cookies.py,Return,295,295,16,A1
+requests,cookies.py,Return,319,319,12,A1
+requests,cookies.py,Return,372,372,24,A1
+requests,cookies.py,Generator Function (yield),225,225,12,C1
+requests,cookies.py,Generator Function (yield),242,242,12,C1
+requests,cookies.py,Generator Function (yield),259,259,12,C1
+requests,cookies.py,Inherited Class from object,25,94,0,B1
+requests,cookies.py,Inherited Class from object,97,115,0,B1
+requests,cookies.py,Inherited Class from RuntimeError,165,168,0,B1
+requests,cookies.py,Inherited Class from MutableMapping,171,423,0,B1
